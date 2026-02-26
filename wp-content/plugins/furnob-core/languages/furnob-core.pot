@@ -1,0 +1,3291 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Furnob Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-27 10:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: KlbTheme <klbtheme@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ../furnob-core.php:203 ../furnob-core.php:347 ../furnob-core.php:370 
+#: ../furnob-core.php:394
+msgid "Furnob Core"
+msgstr ""
+
+#: ../furnob-core.php:346
+#, php-format
+msgid "%1$s requires %2$s to be installed and activated."
+msgstr ""
+
+#: ../furnob-core.php:348 ../furnob-core.php:371
+msgid "Elementor"
+msgstr ""
+
+#: ../furnob-core.php:369 ../furnob-core.php:393
+#, php-format
+msgid "%1$s requires %2$s version %3$s or greater."
+msgstr ""
+
+#: ../furnob-core.php:395
+msgid "PHP"
+msgstr ""
+
+#: ../init.php:41
+msgid "Set a Template"
+msgstr ""
+
+#: ../init.php:48
+msgid "No template exist."
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Sidebar Collapse"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/furnob-button.php:201 
+#: ../elementor/widgets/furnob-icon-box.php:35 
+#: ../elementor/widgets/furnob-icon-list.php:37 
+#: ../elementor/widgets/furnob-latest-blog.php:119
+msgid "Yes"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/furnob-button.php:202 
+#: ../elementor/widgets/furnob-icon-box.php:36 
+#: ../elementor/widgets/furnob-icon-list.php:38 
+#: ../elementor/widgets/furnob-latest-blog.php:120
+msgid "No"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Hide Header"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../inc/customizer.php:298
+msgid "Header Type"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Select a type"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/furnob-banner-box2.php:37 
+#: ../elementor/widgets/furnob-custom-title.php:37 
+#: ../elementor/widgets/furnob-home-image.php:37 
+#: ../elementor/widgets/furnob-home-slider.php:37 
+#: ../elementor/widgets/furnob-product-grid.php:38 ../inc/customizer.php:303 
+#: ../inc/customizer.php:2206
+msgid "Type 1"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/furnob-banner-box2.php:38 
+#: ../elementor/widgets/furnob-custom-title.php:38 
+#: ../elementor/widgets/furnob-home-image.php:38 
+#: ../elementor/widgets/furnob-home-slider.php:38 
+#: ../elementor/widgets/furnob-product-grid.php:39 ../inc/customizer.php:304 
+#: ../inc/customizer.php:2207
+msgid "Type 2"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../elementor/widgets/furnob-home-slider.php:39 
+#: ../elementor/widgets/furnob-product-grid.php:40 ../inc/customizer.php:305 
+#: ../inc/customizer.php:2208
+msgid "Type 3"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../inc/customizer.php:306
+msgid "Type 4"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1 
+#: ../inc/customizer.php:307
+msgid "Type 5"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Main Header Background"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Hide Footer"
+msgstr ""
+
+#: ../elementor/classes/class-customizing-page-settings.php:1
+msgid "Set Logo"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Settings"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Arrow Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1 
+#: ../elementor/widgets/furnob-banner-box2.php:36 
+#: ../elementor/widgets/furnob-custom-title.php:36 
+#: ../elementor/widgets/furnob-home-image.php:36 
+#: ../elementor/widgets/furnob-home-slider.php:36 
+#: ../elementor/widgets/furnob-product-categories.php:37 
+#: ../elementor/widgets/furnob-product-grid.php:37 ../inc/customizer.php:2364
+msgid "Select Type"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 1"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 2"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 3"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 4"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Nav Style 5"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Query"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Exclude"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1 
+#: ../elementor/widgets/furnob-latest-blog.php:47 
+#: ../elementor/widgets/furnob-product-carousel.php:117 
+#: ../elementor/widgets/furnob-product-grid.php:77
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Offset"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1 
+#: ../elementor/widgets/furnob-latest-blog.php:101 
+#: ../elementor/widgets/furnob-product-carousel.php:162 
+#: ../elementor/widgets/furnob-product-categories.php:186 
+#: ../elementor/widgets/furnob-product-grid.php:122
+msgid "Order By"
+msgstr ""
+
+#: ../elementor/classes/class-helpers-functions.php:1
+msgid "Order"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:25 
+#: ../elementor/widgets/furnob-banner-box.php:25 
+#: ../elementor/widgets/furnob-banner-box2.php:25 
+#: ../elementor/widgets/furnob-banner-box3.php:25 
+#: ../elementor/widgets/furnob-banner-carousel.php:25 
+#: ../elementor/widgets/furnob-banner-slider.php:25 
+#: ../elementor/widgets/furnob-client-carousel.php:25 
+#: ../elementor/widgets/furnob-comment-block.php:25 
+#: ../elementor/widgets/furnob-counter-box.php:25 
+#: ../elementor/widgets/furnob-counter-box2.php:25 
+#: ../elementor/widgets/furnob-custom-title.php:25 
+#: ../elementor/widgets/furnob-home-image.php:25 
+#: ../elementor/widgets/furnob-home-slider.php:25 
+#: ../elementor/widgets/furnob-icon-box.php:25 
+#: ../elementor/widgets/furnob-icon-list.php:25 
+#: ../elementor/widgets/furnob-image-block.php:25 
+#: ../elementor/widgets/furnob-image-points.php:25 
+#: ../elementor/widgets/furnob-latest-blog.php:26 
+#: ../elementor/widgets/furnob-page-banner.php:25 
+#: ../elementor/widgets/furnob-product-carousel.php:26 
+#: ../elementor/widgets/furnob-product-categories.php:26 
+#: ../elementor/widgets/furnob-product-grid.php:26 
+#: ../elementor/widgets/furnob-subscribe-box.php:25 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:25 
+#: ../elementor/widgets/furnob-testimonial.php:25
+msgid "Content"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:32 
+#: ../elementor/widgets/furnob-banner-box.php:55 
+#: ../elementor/widgets/furnob-banner-box2.php:55 
+#: ../elementor/widgets/furnob-banner-box3.php:42 
+#: ../elementor/widgets/furnob-banner-carousel.php:44 
+#: ../elementor/widgets/furnob-banner-slider.php:117 
+#: ../elementor/widgets/furnob-comment-block.php:32 
+#: ../elementor/widgets/furnob-contact-form-7.php:43 
+#: ../elementor/widgets/furnob-counter-box.php:32 
+#: ../elementor/widgets/furnob-counter-box2.php:32 
+#: ../elementor/widgets/furnob-custom-title.php:45 
+#: ../elementor/widgets/furnob-icon-box.php:68 
+#: ../elementor/widgets/furnob-image-block.php:62 
+#: ../elementor/widgets/furnob-image-points.php:42 
+#: ../elementor/widgets/furnob-image-points.php:148 
+#: ../elementor/widgets/furnob-latest-blog.php:108 
+#: ../elementor/widgets/furnob-page-banner.php:42 
+#: ../elementor/widgets/furnob-product-carousel.php:169 
+#: ../elementor/widgets/furnob-product-categories.php:193 
+#: ../elementor/widgets/furnob-product-grid.php:129 
+#: ../elementor/widgets/furnob-subscribe-box.php:55 ../inc/customizer.php:2601 
+#: ../inc/customizer.php:3133
+msgid "Title"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:41 
+#: ../elementor/widgets/furnob-banner-box.php:65 
+#: ../elementor/widgets/furnob-banner-box2.php:65 
+#: ../elementor/widgets/furnob-banner-box3.php:52 
+#: ../elementor/widgets/furnob-banner-carousel.php:54 
+#: ../elementor/widgets/furnob-banner-slider.php:127 
+#: ../elementor/widgets/furnob-contact-form-7.php:52 
+#: ../elementor/widgets/furnob-counter-box.php:42 
+#: ../elementor/widgets/furnob-custom-title.php:54 
+#: ../elementor/widgets/furnob-home-image.php:87 
+#: ../elementor/widgets/furnob-image-points.php:52 
+#: ../elementor/widgets/furnob-page-banner.php:52 
+#: ../elementor/widgets/furnob-subscribe-box.php:65 ../inc/customizer.php:3151
+msgid "Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:55 
+#: ../elementor/widgets/furnob-banner-box.php:100 
+#: ../elementor/widgets/furnob-banner-box2.php:100 
+#: ../elementor/widgets/furnob-banner-box3.php:96 
+#: ../elementor/widgets/furnob-banner-carousel.php:107 
+#: ../elementor/widgets/furnob-banner-slider.php:193 
+#: ../elementor/widgets/furnob-client-carousel.php:167 
+#: ../elementor/widgets/furnob-comment-block.php:67 
+#: ../elementor/widgets/furnob-counter-box.php:96 
+#: ../elementor/widgets/furnob-counter-box2.php:57 
+#: ../elementor/widgets/furnob-custom-title.php:68 
+#: ../elementor/widgets/furnob-home-image.php:134 
+#: ../elementor/widgets/furnob-home-slider.php:189 
+#: ../elementor/widgets/furnob-icon-box.php:91 
+#: ../elementor/widgets/furnob-image-block.php:96 
+#: ../elementor/widgets/furnob-page-banner.php:77 
+#: ../elementor/widgets/furnob-product-categories.php:206 
+#: ../elementor/widgets/furnob-subscribe-box.php:100 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:177 
+#: ../elementor/widgets/furnob-testimonial.php:77
+msgid " Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:62 
+#: ../elementor/widgets/furnob-banner-box.php:147 
+#: ../elementor/widgets/furnob-banner-box2.php:147 
+#: ../elementor/widgets/furnob-banner-box3.php:119 
+#: ../elementor/widgets/furnob-banner-carousel.php:114 
+#: ../elementor/widgets/furnob-banner-slider.php:240 
+#: ../elementor/widgets/furnob-comment-block.php:74 
+#: ../elementor/widgets/furnob-contact-form-7.php:71 
+#: ../elementor/widgets/furnob-counter-box.php:127 
+#: ../elementor/widgets/furnob-counter-box2.php:64 
+#: ../elementor/widgets/furnob-custom-title.php:99 
+#: ../elementor/widgets/furnob-home-image.php:190 
+#: ../elementor/widgets/furnob-home-slider.php:236 
+#: ../elementor/widgets/furnob-icon-box.php:154 
+#: ../elementor/widgets/furnob-image-block.php:266 
+#: ../elementor/widgets/furnob-image-points.php:262 
+#: ../elementor/widgets/furnob-image-points.php:547 
+#: ../elementor/widgets/furnob-page-banner.php:108 
+#: ../elementor/widgets/furnob-product-categories.php:293 
+#: ../elementor/widgets/furnob-subscribe-box.php:123
+msgid "TITLE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:70 
+#: ../elementor/widgets/furnob-banner-box.php:155 
+#: ../elementor/widgets/furnob-banner-box2.php:155 
+#: ../elementor/widgets/furnob-banner-box3.php:127 
+#: ../elementor/widgets/furnob-banner-carousel.php:122 
+#: ../elementor/widgets/furnob-banner-slider.php:248 
+#: ../elementor/widgets/furnob-comment-block.php:82 
+#: ../elementor/widgets/furnob-contact-form-7.php:79 
+#: ../elementor/widgets/furnob-counter-box.php:135 
+#: ../elementor/widgets/furnob-counter-box2.php:72 
+#: ../elementor/widgets/furnob-custom-title.php:107 
+#: ../elementor/widgets/furnob-home-image.php:198 
+#: ../elementor/widgets/furnob-home-slider.php:244 
+#: ../elementor/widgets/furnob-icon-box.php:162 
+#: ../elementor/widgets/furnob-image-block.php:274 
+#: ../elementor/widgets/furnob-image-points.php:270 
+#: ../elementor/widgets/furnob-image-points.php:555 
+#: ../elementor/widgets/furnob-page-banner.php:116 
+#: ../elementor/widgets/furnob-product-categories.php:301 
+#: ../elementor/widgets/furnob-subscribe-box.php:131
+msgid "Title Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:79 
+#: ../elementor/widgets/furnob-banner-box.php:164 
+#: ../elementor/widgets/furnob-banner-box2.php:164 
+#: ../elementor/widgets/furnob-comment-block.php:91 
+#: ../elementor/widgets/furnob-contact-form-7.php:88 
+#: ../elementor/widgets/furnob-counter-box.php:144 
+#: ../elementor/widgets/furnob-counter-box2.php:81 
+#: ../elementor/widgets/furnob-custom-title.php:116 
+#: ../elementor/widgets/furnob-home-image.php:207 
+#: ../elementor/widgets/furnob-home-slider.php:253 
+#: ../elementor/widgets/furnob-icon-box.php:171 
+#: ../elementor/widgets/furnob-image-block.php:283 
+#: ../elementor/widgets/furnob-image-points.php:279 
+#: ../elementor/widgets/furnob-image-points.php:564 
+#: ../elementor/widgets/furnob-page-banner.php:125 
+#: ../elementor/widgets/furnob-product-categories.php:310 
+#: ../elementor/widgets/furnob-subscribe-box.php:140
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:88 
+#: ../elementor/widgets/furnob-address-box.php:145 
+#: ../elementor/widgets/furnob-banner-box.php:173 
+#: ../elementor/widgets/furnob-banner-box.php:230 
+#: ../elementor/widgets/furnob-banner-box.php:282 
+#: ../elementor/widgets/furnob-banner-box2.php:173 
+#: ../elementor/widgets/furnob-banner-box2.php:230 
+#: ../elementor/widgets/furnob-banner-box2.php:290 
+#: ../elementor/widgets/furnob-banner-box3.php:136 
+#: ../elementor/widgets/furnob-banner-box3.php:184 
+#: ../elementor/widgets/furnob-banner-box3.php:232 
+#: ../elementor/widgets/furnob-banner-box3.php:284 
+#: ../elementor/widgets/furnob-banner-carousel.php:131 
+#: ../elementor/widgets/furnob-banner-carousel.php:179 
+#: ../elementor/widgets/furnob-banner-slider.php:257 
+#: ../elementor/widgets/furnob-banner-slider.php:305 
+#: ../elementor/widgets/furnob-banner-slider.php:357 
+#: ../elementor/widgets/furnob-comment-block.php:100 
+#: ../elementor/widgets/furnob-comment-block.php:157 
+#: ../elementor/widgets/furnob-comment-block.php:214 
+#: ../elementor/widgets/furnob-contact-form-7.php:97 
+#: ../elementor/widgets/furnob-contact-form-7.php:154 
+#: ../elementor/widgets/furnob-contact-form-7.php:242 
+#: ../elementor/widgets/furnob-contact-form-7.php:261 
+#: ../elementor/widgets/furnob-contact-form-7.php:280 
+#: ../elementor/widgets/furnob-contact-form-7.php:335 
+#: ../elementor/widgets/furnob-contact-form-7.php:354 
+#: ../elementor/widgets/furnob-counter-box.php:153 
+#: ../elementor/widgets/furnob-counter-box.php:210 
+#: ../elementor/widgets/furnob-counter-box.php:267 
+#: ../elementor/widgets/furnob-counter-box.php:345 
+#: ../elementor/widgets/furnob-counter-box2.php:90 
+#: ../elementor/widgets/furnob-custom-title.php:125 
+#: ../elementor/widgets/furnob-custom-title.php:182 
+#: ../elementor/widgets/furnob-home-image.php:216 
+#: ../elementor/widgets/furnob-home-image.php:273 
+#: ../elementor/widgets/furnob-home-image.php:330 
+#: ../elementor/widgets/furnob-home-image.php:391 
+#: ../elementor/widgets/furnob-home-slider.php:262 
+#: ../elementor/widgets/furnob-home-slider.php:319 
+#: ../elementor/widgets/furnob-home-slider.php:376 
+#: ../elementor/widgets/furnob-home-slider.php:437 
+#: ../elementor/widgets/furnob-icon-box.php:141 
+#: ../elementor/widgets/furnob-icon-box.php:180 
+#: ../elementor/widgets/furnob-icon-box.php:237 
+#: ../elementor/widgets/furnob-image-block.php:178 
+#: ../elementor/widgets/furnob-image-block.php:235 
+#: ../elementor/widgets/furnob-image-block.php:292 
+#: ../elementor/widgets/furnob-image-block.php:344 
+#: ../elementor/widgets/furnob-image-points.php:288 
+#: ../elementor/widgets/furnob-image-points.php:345 
+#: ../elementor/widgets/furnob-image-points.php:402 
+#: ../elementor/widgets/furnob-image-points.php:451 
+#: ../elementor/widgets/furnob-image-points.php:573 
+#: ../elementor/widgets/furnob-image-points.php:621 
+#: ../elementor/widgets/furnob-image-points.php:670 
+#: ../elementor/widgets/furnob-page-banner.php:134 
+#: ../elementor/widgets/furnob-page-banner.php:191 
+#: ../elementor/widgets/furnob-page-banner.php:248 
+#: ../elementor/widgets/furnob-product-categories.php:279 
+#: ../elementor/widgets/furnob-product-categories.php:319 
+#: ../elementor/widgets/furnob-product-categories.php:376 
+#: ../elementor/widgets/furnob-subscribe-box.php:149 
+#: ../elementor/widgets/furnob-subscribe-box.php:206 
+#: ../elementor/widgets/furnob-subscribe-box.php:275 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:235 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:292 
+#: ../elementor/widgets/furnob-testimonial.php:110 
+#: ../elementor/widgets/furnob-testimonial.php:167 
+#: ../elementor/widgets/furnob-testimonial.php:250
+msgid "Opacity"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:110 
+#: ../elementor/widgets/furnob-address-box.php:167 
+#: ../elementor/widgets/furnob-banner-box.php:195 
+#: ../elementor/widgets/furnob-banner-box.php:252 
+#: ../elementor/widgets/furnob-banner-box.php:274 
+#: ../elementor/widgets/furnob-banner-box2.php:195 
+#: ../elementor/widgets/furnob-banner-box2.php:252 
+#: ../elementor/widgets/furnob-banner-box2.php:314 
+#: ../elementor/widgets/furnob-banner-box3.php:158 
+#: ../elementor/widgets/furnob-banner-box3.php:206 
+#: ../elementor/widgets/furnob-banner-box3.php:254 
+#: ../elementor/widgets/furnob-banner-box3.php:276 
+#: ../elementor/widgets/furnob-banner-carousel.php:153 
+#: ../elementor/widgets/furnob-banner-carousel.php:201 
+#: ../elementor/widgets/furnob-banner-slider.php:279 
+#: ../elementor/widgets/furnob-banner-slider.php:327 
+#: ../elementor/widgets/furnob-banner-slider.php:349 
+#: ../elementor/widgets/furnob-button.php:321 
+#: ../elementor/widgets/furnob-comment-block.php:122 
+#: ../elementor/widgets/furnob-comment-block.php:179 
+#: ../elementor/widgets/furnob-comment-block.php:236 
+#: ../elementor/widgets/furnob-contact-form-7.php:119 
+#: ../elementor/widgets/furnob-contact-form-7.php:176 
+#: ../elementor/widgets/furnob-counter-box.php:175 
+#: ../elementor/widgets/furnob-counter-box.php:232 
+#: ../elementor/widgets/furnob-counter-box.php:289 
+#: ../elementor/widgets/furnob-counter-box.php:337 
+#: ../elementor/widgets/furnob-counter-box2.php:112 
+#: ../elementor/widgets/furnob-custom-title.php:147 
+#: ../elementor/widgets/furnob-custom-title.php:204 
+#: ../elementor/widgets/furnob-home-image.php:238 
+#: ../elementor/widgets/furnob-home-image.php:295 
+#: ../elementor/widgets/furnob-home-image.php:352 
+#: ../elementor/widgets/furnob-home-image.php:383 
+#: ../elementor/widgets/furnob-home-slider.php:284 
+#: ../elementor/widgets/furnob-home-slider.php:341 
+#: ../elementor/widgets/furnob-home-slider.php:398 
+#: ../elementor/widgets/furnob-home-slider.php:429 
+#: ../elementor/widgets/furnob-icon-box.php:202 
+#: ../elementor/widgets/furnob-icon-box.php:259 
+#: ../elementor/widgets/furnob-image-block.php:200 
+#: ../elementor/widgets/furnob-image-block.php:257 
+#: ../elementor/widgets/furnob-image-block.php:314 
+#: ../elementor/widgets/furnob-image-block.php:336 
+#: ../elementor/widgets/furnob-image-points.php:310 
+#: ../elementor/widgets/furnob-image-points.php:367 
+#: ../elementor/widgets/furnob-image-points.php:424 
+#: ../elementor/widgets/furnob-image-points.php:443 
+#: ../elementor/widgets/furnob-image-points.php:595 
+#: ../elementor/widgets/furnob-image-points.php:643 
+#: ../elementor/widgets/furnob-image-points.php:662 
+#: ../elementor/widgets/furnob-page-banner.php:156 
+#: ../elementor/widgets/furnob-page-banner.php:213 
+#: ../elementor/widgets/furnob-page-banner.php:270 
+#: ../elementor/widgets/furnob-product-categories.php:341 
+#: ../elementor/widgets/furnob-product-categories.php:398 
+#: ../elementor/widgets/furnob-subscribe-box.php:171 
+#: ../elementor/widgets/furnob-subscribe-box.php:228 
+#: ../elementor/widgets/furnob-subscribe-box.php:267 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:257 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:314 
+#: ../elementor/widgets/furnob-testimonial.php:132 
+#: ../elementor/widgets/furnob-testimonial.php:189 
+#: ../elementor/widgets/furnob-testimonial.php:272
+msgid "Typography"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:119 
+#: ../elementor/widgets/furnob-banner-box.php:204 
+#: ../elementor/widgets/furnob-banner-box2.php:204 
+#: ../elementor/widgets/furnob-banner-box3.php:167 
+#: ../elementor/widgets/furnob-banner-carousel.php:162 
+#: ../elementor/widgets/furnob-banner-slider.php:288 
+#: ../elementor/widgets/furnob-contact-form-7.php:128 
+#: ../elementor/widgets/furnob-counter-box.php:184 
+#: ../elementor/widgets/furnob-custom-title.php:156 
+#: ../elementor/widgets/furnob-home-image.php:247 
+#: ../elementor/widgets/furnob-home-slider.php:293 
+#: ../elementor/widgets/furnob-image-points.php:319 
+#: ../elementor/widgets/furnob-page-banner.php:165 
+#: ../elementor/widgets/furnob-subscribe-box.php:180
+msgid "SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:127 
+#: ../elementor/widgets/furnob-banner-box.php:212 
+#: ../elementor/widgets/furnob-banner-box2.php:212 
+#: ../elementor/widgets/furnob-banner-box3.php:175 
+#: ../elementor/widgets/furnob-banner-carousel.php:170 
+#: ../elementor/widgets/furnob-banner-slider.php:296 
+#: ../elementor/widgets/furnob-contact-form-7.php:136 
+#: ../elementor/widgets/furnob-counter-box.php:192 
+#: ../elementor/widgets/furnob-custom-title.php:164 
+#: ../elementor/widgets/furnob-home-image.php:255 
+#: ../elementor/widgets/furnob-home-slider.php:301 
+#: ../elementor/widgets/furnob-image-points.php:327 
+#: ../elementor/widgets/furnob-page-banner.php:173 
+#: ../elementor/widgets/furnob-subscribe-box.php:188
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-address-box.php:136 
+#: ../elementor/widgets/furnob-banner-box.php:221 
+#: ../elementor/widgets/furnob-banner-box2.php:221 
+#: ../elementor/widgets/furnob-contact-form-7.php:145 
+#: ../elementor/widgets/furnob-counter-box.php:201 
+#: ../elementor/widgets/furnob-custom-title.php:173 
+#: ../elementor/widgets/furnob-home-image.php:264 
+#: ../elementor/widgets/furnob-home-slider.php:310 
+#: ../elementor/widgets/furnob-image-points.php:336 
+#: ../elementor/widgets/furnob-page-banner.php:182 
+#: ../elementor/widgets/furnob-subscribe-box.php:197
+msgid "Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:32 
+#: ../elementor/widgets/furnob-banner-box.php:36 
+#: ../elementor/widgets/furnob-banner-box2.php:32 
+#: ../elementor/widgets/furnob-subscribe-box.php:32 
+#: ../elementor/widgets/furnob-subscribe-box.php:36
+msgid "Banner Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:37 
+#: ../elementor/widgets/furnob-subscribe-box.php:37
+msgid "Type1"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:38 
+#: ../elementor/widgets/furnob-subscribe-box.php:38
+msgid "Type2"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:47 
+#: ../elementor/widgets/furnob-banner-box2.php:47 
+#: ../elementor/widgets/furnob-banner-box3.php:34 
+#: ../elementor/widgets/furnob-banner-carousel.php:36 
+#: ../elementor/widgets/furnob-banner-slider.php:109 
+#: ../elementor/widgets/furnob-button.php:88 
+#: ../elementor/widgets/furnob-client-carousel.php:111 
+#: ../elementor/widgets/furnob-home-image.php:49 
+#: ../elementor/widgets/furnob-home-slider.php:93 
+#: ../elementor/widgets/furnob-image-block.php:34 
+#: ../elementor/widgets/furnob-image-points.php:34 
+#: ../elementor/widgets/furnob-image-points.php:188 
+#: ../elementor/widgets/furnob-page-banner.php:34 
+#: ../elementor/widgets/furnob-product-categories.php:38 
+#: ../elementor/widgets/furnob-subscribe-box.php:47 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:109 
+#: ../inc/customizer.php:2630 ../inc/customizer.php:2667
+msgid "Image"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:76 
+#: ../elementor/widgets/furnob-banner-box3.php:72 
+#: ../elementor/widgets/furnob-banner-slider.php:137 
+#: ../elementor/widgets/furnob-counter-box.php:72 
+#: ../elementor/widgets/furnob-home-image.php:110 
+#: ../elementor/widgets/furnob-home-slider.php:130 
+#: ../elementor/widgets/furnob-image-block.php:72 
+#: ../elementor/widgets/furnob-image-points.php:73 
+#: ../elementor/widgets/furnob-image-points.php:169 
+#: ../elementor/widgets/furnob-subscribe-box.php:76
+msgid "Button Title"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:80 
+#: ../elementor/widgets/furnob-banner-box3.php:76 
+#: ../elementor/widgets/furnob-banner-slider.php:141 
+#: ../elementor/widgets/furnob-counter-box.php:76 
+#: ../elementor/widgets/furnob-home-image.php:114 
+#: ../elementor/widgets/furnob-home-slider.php:134 
+#: ../elementor/widgets/furnob-image-block.php:76 
+#: ../elementor/widgets/furnob-image-points.php:77 
+#: ../elementor/widgets/furnob-image-points.php:173 
+#: ../elementor/widgets/furnob-subscribe-box.php:80
+msgid "Enter button title here"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:86 
+#: ../elementor/widgets/furnob-banner-box2.php:86 
+#: ../elementor/widgets/furnob-banner-box3.php:82 
+#: ../elementor/widgets/furnob-banner-carousel.php:64 
+#: ../elementor/widgets/furnob-banner-slider.php:147 
+#: ../elementor/widgets/furnob-button.php:75 
+#: ../elementor/widgets/furnob-counter-box.php:82 
+#: ../elementor/widgets/furnob-home-image.php:120 
+#: ../elementor/widgets/furnob-home-slider.php:139 
+#: ../elementor/widgets/furnob-icon-list.php:70 
+#: ../elementor/widgets/furnob-image-block.php:82 
+#: ../elementor/widgets/furnob-image-points.php:83 
+#: ../elementor/widgets/furnob-image-points.php:179 
+#: ../elementor/widgets/furnob-subscribe-box.php:86
+msgid "Button Link"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:89 
+#: ../elementor/widgets/furnob-banner-box2.php:89 
+#: ../elementor/widgets/furnob-banner-box3.php:85 
+#: ../elementor/widgets/furnob-banner-carousel.php:67 
+#: ../elementor/widgets/furnob-banner-slider.php:150 
+#: ../elementor/widgets/furnob-client-carousel.php:121 
+#: ../elementor/widgets/furnob-counter-box.php:85 
+#: ../elementor/widgets/furnob-home-image.php:123 
+#: ../elementor/widgets/furnob-home-slider.php:142 
+#: ../elementor/widgets/furnob-icon-list.php:73 
+#: ../elementor/widgets/furnob-image-block.php:85 
+#: ../elementor/widgets/furnob-image-points.php:86 
+#: ../elementor/widgets/furnob-image-points.php:182 
+#: ../elementor/widgets/furnob-subscribe-box.php:89
+msgid "Place URL here"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:107 
+#: ../elementor/widgets/furnob-banner-box2.php:107 
+#: ../elementor/widgets/furnob-banner-slider.php:200 
+#: ../elementor/widgets/furnob-button.php:168 
+#: ../elementor/widgets/furnob-contact-form-7.php:185 
+#: ../elementor/widgets/furnob-counter-box.php:103 
+#: ../elementor/widgets/furnob-custom-title.php:76 
+#: ../elementor/widgets/furnob-home-image.php:150 
+#: ../elementor/widgets/furnob-home-slider.php:196 
+#: ../elementor/widgets/furnob-image-block.php:103 
+#: ../elementor/widgets/furnob-image-points.php:222 
+#: ../elementor/widgets/furnob-page-banner.php:84
+msgid "Alignment"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:112 
+#: ../elementor/widgets/furnob-banner-box2.php:112 
+#: ../elementor/widgets/furnob-banner-slider.php:205 
+#: ../elementor/widgets/furnob-button.php:173 
+#: ../elementor/widgets/furnob-button.php:280 
+#: ../elementor/widgets/furnob-contact-form-7.php:190 
+#: ../elementor/widgets/furnob-counter-box.php:108 
+#: ../elementor/widgets/furnob-custom-title.php:80 
+#: ../elementor/widgets/furnob-home-image.php:155 
+#: ../elementor/widgets/furnob-home-slider.php:201 
+#: ../elementor/widgets/furnob-image-block.php:108 
+#: ../elementor/widgets/furnob-image-points.php:227 
+#: ../elementor/widgets/furnob-page-banner.php:89
+msgid "Left"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:116 
+#: ../elementor/widgets/furnob-banner-box2.php:116 
+#: ../elementor/widgets/furnob-banner-slider.php:209 
+#: ../elementor/widgets/furnob-button.php:177 
+#: ../elementor/widgets/furnob-contact-form-7.php:194 
+#: ../elementor/widgets/furnob-counter-box.php:112 
+#: ../elementor/widgets/furnob-custom-title.php:84 
+#: ../elementor/widgets/furnob-home-image.php:159 
+#: ../elementor/widgets/furnob-home-slider.php:205 
+#: ../elementor/widgets/furnob-image-block.php:112 
+#: ../elementor/widgets/furnob-image-points.php:231 
+#: ../elementor/widgets/furnob-page-banner.php:93
+msgid "Center"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:120 
+#: ../elementor/widgets/furnob-banner-box2.php:120 
+#: ../elementor/widgets/furnob-banner-slider.php:213 
+#: ../elementor/widgets/furnob-button.php:181 
+#: ../elementor/widgets/furnob-button.php:278 
+#: ../elementor/widgets/furnob-contact-form-7.php:198 
+#: ../elementor/widgets/furnob-counter-box.php:116 
+#: ../elementor/widgets/furnob-custom-title.php:88 
+#: ../elementor/widgets/furnob-home-image.php:163 
+#: ../elementor/widgets/furnob-home-slider.php:209 
+#: ../elementor/widgets/furnob-image-block.php:116 
+#: ../elementor/widgets/furnob-image-points.php:235 
+#: ../elementor/widgets/furnob-page-banner.php:97
+msgid "Right"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:131 
+#: ../elementor/widgets/furnob-banner-box2.php:131 
+#: ../elementor/widgets/furnob-banner-box3.php:103 
+#: ../elementor/widgets/furnob-banner-slider.php:224 
+#: ../elementor/widgets/furnob-client-carousel.php:174 
+#: ../elementor/widgets/furnob-home-image.php:174 
+#: ../elementor/widgets/furnob-home-slider.php:220 
+#: ../elementor/widgets/furnob-image-block.php:127 
+#: ../elementor/widgets/furnob-image-points.php:246 
+#: ../elementor/widgets/furnob-product-categories.php:213 
+#: ../elementor/widgets/furnob-subscribe-box.php:107 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:193
+msgid "IMAGE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:265 
+#: ../elementor/widgets/furnob-banner-box3.php:267 
+#: ../elementor/widgets/furnob-banner-slider.php:340 
+#: ../elementor/widgets/furnob-counter-box.php:328 
+#: ../elementor/widgets/furnob-home-image.php:365 
+#: ../elementor/widgets/furnob-home-slider.php:411 
+#: ../elementor/widgets/furnob-image-block.php:327 
+#: ../elementor/widgets/furnob-subscribe-box.php:258
+msgid " Button Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:294 
+#: ../elementor/widgets/furnob-banner-box3.php:296 
+#: ../elementor/widgets/furnob-banner-slider.php:369 
+#: ../elementor/widgets/furnob-button.php:311 
+#: ../elementor/widgets/furnob-button.php:382 
+#: ../elementor/widgets/furnob-counter-box.php:357 
+#: ../elementor/widgets/furnob-home-image.php:408 
+#: ../elementor/widgets/furnob-home-image.php:451 
+#: ../elementor/widgets/furnob-home-slider.php:454 
+#: ../elementor/widgets/furnob-home-slider.php:497 
+#: ../elementor/widgets/furnob-image-block.php:356 
+#: ../elementor/widgets/furnob-image-points.php:463 
+#: ../elementor/widgets/furnob-image-points.php:529 
+#: ../elementor/widgets/furnob-image-points.php:682 
+#: ../elementor/widgets/furnob-subscribe-box.php:287
+msgid "Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:305 
+#: ../elementor/widgets/furnob-banner-box3.php:307 
+#: ../elementor/widgets/furnob-banner-slider.php:380 
+#: ../elementor/widgets/furnob-button.php:345 
+#: ../elementor/widgets/furnob-button.php:392 
+#: ../elementor/widgets/furnob-client-carousel.php:192 
+#: ../elementor/widgets/furnob-counter-box.php:368 
+#: ../elementor/widgets/furnob-home-image.php:419 
+#: ../elementor/widgets/furnob-home-image.php:462 
+#: ../elementor/widgets/furnob-home-slider.php:465 
+#: ../elementor/widgets/furnob-home-slider.php:508 
+#: ../elementor/widgets/furnob-image-block.php:367 
+#: ../elementor/widgets/furnob-image-points.php:474 
+#: ../elementor/widgets/furnob-image-points.php:693 
+#: ../elementor/widgets/furnob-subscribe-box.php:298
+msgid "Border"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:312 
+#: ../elementor/widgets/furnob-banner-box3.php:314 
+#: ../elementor/widgets/furnob-banner-slider.php:387 
+#: ../elementor/widgets/furnob-button.php:352 
+#: ../elementor/widgets/furnob-client-carousel.php:199 
+#: ../elementor/widgets/furnob-counter-box.php:375 
+#: ../elementor/widgets/furnob-home-image.php:426 
+#: ../elementor/widgets/furnob-home-image.php:469 
+#: ../elementor/widgets/furnob-home-slider.php:472 
+#: ../elementor/widgets/furnob-home-slider.php:515 
+#: ../elementor/widgets/furnob-image-block.php:374 
+#: ../elementor/widgets/furnob-image-points.php:481 
+#: ../elementor/widgets/furnob-image-points.php:700 
+#: ../elementor/widgets/furnob-subscribe-box.php:305
+msgid "Border Radius"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:321 
+#: ../elementor/widgets/furnob-banner-box3.php:323 
+#: ../elementor/widgets/furnob-banner-slider.php:396 
+#: ../elementor/widgets/furnob-button.php:328 
+#: ../elementor/widgets/furnob-client-carousel.php:208 
+#: ../elementor/widgets/furnob-counter-box.php:384 
+#: ../elementor/widgets/furnob-home-image.php:372 
+#: ../elementor/widgets/furnob-home-slider.php:418 
+#: ../elementor/widgets/furnob-image-block.php:383 
+#: ../elementor/widgets/furnob-image-points.php:490 
+#: ../elementor/widgets/furnob-image-points.php:709 
+#: ../elementor/widgets/furnob-subscribe-box.php:314
+msgid "Padding"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box.php:332 
+#: ../elementor/widgets/furnob-banner-box3.php:334 
+#: ../elementor/widgets/furnob-banner-slider.php:407 
+#: ../elementor/widgets/furnob-button.php:369 
+#: ../elementor/widgets/furnob-button.php:401 
+#: ../elementor/widgets/furnob-counter-box.php:395 
+#: ../elementor/widgets/furnob-home-image.php:437 
+#: ../elementor/widgets/furnob-home-image.php:480 
+#: ../elementor/widgets/furnob-home-slider.php:483 
+#: ../elementor/widgets/furnob-home-slider.php:526 
+#: ../elementor/widgets/furnob-image-block.php:394 
+#: ../elementor/widgets/furnob-image-points.php:501 
+#: ../elementor/widgets/furnob-image-points.php:720 
+#: ../elementor/widgets/furnob-subscribe-box.php:325
+msgid "Background"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box2.php:75 
+#: ../elementor/widgets/furnob-banner-box3.php:62 
+#: ../elementor/widgets/furnob-comment-block.php:42 
+#: ../elementor/widgets/furnob-counter-box.php:52 
+#: ../elementor/widgets/furnob-home-image.php:97 
+#: ../elementor/widgets/furnob-icon-box.php:77 
+#: ../elementor/widgets/furnob-image-points.php:62 
+#: ../elementor/widgets/furnob-image-points.php:158 
+#: ../elementor/widgets/furnob-page-banner.php:62 ../inc/customizer.php:3169
+msgid "Description"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box2.php:261 
+#: ../elementor/widgets/furnob-banner-box3.php:215 
+#: ../elementor/widgets/furnob-comment-block.php:131 
+#: ../elementor/widgets/furnob-counter-box.php:241 
+#: ../elementor/widgets/furnob-home-image.php:304 
+#: ../elementor/widgets/furnob-icon-box.php:211 
+#: ../elementor/widgets/furnob-image-points.php:376 
+#: ../elementor/widgets/furnob-image-points.php:604 
+#: ../elementor/widgets/furnob-page-banner.php:222
+msgid "DESCRIPTION"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box2.php:270 
+#: ../elementor/widgets/furnob-banner-box3.php:223 
+#: ../elementor/widgets/furnob-comment-block.php:139 
+#: ../elementor/widgets/furnob-counter-box.php:249 
+#: ../elementor/widgets/furnob-home-image.php:312 
+#: ../elementor/widgets/furnob-icon-box.php:219 
+#: ../elementor/widgets/furnob-image-points.php:384 
+#: ../elementor/widgets/furnob-image-points.php:612 
+#: ../elementor/widgets/furnob-page-banner.php:230
+msgid "Description Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-box2.php:280 
+#: ../elementor/widgets/furnob-comment-block.php:148 
+#: ../elementor/widgets/furnob-counter-box.php:258 
+#: ../elementor/widgets/furnob-home-image.php:321 
+#: ../elementor/widgets/furnob-icon-box.php:228 
+#: ../elementor/widgets/furnob-image-points.php:393 
+#: ../elementor/widgets/furnob-page-banner.php:239
+msgid "Description Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-carousel.php:73
+msgid "Banners"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:32 
+#: ../elementor/widgets/furnob-client-carousel.php:32 
+#: ../elementor/widgets/furnob-latest-blog.php:33 
+#: ../elementor/widgets/furnob-product-carousel.php:33 
+#: ../elementor/widgets/furnob-product-categories.php:85 
+#: ../elementor/widgets/furnob-product-grid.php:47 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:32
+msgid "Column"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:36 
+#: ../elementor/widgets/furnob-banner-slider.php:52 
+#: ../elementor/widgets/furnob-client-carousel.php:36 
+#: ../elementor/widgets/furnob-client-carousel.php:54 
+#: ../elementor/widgets/furnob-latest-blog.php:37 
+#: ../elementor/widgets/furnob-product-carousel.php:37 
+#: ../elementor/widgets/furnob-product-carousel.php:53 
+#: ../elementor/widgets/furnob-product-categories.php:89 
+#: ../elementor/widgets/furnob-product-categories.php:109 
+#: ../elementor/widgets/furnob-product-grid.php:51 
+#: ../elementor/widgets/furnob-product-grid.php:67 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:36 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:52
+msgid "Select Column"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:37 
+#: ../elementor/widgets/furnob-banner-slider.php:54 
+#: ../elementor/widgets/furnob-client-carousel.php:37 
+#: ../elementor/widgets/furnob-client-carousel.php:56 
+#: ../elementor/widgets/furnob-latest-blog.php:38 
+#: ../elementor/widgets/furnob-product-carousel.php:38 
+#: ../elementor/widgets/furnob-product-carousel.php:55 
+#: ../elementor/widgets/furnob-product-categories.php:90 
+#: ../elementor/widgets/furnob-product-categories.php:111 
+#: ../elementor/widgets/furnob-product-grid.php:52 
+#: ../elementor/widgets/furnob-product-grid.php:69 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:37 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:54 
+#: ../inc/customizer.php:2546 ../inc/customizer.php:2565
+msgid "2 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:38 
+#: ../elementor/widgets/furnob-banner-slider.php:55 
+#: ../elementor/widgets/furnob-client-carousel.php:38 
+#: ../elementor/widgets/furnob-client-carousel.php:57 
+#: ../elementor/widgets/furnob-latest-blog.php:39 
+#: ../elementor/widgets/furnob-product-carousel.php:39 
+#: ../elementor/widgets/furnob-product-categories.php:91 
+#: ../elementor/widgets/furnob-product-categories.php:112 
+#: ../elementor/widgets/furnob-product-grid.php:53 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:38 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:55 
+#: ../inc/customizer.php:2545 ../inc/customizer.php:2564 
+#: ../inc/customizer.php:3364
+msgid "3 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:39 
+#: ../elementor/widgets/furnob-client-carousel.php:39 
+#: ../elementor/widgets/furnob-latest-blog.php:40 
+#: ../elementor/widgets/furnob-product-carousel.php:40 
+#: ../elementor/widgets/furnob-product-categories.php:92 
+#: ../elementor/widgets/furnob-product-categories.php:113 
+#: ../elementor/widgets/furnob-product-grid.php:54 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:39 
+#: ../inc/customizer.php:2544 ../inc/customizer.php:2563 
+#: ../inc/customizer.php:3363
+msgid "4 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:40 
+#: ../elementor/widgets/furnob-client-carousel.php:40 
+#: ../elementor/widgets/furnob-product-carousel.php:41 
+#: ../elementor/widgets/furnob-product-categories.php:93 
+#: ../elementor/widgets/furnob-product-grid.php:55 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:40 
+#: ../inc/customizer.php:2543 ../inc/customizer.php:2562 
+#: ../inc/customizer.php:3362
+msgid "5 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:41 
+#: ../elementor/widgets/furnob-client-carousel.php:41 
+#: ../elementor/widgets/furnob-product-carousel.php:42 
+#: ../elementor/widgets/furnob-product-categories.php:94 
+#: ../elementor/widgets/furnob-product-grid.php:56 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:41 
+#: ../inc/customizer.php:2542 ../inc/customizer.php:2561
+msgid "6 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:48 
+#: ../elementor/widgets/furnob-client-carousel.php:50 
+#: ../elementor/widgets/furnob-product-carousel.php:49 
+#: ../elementor/widgets/furnob-product-categories.php:105 
+#: ../elementor/widgets/furnob-product-grid.php:63 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:48
+msgid "Mobile Column"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:53 
+#: ../elementor/widgets/furnob-client-carousel.php:55 
+#: ../elementor/widgets/furnob-product-carousel.php:54 
+#: ../elementor/widgets/furnob-product-grid.php:68 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:53
+msgid "1 Column"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:62 
+#: ../elementor/widgets/furnob-client-carousel.php:64 
+#: ../elementor/widgets/furnob-home-slider.php:46 
+#: ../elementor/widgets/furnob-product-carousel.php:62 
+#: ../elementor/widgets/furnob-product-categories.php:120 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:62
+msgid "Auto Play"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:64 
+#: ../elementor/widgets/furnob-banner-slider.php:86 
+#: ../elementor/widgets/furnob-banner-slider.php:97 
+#: ../elementor/widgets/furnob-client-carousel.php:66 
+#: ../elementor/widgets/furnob-client-carousel.php:88 
+#: ../elementor/widgets/furnob-client-carousel.php:99 
+#: ../elementor/widgets/furnob-home-slider.php:48 
+#: ../elementor/widgets/furnob-home-slider.php:70 
+#: ../elementor/widgets/furnob-home-slider.php:81 
+#: ../elementor/widgets/furnob-product-carousel.php:64 
+#: ../elementor/widgets/furnob-product-carousel.php:86 
+#: ../elementor/widgets/furnob-product-carousel.php:97 
+#: ../elementor/widgets/furnob-product-carousel.php:179 
+#: ../elementor/widgets/furnob-product-carousel.php:190 
+#: ../elementor/widgets/furnob-product-carousel.php:201 
+#: ../elementor/widgets/furnob-product-carousel.php:212 
+#: ../elementor/widgets/furnob-product-categories.php:122 
+#: ../elementor/widgets/furnob-product-categories.php:144 
+#: ../elementor/widgets/furnob-product-categories.php:155 
+#: ../elementor/widgets/furnob-product-grid.php:139 
+#: ../elementor/widgets/furnob-product-grid.php:150 
+#: ../elementor/widgets/furnob-product-grid.php:161 
+#: ../elementor/widgets/furnob-product-grid.php:172 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:64 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:86 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:97
+msgid "True"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:65 
+#: ../elementor/widgets/furnob-banner-slider.php:87 
+#: ../elementor/widgets/furnob-banner-slider.php:98 
+#: ../elementor/widgets/furnob-client-carousel.php:67 
+#: ../elementor/widgets/furnob-client-carousel.php:89 
+#: ../elementor/widgets/furnob-client-carousel.php:100 
+#: ../elementor/widgets/furnob-home-slider.php:49 
+#: ../elementor/widgets/furnob-home-slider.php:71 
+#: ../elementor/widgets/furnob-home-slider.php:82 
+#: ../elementor/widgets/furnob-product-carousel.php:65 
+#: ../elementor/widgets/furnob-product-carousel.php:87 
+#: ../elementor/widgets/furnob-product-carousel.php:98 
+#: ../elementor/widgets/furnob-product-carousel.php:180 
+#: ../elementor/widgets/furnob-product-carousel.php:191 
+#: ../elementor/widgets/furnob-product-carousel.php:202 
+#: ../elementor/widgets/furnob-product-carousel.php:213 
+#: ../elementor/widgets/furnob-product-categories.php:123 
+#: ../elementor/widgets/furnob-product-categories.php:145 
+#: ../elementor/widgets/furnob-product-categories.php:156 
+#: ../elementor/widgets/furnob-product-grid.php:140 
+#: ../elementor/widgets/furnob-product-grid.php:151 
+#: ../elementor/widgets/furnob-product-grid.php:162 
+#: ../elementor/widgets/furnob-product-grid.php:173 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:65 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:87 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:98
+msgid "False"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:73 
+#: ../elementor/widgets/furnob-client-carousel.php:75 
+#: ../elementor/widgets/furnob-home-slider.php:57 
+#: ../elementor/widgets/furnob-product-carousel.php:73 
+#: ../elementor/widgets/furnob-product-categories.php:131 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:73
+msgid "Auto Speed"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:77 
+#: ../elementor/widgets/furnob-client-carousel.php:79 
+#: ../elementor/widgets/furnob-home-slider.php:61 
+#: ../elementor/widgets/furnob-product-carousel.php:77 
+#: ../elementor/widgets/furnob-product-categories.php:135 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:77
+msgid "Set auto speed."
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:84 
+#: ../elementor/widgets/furnob-client-carousel.php:86 
+#: ../elementor/widgets/furnob-home-slider.php:68 
+#: ../elementor/widgets/furnob-product-carousel.php:95 
+#: ../elementor/widgets/furnob-product-categories.php:142 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:84
+msgid "Dots"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:95 
+#: ../elementor/widgets/furnob-client-carousel.php:97 
+#: ../elementor/widgets/furnob-home-slider.php:79 
+#: ../elementor/widgets/furnob-product-carousel.php:84 
+#: ../elementor/widgets/furnob-product-categories.php:153 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:95
+msgid "Arrows"
+msgstr ""
+
+#: ../elementor/widgets/furnob-banner-slider.php:156
+msgid "Banner Items"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:33
+msgid "Button"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:39
+msgid "Action Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:43
+msgid "Link"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:44
+msgid "Single Image"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:45
+msgid "Youtube"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:46
+msgid "Vimeo"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:47
+msgid "Google Map"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:48
+msgid "HTML5 Video"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:49 
+#: ../elementor/widgets/furnob-button.php:142
+msgid "Modal Content"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:55
+msgid "Link Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:59
+msgid "External"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:60
+msgid "Internal"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:67 
+#: ../elementor/widgets/furnob-button.php:70 
+#: ../elementor/widgets/furnob-button.php:290 ../inc/customizer.php:646
+msgid "Button Text"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:96
+msgid "Lightbox Title"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:105
+msgid "Youtube Video URL"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:114
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:123
+msgid "Iframe Map URL"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:132
+msgid "HTML5 Video URL"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:136
+msgid "Add your local video here"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:146
+msgid "Add html content here"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:152
+msgid "Modal Content Width"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:191
+msgid "Use Icon"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:199 
+#: ../elementor/widgets/furnob-icon-box.php:33 
+#: ../elementor/widgets/furnob-icon-list.php:35
+msgid "Use Custom Icon"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:209
+msgid "Button Icon"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:220 
+#: ../elementor/widgets/furnob-icon-box.php:58 
+#: ../elementor/widgets/furnob-icon-list.php:60
+msgid "Custom Icon"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:229
+msgid "Icon Position"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:233
+msgid "Before"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:234
+msgid "After"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:241
+msgid "Icon Spacing"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:257
+msgid "Full width"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:265
+msgid "Tooltips"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:273
+msgid "Tooltip Position"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:277
+msgid "Top"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:279
+msgid "Bottom"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:287
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:300
+msgid "Button Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:306 
+#: ../elementor/widgets/furnob-contact-form-7.php:236 
+#: ../elementor/widgets/furnob-contact-form-7.php:329 
+#: ../elementor/widgets/furnob-home-image.php:403 
+#: ../elementor/widgets/furnob-home-slider.php:449
+msgid "Normal"
+msgstr ""
+
+#: ../elementor/widgets/furnob-button.php:378 
+#: ../elementor/widgets/furnob-contact-form-7.php:255 
+#: ../elementor/widgets/furnob-contact-form-7.php:348 
+#: ../elementor/widgets/furnob-home-image.php:446 
+#: ../elementor/widgets/furnob-home-slider.php:492
+msgid "Hover"
+msgstr ""
+
+#: ../elementor/widgets/furnob-client-carousel.php:42 
+#: ../elementor/widgets/furnob-product-categories.php:95 
+#: ../inc/customizer.php:2541
+msgid "7 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-client-carousel.php:43 
+#: ../elementor/widgets/furnob-product-categories.php:96 
+#: ../inc/customizer.php:2540
+msgid "8 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-client-carousel.php:118
+msgid "Image Link"
+msgstr ""
+
+#: ../elementor/widgets/furnob-client-carousel.php:127 
+#: ../elementor/widgets/furnob-icon-list.php:79
+msgid "Icon Items"
+msgstr ""
+
+#: ../elementor/widgets/furnob-comment-block.php:52 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:116 
+#: ../elementor/widgets/furnob-testimonial.php:32
+msgid "Name"
+msgstr ""
+
+#: ../elementor/widgets/furnob-comment-block.php:188 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:209 
+#: ../elementor/widgets/furnob-testimonial.php:84
+msgid "NAME"
+msgstr ""
+
+#: ../elementor/widgets/furnob-comment-block.php:196 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:217 
+#: ../elementor/widgets/furnob-testimonial.php:92
+msgid "Name Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-comment-block.php:205 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:226 
+#: ../elementor/widgets/furnob-testimonial.php:101
+msgid "Name Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:25
+msgid "Form Data"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:32
+msgid "Select Form"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:46 
+#: ../elementor/widgets/furnob-custom-title.php:48
+msgid "Set a title."
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:55
+msgid "Set a text."
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:64
+msgid "Form Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:210 
+#: ../elementor/widgets/furnob-contact-form-7.php:303
+msgid "Form Max Width"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:223 
+#: ../elementor/widgets/furnob-contact-form-7.php:316
+msgid "Input Height"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:274
+msgid "Focus"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:297
+msgid "Form Button Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-contact-form-7.php:384
+msgid "Please Select a Form"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:63 
+#: ../elementor/widgets/furnob-counter-box2.php:43
+msgid "Due Date"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:298 
+#: ../elementor/widgets/furnob-counter-box2.php:121
+msgid "DATE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:306 
+#: ../elementor/widgets/furnob-counter-box2.php:129
+msgid "Dua Date Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:315 
+#: ../elementor/widgets/furnob-counter-box2.php:138
+msgid "Dua Date Second Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:425 
+#: ../elementor/widgets/furnob-counter-box2.php:157
+msgid "Expired"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:428 
+#: ../elementor/widgets/furnob-counter-box2.php:160
+msgid "d"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:433 
+#: ../elementor/widgets/furnob-counter-box2.php:165
+msgid "h"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:438 
+#: ../elementor/widgets/furnob-counter-box2.php:170
+msgid "m"
+msgstr ""
+
+#: ../elementor/widgets/furnob-counter-box.php:443 
+#: ../elementor/widgets/furnob-counter-box2.php:175
+msgid "s"
+msgstr ""
+
+#: ../elementor/widgets/furnob-custom-title.php:32
+msgid "Title Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-custom-title.php:57
+msgid "Set a subtitle."
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-image.php:32
+msgid "Image Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-image.php:57
+msgid "Title First"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-image.php:67
+msgid "Title Image"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-image.php:76
+msgid "Title Second"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-image.php:141 
+#: ../elementor/widgets/furnob-testimonial-carousel.php:184
+msgid "Background Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:32
+msgid "Slider Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:100
+msgid "Item Title"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:104
+msgid "Enter item title here."
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:110
+msgid "Item Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:114 
+#: ../elementor/widgets/furnob-home-slider.php:124
+msgid "Enter item subtitle here."
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:120
+msgid "Item Second Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:148
+msgid "Slide Items"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:350
+msgid "SECOND SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:358
+msgid "Second Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-home-slider.php:367
+msgid "Second Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:45 
+#: ../elementor/widgets/furnob-icon-list.php:47 
+#: ../elementor/widgets/furnob-product-categories.php:39 
+#: ../inc/customizer.php:2377 ../inc/customizer.php:3327
+msgid "Icon"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:71
+msgid "Enter title here"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:79
+msgid "Enter desc here"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:98 
+#: ../elementor/widgets/furnob-product-categories.php:231
+msgid "ICON"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:105 
+#: ../elementor/widgets/furnob-product-categories.php:239
+msgid "Icon Size"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:115 
+#: ../elementor/widgets/furnob-product-categories.php:250
+msgid "Icon Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-icon-box.php:124 
+#: ../elementor/widgets/furnob-product-categories.php:260
+msgid "Icon Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:42
+msgid "Image Title"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:52
+msgid "Image Subtitle"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:143
+msgid "IMAGE TITLE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:151 
+#: ../elementor/widgets/furnob-image-points.php:538
+msgid "Content Background Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:160
+msgid "Image Title Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:169
+msgid "Image Title Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:209
+msgid "IMAGE SUBTITLE"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:217
+msgid "Image Subtitle Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-block.php:226
+msgid "Image Subtitle Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:95
+msgid "Point Position Left"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:122
+msgid "Point Position Top"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:195
+msgid "Points"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:215
+msgid " Content Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:433 
+#: ../elementor/widgets/furnob-image-points.php:652
+msgid "BUTTON"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:513
+msgid " Points Style"
+msgstr ""
+
+#: ../elementor/widgets/furnob-image-points.php:520
+msgid "Circle Background Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:57
+msgid "Excerpt Size"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:67
+msgid "Category"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:78
+msgid "Specific Post(s)"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:89 
+#: ../elementor/widgets/furnob-product-carousel.php:150 
+#: ../elementor/widgets/furnob-product-categories.php:174 
+#: ../elementor/widgets/furnob-product-grid.php:110
+msgid "Select Order"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:92 
+#: ../elementor/widgets/furnob-product-carousel.php:153 
+#: ../elementor/widgets/furnob-product-categories.php:177 
+#: ../elementor/widgets/furnob-product-grid.php:113
+msgid "Ascending"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:93 
+#: ../elementor/widgets/furnob-product-carousel.php:154 
+#: ../elementor/widgets/furnob-product-categories.php:178 
+#: ../elementor/widgets/furnob-product-grid.php:114
+msgid "Descending"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:104 
+#: ../elementor/widgets/furnob-product-carousel.php:165 
+#: ../elementor/widgets/furnob-product-categories.php:189 
+#: ../elementor/widgets/furnob-product-grid.php:125
+msgid "Post ID"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:105 
+#: ../elementor/widgets/furnob-product-carousel.php:166 
+#: ../elementor/widgets/furnob-product-categories.php:190 
+#: ../elementor/widgets/furnob-product-grid.php:126
+msgid "Menu Order"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:106 
+#: ../elementor/widgets/furnob-product-carousel.php:167 
+#: ../elementor/widgets/furnob-product-categories.php:191 
+#: ../elementor/widgets/furnob-product-grid.php:127
+msgid "Random"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:107 
+#: ../elementor/widgets/furnob-product-carousel.php:168 
+#: ../elementor/widgets/furnob-product-categories.php:192 
+#: ../elementor/widgets/furnob-product-grid.php:128
+msgid "Date"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:117
+msgid "Disable Pagination"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:128
+msgid "Image Width"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:132
+msgid "Set the product image width."
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:138
+msgid "Image Height"
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:142
+msgid "Set the product image height."
+msgstr ""
+
+#: ../elementor/widgets/furnob-latest-blog.php:217
+msgid "Read More"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:106 
+#: ../elementor/widgets/furnob-product-categories.php:164
+msgid "Slide Speed"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:110 
+#: ../elementor/widgets/furnob-product-categories.php:168
+msgid "Set slide speed."
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:127 
+#: ../elementor/widgets/furnob-product-grid.php:87
+msgid "Filter Category"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:139 
+#: ../elementor/widgets/furnob-product-grid.php:99
+msgid "Include Post"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:177 
+#: ../elementor/widgets/furnob-product-grid.php:137
+msgid "On Sale Products?"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:188 
+#: ../elementor/widgets/furnob-product-grid.php:148
+msgid "Hide Out of Stock?"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:199 
+#: ../elementor/widgets/furnob-product-grid.php:159
+msgid "Featured Products?"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-carousel.php:210 
+#: ../elementor/widgets/furnob-product-grid.php:170
+msgid "Best Selling Products?"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:33
+msgid "Category Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:46 
+#: ../elementor/widgets/furnob-product-categories.php:51
+msgid "Exclude Category"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:64 
+#: ../elementor/widgets/furnob-product-categories.php:69
+msgid "Include Category"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:97
+msgid "9 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:98
+msgid "10 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:110
+msgid "1 Columns"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:350
+msgid "COUNT"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:358
+msgid "Count Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:367
+msgid "Count Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-categories.php:450 
+#: ../elementor/widgets/furnob-product-categories.php:476
+msgid "Items"
+msgstr ""
+
+#: ../elementor/widgets/furnob-product-grid.php:33
+msgid "Product Type"
+msgstr ""
+
+#: ../elementor/widgets/furnob-subscribe-box.php:237
+msgid "FORM"
+msgstr ""
+
+#: ../elementor/widgets/furnob-subscribe-box.php:245
+msgid "Form Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial-carousel.php:126 
+#: ../elementor/widgets/furnob-testimonial.php:62
+msgid "Comment"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial-carousel.php:136
+msgid "Testimonial Items"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial-carousel.php:266 
+#: ../elementor/widgets/furnob-testimonial.php:224
+msgid "COMMENT"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial-carousel.php:274 
+#: ../elementor/widgets/furnob-testimonial.php:232
+msgid "Comment Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial-carousel.php:283 
+#: ../elementor/widgets/furnob-testimonial.php:241
+msgid "Comment Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:42
+msgid "Position"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:52 ../inc/customizer.php:2602
+msgid "Rating"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:141
+msgid "POSITION"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:149
+msgid "Position Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:158
+msgid "Position Hover Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:198
+msgid "RATING"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:206
+msgid "Rating Color"
+msgstr ""
+
+#: ../elementor/widgets/furnob-testimonial.php:215
+msgid "Rating Hover Color"
+msgstr ""
+
+#: ../inc/breadcrumb.php:29
+msgid "Our Blog"
+msgstr ""
+
+#: ../inc/breadcrumb.php:30 ../inc/breadcrumb.php:32 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:73
+msgid "Home"
+msgstr ""
+
+#: ../inc/breadcrumb.php:76
+msgid "Category : "
+msgstr ""
+
+#: ../inc/breadcrumb.php:78
+msgid "Tag : "
+msgstr ""
+
+#: ../inc/breadcrumb.php:91
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/breadcrumb.php:93 ../inc/customizer.php:2369 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:90
+msgid "Search"
+msgstr ""
+
+#: ../inc/customizer.php:29 ../inc/customizer.php:2127
+msgid "Shop Settings"
+msgstr ""
+
+#: ../inc/customizer.php:30
+msgid "You can customize the shop settings."
+msgstr ""
+
+#: ../inc/customizer.php:34
+msgid "Blog Settings"
+msgstr ""
+
+#: ../inc/customizer.php:35
+msgid "You can customize the blog settings."
+msgstr ""
+
+#: ../inc/customizer.php:39 ../inc/customizer.php:100
+msgid "Header Settings"
+msgstr ""
+
+#: ../inc/customizer.php:40
+msgid "You can customize the header settings."
+msgstr ""
+
+#: ../inc/customizer.php:44 ../inc/customizer.php:2720
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/customizer.php:45 ../inc/customizer.php:2721
+msgid "You can customize the main color."
+msgstr ""
+
+#: ../inc/customizer.php:49
+msgid "Elementor Templates"
+msgstr ""
+
+#: ../inc/customizer.php:50
+msgid "You can customize the elementor templates."
+msgstr ""
+
+#: ../inc/customizer.php:54
+msgid "Map Settings"
+msgstr ""
+
+#: ../inc/customizer.php:55
+msgid "You can customize the map settings."
+msgstr ""
+
+#: ../inc/customizer.php:59 ../inc/customizer.php:2988
+msgid "Footer Settings"
+msgstr ""
+
+#: ../inc/customizer.php:60 ../inc/customizer.php:3008 
+#: ../inc/customizer.php:3012
+msgid "You can customize the footer settings."
+msgstr ""
+
+#: ../inc/customizer.php:101
+msgid "You can customize the header from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:107 ../inc/customizer.php:187
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customizer.php:108
+msgid "You can customize the logo which is on header.."
+msgstr ""
+
+#: ../inc/customizer.php:112
+msgid "Header General"
+msgstr ""
+
+#: ../inc/customizer.php:113
+msgid "You can customize the header."
+msgstr ""
+
+#: ../inc/customizer.php:117
+msgid "Header Notification"
+msgstr ""
+
+#: ../inc/customizer.php:118
+msgid "You can customize the header notification."
+msgstr ""
+
+#: ../inc/customizer.php:122
+msgid "Preloader"
+msgstr ""
+
+#: ../inc/customizer.php:123
+msgid "You can customize the loader."
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Header 1 Style"
+msgstr ""
+
+#: ../inc/customizer.php:128 ../inc/customizer.php:133 
+#: ../inc/customizer.php:138 ../inc/customizer.php:143 
+#: ../inc/customizer.php:148 ../inc/customizer.php:153 
+#: ../inc/customizer.php:158 ../inc/customizer.php:163
+msgid "You can customize the style."
+msgstr ""
+
+#: ../inc/customizer.php:132
+msgid "Header 2 Style"
+msgstr ""
+
+#: ../inc/customizer.php:137
+msgid "Header 3 Style"
+msgstr ""
+
+#: ../inc/customizer.php:142
+msgid "Header 4 Style"
+msgstr ""
+
+#: ../inc/customizer.php:147
+msgid "Header 5 Style"
+msgstr ""
+
+#: ../inc/customizer.php:152
+msgid "Sidebar Menu Style"
+msgstr ""
+
+#: ../inc/customizer.php:157
+msgid "Mobile Menu Style"
+msgstr ""
+
+#: ../inc/customizer.php:162
+msgid "Mobile Bottom Menu Style"
+msgstr ""
+
+#: ../inc/customizer.php:188
+msgid "You can upload a logo."
+msgstr ""
+
+#: ../inc/customizer.php:201
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../inc/customizer.php:202
+msgid "You can upload a logo for mobile."
+msgstr ""
+
+#: ../inc/customizer.php:215
+msgid "Set Logo Text"
+msgstr ""
+
+#: ../inc/customizer.php:216
+msgid "You can set logo as text."
+msgstr ""
+
+#: ../inc/customizer.php:227
+msgid "Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:228
+msgid "You can set size of the logo."
+msgstr ""
+
+#: ../inc/customizer.php:251
+msgid "Mobile Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:252
+msgid "You can set size of the mobil logo."
+msgstr ""
+
+#: ../inc/customizer.php:275
+msgid "Sidebar Logo Size"
+msgstr ""
+
+#: ../inc/customizer.php:276
+msgid "You can set size of the sidebar logo."
+msgstr ""
+
+#: ../inc/customizer.php:317
+msgid "Mobile Sticky Header"
+msgstr ""
+
+#: ../inc/customizer.php:318
+msgid "You can choose status of the header on the mobile."
+msgstr ""
+
+#: ../inc/customizer.php:329
+msgid "Header Search"
+msgstr ""
+
+#: ../inc/customizer.php:330
+msgid "You can choose status of the search on the header."
+msgstr ""
+
+#: ../inc/customizer.php:342
+msgid "Ajax Search Form Search Holder"
+msgstr ""
+
+#: ../inc/customizer.php:343
+msgid "Replace the search bar which is on the search holder."
+msgstr ""
+
+#: ../inc/customizer.php:362
+msgid "Header Cart"
+msgstr ""
+
+#: ../inc/customizer.php:363
+msgid "You can choose status of the mini cart on the header."
+msgstr ""
+
+#: ../inc/customizer.php:374 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:98
+msgid "Wishlist"
+msgstr ""
+
+#: ../inc/customizer.php:375
+msgid "Disable or Enable wishlist on the header."
+msgstr ""
+
+#: ../inc/customizer.php:386
+msgid "Location Filter"
+msgstr ""
+
+#: ../inc/customizer.php:387
+msgid "You can choose status of the location feature."
+msgstr ""
+
+#: ../inc/customizer.php:398
+msgid "Sidebar Menu"
+msgstr ""
+
+#: ../inc/customizer.php:399
+msgid "Disable or Enable Sidebar Menu"
+msgstr ""
+
+#: ../inc/customizer.php:410
+msgid "Disable Collapse on Frontpage"
+msgstr ""
+
+#: ../inc/customizer.php:411
+msgid "Disable or Enable Sidebar Collapse on Home Page."
+msgstr ""
+
+#: ../inc/customizer.php:429
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../inc/customizer.php:430
+msgid "Disable or Enable secondary menu."
+msgstr ""
+
+#: ../inc/customizer.php:441
+msgid "Header Type3 Right Menu"
+msgstr ""
+
+#: ../inc/customizer.php:442
+msgid "Disable or Enable right menu for header type3."
+msgstr ""
+
+#: ../inc/customizer.php:453
+msgid "Top Notification Count"
+msgstr ""
+
+#: ../inc/customizer.php:454
+msgid "You can choose status of the notification count on the header."
+msgstr ""
+
+#: ../inc/customizer.php:465
+msgid "Top Notification Count Text"
+msgstr ""
+
+#: ../inc/customizer.php:466
+msgid "You can add a text for the notification count."
+msgstr ""
+
+#: ../inc/customizer.php:484
+msgid "Top Notification Count Date"
+msgstr ""
+
+#: ../inc/customizer.php:485
+msgid "You can add a date for the notification count."
+msgstr ""
+
+#: ../inc/customizer.php:503
+msgid "Top Notification 1"
+msgstr ""
+
+#: ../inc/customizer.php:504
+msgid "You can choose status of the notification 1 on the header."
+msgstr ""
+
+#: ../inc/customizer.php:515
+msgid "Top Notification 1 Content"
+msgstr ""
+
+#: ../inc/customizer.php:516
+msgid "You can add a text for the notification 1 content."
+msgstr ""
+
+#: ../inc/customizer.php:534
+msgid "Top Notification 2"
+msgstr ""
+
+#: ../inc/customizer.php:535
+msgid "You can choose status of the notification 2 on the header."
+msgstr ""
+
+#: ../inc/customizer.php:546
+msgid "Top Notification 2 Content"
+msgstr ""
+
+#: ../inc/customizer.php:547
+msgid "You can add a text for the notification 2 content."
+msgstr ""
+
+#: ../inc/customizer.php:565
+msgid "Contact Box"
+msgstr ""
+
+#: ../inc/customizer.php:566
+msgid "You can choose status of the contact box on the header type2."
+msgstr ""
+
+#: ../inc/customizer.php:577
+msgid "Contact Box Phone"
+msgstr ""
+
+#: ../inc/customizer.php:578
+msgid "You can add a phone number."
+msgstr ""
+
+#: ../inc/customizer.php:596
+msgid "Contact Box Subtitle"
+msgstr ""
+
+#: ../inc/customizer.php:597
+msgid "You can add a subtitle for contact Box."
+msgstr ""
+
+#: ../inc/customizer.php:615
+msgid "Contact Box Icon"
+msgstr ""
+
+#: ../inc/customizer.php:616
+msgid ""
+"You can add an icon for the contact box. for example: klbth-icon-telephone"
+msgstr ""
+
+#: ../inc/customizer.php:634
+msgid "Header Button"
+msgstr ""
+
+#: ../inc/customizer.php:635
+msgid "You can choose status of the button on the header type5."
+msgstr ""
+
+#: ../inc/customizer.php:647
+msgid "You can add a text for the button."
+msgstr ""
+
+#: ../inc/customizer.php:665
+msgid "Button URL"
+msgstr ""
+
+#: ../inc/customizer.php:666
+msgid "You can add an url for the button."
+msgstr ""
+
+#: ../inc/customizer.php:684
+msgid "Enable Loader"
+msgstr ""
+
+#: ../inc/customizer.php:685
+msgid "Disable or Enable the loader."
+msgstr ""
+
+#: ../inc/customizer.php:699 ../inc/customizer.php:921 
+#: ../inc/customizer.php:1156 ../inc/customizer.php:1439 
+#: ../inc/customizer.php:1722
+msgid "Header Top Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:700 ../inc/customizer.php:772 
+#: ../inc/customizer.php:922 ../inc/customizer.php:946 
+#: ../inc/customizer.php:970 ../inc/customizer.php:1006 
+#: ../inc/customizer.php:1157 ../inc/customizer.php:1229 
+#: ../inc/customizer.php:1265 ../inc/customizer.php:1440 
+#: ../inc/customizer.php:1512 ../inc/customizer.php:1548 
+#: ../inc/customizer.php:1723 ../inc/customizer.php:1747 
+#: ../inc/customizer.php:1771 ../inc/customizer.php:1807 
+#: ../inc/customizer.php:1957 ../inc/customizer.php:1993 
+#: ../inc/customizer.php:2031 ../inc/customizer.php:2067
+msgid "You can set a color for  background."
+msgstr ""
+
+#: ../inc/customizer.php:711 ../inc/customizer.php:1168 
+#: ../inc/customizer.php:1451
+msgid "Header Top Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:712 ../inc/customizer.php:982 
+#: ../inc/customizer.php:1169 ../inc/customizer.php:1452 
+#: ../inc/customizer.php:1783 ../inc/customizer.php:2043
+msgid "You can set a color for  border."
+msgstr ""
+
+#: ../inc/customizer.php:723 ../inc/customizer.php:1180 
+#: ../inc/customizer.php:1463
+msgid "Header Top Notification Color"
+msgstr ""
+
+#: ../inc/customizer.php:724 ../inc/customizer.php:736 
+#: ../inc/customizer.php:748 ../inc/customizer.php:760 
+#: ../inc/customizer.php:784 ../inc/customizer.php:796 
+#: ../inc/customizer.php:808 ../inc/customizer.php:934 
+#: ../inc/customizer.php:958 ../inc/customizer.php:994 
+#: ../inc/customizer.php:1018 ../inc/customizer.php:1030 
+#: ../inc/customizer.php:1042 ../inc/customizer.php:1181 
+#: ../inc/customizer.php:1193 ../inc/customizer.php:1205 
+#: ../inc/customizer.php:1217 ../inc/customizer.php:1241 
+#: ../inc/customizer.php:1253 ../inc/customizer.php:1277 
+#: ../inc/customizer.php:1289 ../inc/customizer.php:1301 
+#: ../inc/customizer.php:1464 ../inc/customizer.php:1476 
+#: ../inc/customizer.php:1488 ../inc/customizer.php:1500 
+#: ../inc/customizer.php:1524 ../inc/customizer.php:1536 
+#: ../inc/customizer.php:1560 ../inc/customizer.php:1572 
+#: ../inc/customizer.php:1584 ../inc/customizer.php:1735 
+#: ../inc/customizer.php:1759 ../inc/customizer.php:1795 
+#: ../inc/customizer.php:1819 ../inc/customizer.php:1831 
+#: ../inc/customizer.php:1843 ../inc/customizer.php:2055 
+#: ../inc/customizer.php:2079 ../inc/customizer.php:2093
+msgid "You can set a color for  color."
+msgstr ""
+
+#: ../inc/customizer.php:735 ../inc/customizer.php:1192 
+#: ../inc/customizer.php:1475
+msgid "Header Top Notification Button Color"
+msgstr ""
+
+#: ../inc/customizer.php:747 ../inc/customizer.php:933 
+#: ../inc/customizer.php:1204 ../inc/customizer.php:1487 
+#: ../inc/customizer.php:1734
+msgid "Header Top Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:759 ../inc/customizer.php:1216 
+#: ../inc/customizer.php:1499
+msgid "Header Top Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:771 ../inc/customizer.php:969 
+#: ../inc/customizer.php:1264 ../inc/customizer.php:1547 
+#: ../inc/customizer.php:1770
+msgid "Header Main Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:783 ../inc/customizer.php:993 
+#: ../inc/customizer.php:1276 ../inc/customizer.php:1559 
+#: ../inc/customizer.php:1794
+msgid "Header Main Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:795 ../inc/customizer.php:1288 
+#: ../inc/customizer.php:1571
+msgid "Header Main Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:807 ../inc/customizer.php:1300 
+#: ../inc/customizer.php:1583
+msgid "Header Main Submenu Header Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:818 ../inc/customizer.php:1311 
+#: ../inc/customizer.php:1594
+msgid "Top Header Notification Typography"
+msgstr ""
+
+#: ../inc/customizer.php:843 ../inc/customizer.php:1052 
+#: ../inc/customizer.php:1336 ../inc/customizer.php:1619 
+#: ../inc/customizer.php:1853
+msgid "Top Header Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:868 ../inc/customizer.php:1386 
+#: ../inc/customizer.php:1669
+msgid "Header Main Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:893 ../inc/customizer.php:1411 
+#: ../inc/customizer.php:1694
+msgid "Header Main Submenu Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:945 ../inc/customizer.php:1746
+msgid "Header Top Count Date Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:957 ../inc/customizer.php:1758
+msgid "Header Top Count Date Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:981 ../inc/customizer.php:1782
+msgid "Header Main Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1005 ../inc/customizer.php:1806
+msgid "Header Bottom Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1017 ../inc/customizer.php:1818
+msgid "Header Bottom Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1029 ../inc/customizer.php:1830
+msgid "Header Bottom Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1041 ../inc/customizer.php:1842
+msgid "Header Bottom Submenu Header Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1077 ../inc/customizer.php:1878
+msgid "Header Main Menu Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:1102 ../inc/customizer.php:1903
+msgid "Header Bottom Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:1127 ../inc/customizer.php:1928
+msgid "Header Bottom Submenu Font Typography"
+msgstr ""
+
+#: ../inc/customizer.php:1228 ../inc/customizer.php:1511
+msgid "Header Notification Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1240 ../inc/customizer.php:1523
+msgid "Header Notification Color"
+msgstr ""
+
+#: ../inc/customizer.php:1252 ../inc/customizer.php:1535
+msgid "Header Notification Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:1361 ../inc/customizer.php:1644
+msgid "Header Notification Typography"
+msgstr ""
+
+#: ../inc/customizer.php:1956
+msgid "Sidebar Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:1968
+msgid "Sidebar Menu Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:1969 ../inc/customizer.php:3390 
+#: ../inc/customizer.php:3438
+msgid "You can set a color for border."
+msgstr ""
+
+#: ../inc/customizer.php:1980
+msgid "Sidebar Menu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:1981 ../inc/customizer.php:2005 
+#: ../inc/customizer.php:2017 ../inc/customizer.php:2105 
+#: ../inc/customizer.php:2117 ../inc/customizer.php:3067 
+#: ../inc/customizer.php:3079 ../inc/customizer.php:3091 
+#: ../inc/customizer.php:3202 ../inc/customizer.php:3214 
+#: ../inc/customizer.php:3226 ../inc/customizer.php:3287 
+#: ../inc/customizer.php:3299 ../inc/customizer.php:3402 
+#: ../inc/customizer.php:3414 ../inc/customizer.php:3450 
+#: ../inc/customizer.php:3462 ../inc/customizer.php:3474
+msgid "You can set a color for color."
+msgstr ""
+
+#: ../inc/customizer.php:1992
+msgid "Sidebar Menu Content Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:2004
+msgid "Sidebar Menu Content Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:2016
+msgid "Sidebar Menu Content Font Hover Color"
+msgstr ""
+
+#: ../inc/customizer.php:2030
+msgid "Mobile Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:2042
+msgid "Mobile Menu Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:2054
+msgid "Mobile Menu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:2066
+msgid "Mobile Menu Bottom Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:2078
+msgid "Mobile Menu Copyright Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:2092
+msgid "Mobile Bottom Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:2104
+msgid "Mobile Bottom Menu Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:2116
+msgid "Mobile Bottom Menu Font Color"
+msgstr ""
+
+#: ../inc/customizer.php:2128
+msgid "You can customize the shop from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:2134
+msgid "General"
+msgstr ""
+
+#: ../inc/customizer.php:2135
+msgid "You can customize shop settings."
+msgstr ""
+
+#: ../inc/customizer.php:2139
+msgid "Product Detail"
+msgstr ""
+
+#: ../inc/customizer.php:2140
+msgid "You can customize the product single settings."
+msgstr ""
+
+#: ../inc/customizer.php:2144
+msgid "Banner"
+msgstr ""
+
+#: ../inc/customizer.php:2145
+msgid "You can customize the banner."
+msgstr ""
+
+#: ../inc/customizer.php:2169 ../inc/customizer.php:2702
+msgid "Layout"
+msgstr ""
+
+#: ../inc/customizer.php:2170
+msgid "You can choose a layout for the shop."
+msgstr ""
+
+#: ../inc/customizer.php:2174 ../inc/customizer.php:2707
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2175 ../inc/customizer.php:2708
+msgid "Full Width"
+msgstr ""
+
+#: ../inc/customizer.php:2176 ../inc/customizer.php:2709
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/customizer.php:2186
+msgid "Shop Page Width"
+msgstr ""
+
+#: ../inc/customizer.php:2187
+msgid "You can choose a layout for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2191
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/customizer.php:2192
+msgid "Wide"
+msgstr ""
+
+#: ../inc/customizer.php:2201
+msgid "Shop Product Box Type"
+msgstr ""
+
+#: ../inc/customizer.php:2217
+msgid "Pagination Type"
+msgstr ""
+
+#: ../inc/customizer.php:2222 ../inc/customizer.php:2368
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:2223 ../woocommerce-filter/load-more/load-more.php:11
+msgid "Load More"
+msgstr ""
+
+#: ../inc/customizer.php:2224
+msgid "Infinite"
+msgstr ""
+
+#: ../inc/customizer.php:2234
+msgid "Ajax on Shop Page"
+msgstr ""
+
+#: ../inc/customizer.php:2235
+msgid "Disable or Enable Ajax for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2246 
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:64
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: ../inc/customizer.php:2247
+msgid "Disable or Enable Recently Viewed Products."
+msgstr ""
+
+#: ../inc/customizer.php:2258
+msgid "Grid List View"
+msgstr ""
+
+#: ../inc/customizer.php:2259
+msgid "Disable or Enable grid list view on shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2270
+msgid "Quick View Button"
+msgstr ""
+
+#: ../inc/customizer.php:2271
+msgid "You can choose status of the quick view button."
+msgstr ""
+
+#: ../inc/customizer.php:2282
+msgid "Custom Wishlist Button"
+msgstr ""
+
+#: ../inc/customizer.php:2283
+msgid "You can choose status of the wishlist button."
+msgstr ""
+
+#: ../inc/customizer.php:2294
+msgid "Compare"
+msgstr ""
+
+#: ../inc/customizer.php:2295
+msgid "You can choose status of the compare button."
+msgstr ""
+
+#: ../inc/customizer.php:2306
+msgid "Ajax Notice"
+msgstr ""
+
+#: ../inc/customizer.php:2307
+msgid "You can choose status of the ajax notice feature."
+msgstr ""
+
+#: ../inc/customizer.php:2318
+msgid "Mobile Bottom Menu"
+msgstr ""
+
+#: ../inc/customizer.php:2319
+msgid "Disable or Enable the bottom menu on mobile."
+msgstr ""
+
+#: ../inc/customizer.php:2330 ../inc/customizer.php:2351
+msgid "Mobile Bottom Menu Edit"
+msgstr ""
+
+#: ../inc/customizer.php:2331 ../inc/customizer.php:2352
+msgid "Edit the mobile bottom menu."
+msgstr ""
+
+#: ../inc/customizer.php:2365
+msgid "You can select a type"
+msgstr ""
+
+#: ../inc/customizer.php:2370 
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:82
+msgid "Filter"
+msgstr ""
+
+#: ../inc/customizer.php:2371
+msgid "category"
+msgstr ""
+
+#: ../inc/customizer.php:2378
+msgid "You can set an icon. for example; \"store\""
+msgstr ""
+
+#: ../inc/customizer.php:2382
+msgid " Text"
+msgstr ""
+
+#: ../inc/customizer.php:2383 ../inc/customizer.php:3048 
+#: ../inc/customizer.php:3054
+msgid "You can enter a text."
+msgstr ""
+
+#: ../inc/customizer.php:2387 ../inc/customizer.php:3332
+msgid "URL"
+msgstr ""
+
+#: ../inc/customizer.php:2388 ../inc/customizer.php:3333
+msgid "You can set url for the item."
+msgstr ""
+
+#: ../inc/customizer.php:2400
+msgid "Catalog Mode"
+msgstr ""
+
+#: ../inc/customizer.php:2401
+msgid "Disable Add to Cart button on the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2411
+msgid "Stock Quantity"
+msgstr ""
+
+#: ../inc/customizer.php:2412
+msgid "Show stock quantity on the label."
+msgstr ""
+
+#: ../inc/customizer.php:2423
+msgid "Product Image Size"
+msgstr ""
+
+#: ../inc/customizer.php:2424
+msgid "You can set size of the product image for the shop page."
+msgstr ""
+
+#: ../inc/customizer.php:2438
+msgid "Image Column"
+msgstr ""
+
+#: ../inc/customizer.php:2455
+msgid "Image Zoom"
+msgstr ""
+
+#: ../inc/customizer.php:2466
+msgid "Ajax Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2477
+msgid "Product360 View"
+msgstr ""
+
+#: ../inc/customizer.php:2488
+msgid "Mobile Sticky Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2489
+msgid "Disable or Enable sticky cart button on mobile."
+msgstr ""
+
+#: ../inc/customizer.php:2500
+msgid "Social Share (Product Detail)"
+msgstr ""
+
+#: ../inc/customizer.php:2515
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/customizer.php:2516
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/customizer.php:2517
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/customizer.php:2518
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/customizer.php:2519
+msgid "Whatsapp"
+msgstr ""
+
+#: ../inc/customizer.php:2536
+msgid "Gallery Columns"
+msgstr ""
+
+#: ../inc/customizer.php:2556
+msgid "Related Post Column"
+msgstr ""
+
+#: ../inc/customizer.php:2557
+msgid "You can control related post column with this option."
+msgstr ""
+
+#: ../inc/customizer.php:2575
+msgid "Related Products with Tags"
+msgstr ""
+
+#: ../inc/customizer.php:2576
+msgid "Display the related products by tags."
+msgstr ""
+
+#: ../inc/customizer.php:2587
+msgid "Re-order Product Summary"
+msgstr ""
+
+#: ../inc/customizer.php:2588
+msgid ""
+"Please save the changes and refresh the page once. Live preview is not "
+"available for the option."
+msgstr ""
+
+#: ../inc/customizer.php:2603
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/customizer.php:2604
+msgid "Price"
+msgstr ""
+
+#: ../inc/customizer.php:2605
+msgid "Add to Cart"
+msgstr ""
+
+#: ../inc/customizer.php:2606
+msgid "Extra Options"
+msgstr ""
+
+#: ../inc/customizer.php:2607
+msgid "Meta"
+msgstr ""
+
+#: ../inc/customizer.php:2608
+msgid "Share"
+msgstr ""
+
+#: ../inc/customizer.php:2618
+msgid "Shop Banner"
+msgstr ""
+
+#: ../inc/customizer.php:2619
+msgid "Disable or Enable shop banner."
+msgstr ""
+
+#: ../inc/customizer.php:2631 ../inc/customizer.php:2668 
+#: ../inc/customizer.php:3249
+msgid "You can upload an image."
+msgstr ""
+
+#: ../inc/customizer.php:2652
+msgid "Banner For Categories"
+msgstr ""
+
+#: ../inc/customizer.php:2653
+msgid "You can set banner for each category."
+msgstr ""
+
+#: ../inc/customizer.php:2659 ../inc/customizer.php:2920
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/customizer.php:2660 ../inc/customizer.php:2921
+msgid "Set a category"
+msgstr ""
+
+#: ../inc/customizer.php:2680
+msgid "Set Title"
+msgstr ""
+
+#: ../inc/customizer.php:2681
+msgid "You can set a title."
+msgstr ""
+
+#: ../inc/customizer.php:2703
+msgid "You can choose a layout."
+msgstr ""
+
+#: ../inc/customizer.php:2732
+msgid "Second Color"
+msgstr ""
+
+#: ../inc/customizer.php:2733
+msgid "You can customize the secondary color."
+msgstr ""
+
+#: ../inc/customizer.php:2744
+msgid "Color Success"
+msgstr ""
+
+#: ../inc/customizer.php:2745
+msgid "You can customize the Success color."
+msgstr ""
+
+#: ../inc/customizer.php:2756
+msgid "Color Success Dark"
+msgstr ""
+
+#: ../inc/customizer.php:2757
+msgid "You can customize the success dark color."
+msgstr ""
+
+#: ../inc/customizer.php:2768
+msgid "Color Success Light"
+msgstr ""
+
+#: ../inc/customizer.php:2769
+msgid "You can customize the success light color."
+msgstr ""
+
+#: ../inc/customizer.php:2780
+msgid "Color Danger"
+msgstr ""
+
+#: ../inc/customizer.php:2781
+msgid "You can customize the color danger."
+msgstr ""
+
+#: ../inc/customizer.php:2792
+msgid "Color Warning"
+msgstr ""
+
+#: ../inc/customizer.php:2793
+msgid "You can customize the color warning."
+msgstr ""
+
+#: ../inc/customizer.php:2804
+msgid "Color Warning Light"
+msgstr ""
+
+#: ../inc/customizer.php:2805
+msgid "You can customize the color warning light."
+msgstr ""
+
+#: ../inc/customizer.php:2816
+msgid "Color Light"
+msgstr ""
+
+#: ../inc/customizer.php:2817
+msgid "You can customize the color light."
+msgstr ""
+
+#: ../inc/customizer.php:2828 ../inc/customizer.php:2929
+msgid "Before Shop Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2831 ../inc/customizer.php:2845 
+#: ../inc/customizer.php:2873
+msgid "Select a template from elementor templates "
+msgstr ""
+
+#: ../inc/customizer.php:2842 ../inc/customizer.php:2937
+msgid "After Shop Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2856 ../inc/customizer.php:2943
+msgid "Before Header Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2859 ../inc/customizer.php:2887 
+#: ../inc/customizer.php:2901 ../inc/customizer.php:2932
+msgid ""
+"Select a template from elementor templates, If you want to show any content "
+"before products "
+msgstr ""
+
+#: ../inc/customizer.php:2870 ../inc/customizer.php:2949
+msgid "After Header Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2884 ../inc/customizer.php:2955
+msgid "Before Footer Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2898
+msgid "After Footer Elementor Templates"
+msgstr ""
+
+#: ../inc/customizer.php:2913
+msgid "Template For Categories"
+msgstr ""
+
+#: ../inc/customizer.php:2914
+msgid "You can set template for each category."
+msgstr ""
+
+#: ../inc/customizer.php:2961
+msgid "After Footer Elementor Template"
+msgstr ""
+
+#: ../inc/customizer.php:2976
+msgid "Google Map Api key"
+msgstr ""
+
+#: ../inc/customizer.php:2977
+msgid "Add your google map api key"
+msgstr ""
+
+#: ../inc/customizer.php:2989
+msgid "You can customize the footer from this panel."
+msgstr ""
+
+#: ../inc/customizer.php:2995 ../inc/customizer.php:3036
+msgid "Featured Box"
+msgstr ""
+
+#: ../inc/customizer.php:2996
+msgid "You can customize the featured box section."
+msgstr ""
+
+#: ../inc/customizer.php:2999
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/customizer.php:3000
+msgid "You can customize the subscribe area."
+msgstr ""
+
+#: ../inc/customizer.php:3003
+msgid "Footer Extra"
+msgstr ""
+
+#: ../inc/customizer.php:3004
+msgid "You can customize the footer extra section."
+msgstr ""
+
+#: ../inc/customizer.php:3007
+msgid "Footer General"
+msgstr ""
+
+#: ../inc/customizer.php:3011
+msgid "Footer Style"
+msgstr ""
+
+#: ../inc/customizer.php:3037
+msgid "You can create featured box."
+msgstr ""
+
+#: ../inc/customizer.php:3042
+msgid "Featured Icon"
+msgstr ""
+
+#: ../inc/customizer.php:3043
+msgid "set an icon. for example: klbth-icon-screen"
+msgstr ""
+
+#: ../inc/customizer.php:3047
+msgid "Featured Title"
+msgstr ""
+
+#: ../inc/customizer.php:3053
+msgid "Featured Content"
+msgstr ""
+
+#: ../inc/customizer.php:3066
+msgid "Featured Box Icon Color"
+msgstr ""
+
+#: ../inc/customizer.php:3078
+msgid "Featured Box Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3090
+msgid "Featured Box Description Color"
+msgstr ""
+
+#: ../inc/customizer.php:3102
+msgid "Subcribe"
+msgstr ""
+
+#: ../inc/customizer.php:3103
+msgid "Disable or Enable subscribe section."
+msgstr ""
+
+#: ../inc/customizer.php:3114
+msgid "Subscribe Form Id."
+msgstr ""
+
+#: ../inc/customizer.php:3115
+msgid "You can find the form id in Dashboard > Mailchimp For Wp > Form."
+msgstr ""
+
+#: ../inc/customizer.php:3188
+msgid "Subscribe Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3189 ../inc/customizer.php:3275 
+#: ../inc/customizer.php:3378 ../inc/customizer.php:3426
+msgid "You can set a color for background."
+msgstr ""
+
+#: ../inc/customizer.php:3201
+msgid "Subscribe Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3213
+msgid "Subscribe Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3225
+msgid "Subscribe Description Color"
+msgstr ""
+
+#: ../inc/customizer.php:3237
+msgid "Left Content"
+msgstr ""
+
+#: ../inc/customizer.php:3248
+msgid "Right Image"
+msgstr ""
+
+#: ../inc/customizer.php:3262
+msgid "Right Content"
+msgstr ""
+
+#: ../inc/customizer.php:3274
+msgid "Footer Extra Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3286
+msgid "Footer Extra Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3298
+msgid "Footer Extra Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3309
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/customizer.php:3310
+msgid "You can set a copyright text for the footer."
+msgstr ""
+
+#: ../inc/customizer.php:3321
+msgid "Payment Icons"
+msgstr ""
+
+#: ../inc/customizer.php:3322
+msgid "Edit the payment icons."
+msgstr ""
+
+#: ../inc/customizer.php:3328
+msgid "You can set an icon. for example; \"klbth-icon-cc-stripe\""
+msgstr ""
+
+#: ../inc/customizer.php:3345
+msgid "Footer Menu"
+msgstr ""
+
+#: ../inc/customizer.php:3346
+msgid "Disable or Enable footer menu."
+msgstr ""
+
+#: ../inc/customizer.php:3357
+msgid "Footer Column"
+msgstr ""
+
+#: ../inc/customizer.php:3358
+msgid "You can set footer column."
+msgstr ""
+
+#: ../inc/customizer.php:3377
+msgid "Footer Top Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3389
+msgid "Footer Top Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:3401
+msgid "Footer Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:3413
+msgid "Footer Subtitle Color"
+msgstr ""
+
+#: ../inc/customizer.php:3425
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:3437
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: ../inc/customizer.php:3449
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: ../inc/customizer.php:3461
+msgid "Footer Payment Color"
+msgstr ""
+
+#: ../inc/customizer.php:3473
+msgid "Footer Menu Color"
+msgstr ""
+
+#: ../inc/menu-endpoints.php:8
+msgid "Furnob endpoints"
+msgstr ""
+
+#: ../inc/menu-endpoints.php:22
+msgid "Choose Location"
+msgstr ""
+
+#: ../inc/menu-endpoints.php:35
+msgid "My Account"
+msgstr ""
+
+#: ../inc/menu-endpoints.php:48
+msgid "Select all"
+msgstr ""
+
+#: ../inc/menu-endpoints.php:51
+msgid "Add to menu"
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:96
+msgid "Choose Your Location"
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:103
+msgid "Select a Location"
+msgstr ""
+
+#: ../taxonomy/location_taxonomy.php:103
+msgid "Clear All"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:7
+msgid "Display the popular posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:9
+msgid "Furnob Popular Posts"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:83 
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:117
+#:  ../woocommerce-filter/widgets/product-status/widget-product-status.php:83
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-popular-posts.php:88
+msgid "Number of items to show:"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:152
+msgid "Clear filters"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:178 
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:47
+msgid "In Stock"
+msgstr ""
+
+#: ../woocommerce-filter/woocommerce-filter.php:182 
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:54
+msgid "On Sale"
+msgstr ""
+
+#: ../woocommerce-filter/category-icon/category-icon.php:14 
+#: ../woocommerce-filter/category-icon/category-icon.php:40
+msgid "Category Icon"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:19 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:43
+msgid "Filter Products"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:26 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:29
+msgid "Grid Products"
+msgstr ""
+
+#: ../woocommerce-filter/grid-list/grid-list-view.php:27 
+#: ../woocommerce-filter/grid-list/grid-list-view.php:30
+msgid "List Products"
+msgstr ""
+
+#: ../woocommerce-filter/load-more/load-more.php:51 
+#: ../woocommerce-filter/load-more/load-more.php:94
+msgid "No More Products"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:68
+msgid "Store"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:110
+msgid "Account"
+msgstr ""
+
+#: ../woocommerce-filter/mobile-filter/mobile-filter.php:121
+msgid "Categories"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:15
+msgid "Video"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:28
+msgid "Video URL"
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:31
+msgid "Enter a youtube or a vimeo video url for the single product."
+msgstr ""
+
+#: ../woocommerce-filter/product-data/product-data-video.php:62
+msgid "Watch video"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:27
+msgid "Product 360 View"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:70 
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Delete image"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:70 
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Delete"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add Images to Product 360 view Gallery"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add to gallery"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:90
+msgid "Add product 360 view gallery images"
+msgstr ""
+
+#: ../woocommerce-filter/product360/product360.php:161
+msgid "360 product view"
+msgstr ""
+
+#: ../woocommerce-filter/recently-viewed/recently-viewed.php:72
+msgid "No products found"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:8
+msgid "For Main Shop Page."
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:10
+msgid "Furnob Product Categories"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-categories/widget-product-categories.php:122
+msgid "Exclude id:"
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:7
+msgid "For Product Archive Page."
+msgstr ""
+
+#: ../woocommerce-filter/widgets/product-status/widget-product-status.php:9
+msgid "Furnob Product Status"
+msgstr ""

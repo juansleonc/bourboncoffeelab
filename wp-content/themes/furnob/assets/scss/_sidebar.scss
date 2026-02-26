@@ -1,0 +1,295 @@
+.widget {
+  position: relative;
+  margin-bottom: 1.875rem;
+  @include min-break(1024) {
+    margin-bottom: 3.125rem;
+  }
+  &:last-child {
+    margin-bottom: 0;
+  }
+  .widget-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1.5625rem;
+  }
+  p {
+    font-size: .875rem;
+    color: #737373;
+    strong {
+      font-weight: 600;
+    }
+  }
+  a {
+    color: currentColor;
+    text-decoration: none;
+  }
+  ul {
+    &:not(.posts-widget) {
+      a {
+        position: relative;
+        color: currentColor;
+        text-decoration: none;
+        &:after {
+          content: '';
+          display: block;
+          position: absolute;
+          bottom: -1px;
+          left: 0;
+          width: 100%;
+          height: 1px;
+          background-color: currentColor;
+          transform-origin: right center;
+          transform: scale(0,1);
+          will-change: transform;
+          transition: transform .3s $bezier, background-color .2s $bezier;
+        }
+        &:hover {
+          &::after {
+            transform-origin: left center;
+            transform: scale(1,1);
+          }
+        }
+      }
+    }
+  }
+  .menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      position: relative;
+      & + li {
+        margin-top: 1px;
+      }
+      a {
+        font-size: .875rem;
+        text-decoration: none;
+        color: #737373;
+      }
+    }
+  }
+  .widget-checkbox-list {
+    a {
+      &::after {
+        display: none!important;
+      }
+    }
+  }
+}
+
+/* filtered sidebar */
+.filtered-sidebar {
+  @include max-break(1024) {
+    position: fixed!important;
+    flex: 0 0 90%;
+    max-width: 90%;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    margin-top: 0;
+    padding: 1.25rem 1.25rem 0;
+    background-color: #fff;
+    transform: translateX(-100%);
+    z-index: 10001;
+    &::before {
+      display: none;
+    }
+  }
+}
+
+// Sidebar Header
+.sidebar-mobile-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.875rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid getColor(border);
+  @include min-break(1024) {
+    display: none;
+  }
+  .entry-title {
+    font-size: .875rem;
+    margin-bottom: 0;
+  }
+  .close-sidebar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.125rem;
+    width: 1.875rem;
+    height: 1.875rem;
+    color: getColor(text);
+    border: 1px solid getColor(border);
+    border-radius: 50%;
+  }
+}
+
+/* checkbox list */
+.widget-checkbox-list {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    li {
+      position: relative;
+      display: flex;
+      align-items: flex-start;
+      flex-flow: row wrap;
+      & + li {
+        margin-top: .5rem;
+      }
+      a {
+        flex: 1;
+        font-size: .8125rem;
+        color: getColor(text);
+        text-decoration: none;
+        input[type="checkbox"] {
+          display: none;
+          &:checked {
+            & + label {
+              color: getColor(primary);
+              font-weight: 500;
+              span {
+                color: #fff;
+                background-color: getColor(primary);
+                border-color: getColor(primary);
+                &::before {
+                  opacity: 1;
+                }
+              }
+            }
+          }
+        }
+        label {
+          display: flex;
+          align-items: center;
+          flex-flow: row wrap;
+          font-size: .875rem;
+          cursor: pointer;
+          margin-bottom: 0;
+          span {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            flex: 0 0 1rem;
+            max-width: 1rem;
+            width: 100%;
+            height: 1rem;
+            margin-right: .9375rem;
+            top: -1px;
+            border-radius: 2px;
+            border: 1px solid getColor(form-border);
+            &::before {
+              position: relative;
+              content: '✔';
+              font-size: .75rem;
+              line-height: 1;
+              left: .5px;
+              text-shadow: 0px 0px 0px;
+              opacity: 0;
+            }
+          }
+        }
+        &::after {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+/* price filter */
+.price_slider_wrapper {
+  position: relative;
+  display: flex;
+  flex-direction: column-reverse;
+  .price_slider_amount {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-bottom: 1.875rem;
+    .price_label {
+      font-size: .875rem;
+      color: getColor(desc);
+      margin-right: auto;
+      span {
+        color: getColor(text);
+      }
+    }
+    button {
+      font-size: .6875rem;
+      text-transform: uppercase;
+      padding-left: .75rem;
+      padding-right: .75rem;
+      height: 2.125rem;
+      background-color: #f2f3f5;
+      border-color: transparent;
+      color: getColor(text);
+    }
+  }
+}
+.ui-widget-content {
+  position: relative;
+  height: 2px;
+  background-color: getColor(background-light);
+  margin-bottom: 1.5625rem;
+  border-radius: 2px;
+  .ui-slider-range {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 2px;
+    border: 0;
+    background-color: #0070dc;
+    border-radius: 8px;
+    z-index: 1;
+  }
+  .ui-slider-handle {
+    left: 0%;
+    position: absolute;
+    z-index: 2;
+    outline: 0;
+    cursor: pointer;
+    background-color: #0070dc;
+    border-radius: 100%;
+    border: 0;
+    height: 14px;
+    top: -6px;
+    width: 14px;
+    margin: 0;
+    box-shadow: none;
+    transform: translateX(0px);
+    &:last-child {
+      left: 100%;
+      transform: translateX(-100%);
+    }
+  }
+}
+
+/* posts widget */
+.posts-widget {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  .post {
+    display: flex;
+    & + .post {
+      margin-top: 1.25rem;
+    }
+    .entry-media {
+      flex: 0 0 5rem;
+      max-width: 5rem;
+      margin-right: 1.125rem;
+    }
+    .entry-meta {
+      margin-bottom: 5px;
+    }
+    .entry-title {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+  }
+}

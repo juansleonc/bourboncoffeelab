@@ -1,0 +1,907 @@
+# Translation of Plugins - Meta Box - Stable (latest release) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Meta Box - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-09 00:23:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Meta Box - Stable (latest release)\n"
+
+#: src/Dashboard/content.php:590
+msgid "on annual plans"
+msgstr "sobre planes anuales"
+
+#: src/Dashboard/content.php:588
+msgid "Get 25% OFF now"
+msgstr "Consigue ahora un 25% de DESCUENTO"
+
+#: src/Dashboard/content.php:586
+msgid "Get 40% OFF now"
+msgstr "Consigue ahora un 40% de descuento"
+
+#: src/Dashboard/content.php:583
+msgid "Upgrade your package and optimize the workflow at the best price!"
+msgstr "Actualiza tu paquete y optimiza el flujo de trabajo ¡al mejor precio!"
+
+#: src/Dashboard/content.php:580
+msgid "Hot"
+msgstr "Lo mejor"
+
+#: inc/core.php:23 src/Dashboard/content.php:579
+msgid "Black Friday Sale"
+msgstr "Rebajas de Black Friday"
+
+#: src/Dashboard/Dashboard.php:264
+msgid "Error installing plugin. Please try again."
+msgstr "Error al instalar el plugin. Inténtalo de nuevo."
+
+#: src/Dashboard/Dashboard.php:185
+msgid "Activating..."
+msgstr "Activando..."
+
+#: src/Dashboard/Dashboard.php:184
+msgid "Activate"
+msgstr "Activar"
+
+#: src/Dashboard/Dashboard.php:177 src/Dashboard/Dashboard.php:186
+#: src/Dashboard/Dashboard.php:192
+msgid "Active"
+msgstr "Activo"
+
+#: src/Dashboard/Dashboard.php:176
+msgid "Installing..."
+msgstr "Instalando..."
+
+#: src/Dashboard/Dashboard.php:175
+msgid "Install"
+msgstr "Instalar"
+
+#: src/Dashboard/content.php:739
+msgid "Getting news..."
+msgstr "Recibiendo noticias..."
+
+#: src/Dashboard/content.php:738 src/Dashboard/Dashboard.php:291
+msgid "No items available"
+msgstr "No hay ningún elemento disponible"
+
+#: src/Dashboard/content.php:727
+msgid "Submit a review"
+msgstr "Enviar una valoración"
+
+#: src/Dashboard/content.php:725
+msgid "Are you are enjoying Meta Box? We would love to hear your feedback."
+msgstr "¿Te está gustando Meta Box? Nos encantaría conocer tu opinión."
+
+#: src/Dashboard/content.php:723
+msgid "Leave us a review"
+msgstr "Déjanos una reseña"
+
+#: src/Dashboard/content.php:716
+msgid "Join our Facebook Group"
+msgstr "Únete a nuestro grupo de Facebook"
+
+#: src/Dashboard/content.php:714
+msgid "Share opinions, ask questions and help each other on our Meta Box community!"
+msgstr "¡Comparte opiniones, haz preguntas y ayúdate mutuamente en nuestra comunidad Meta Box!"
+
+#: src/Dashboard/content.php:712
+msgid "Join the community"
+msgstr "Únete a la comunidad"
+
+#: src/Dashboard/content.php:689
+msgid "WordPress Optimizations & Tweaks"
+msgstr "Optimizaciones y ajustes de WordPress"
+
+#: src/Dashboard/content.php:683
+msgid "Fast & Automated WordPress SEO Plugin"
+msgstr "Plugin SEO para WordPress rápido y automatizado"
+
+#: src/Dashboard/content.php:675
+msgid "Recommended plugins"
+msgstr "Plugins recomendados"
+
+#: src/Dashboard/content.php:665
+msgid "If you have any questions, need a hand with a technical issue, or just want to say hi, we've got you covered. Get in touch with us and we'll be happy to assist you!"
+msgstr "Si tienes alguna pregunta, necesitas una mano con un problema técnico, o simplemente quieres saludar, ahí nos tienes. ¡Contáctanos y nos encantará ayudarte!"
+
+#: src/Dashboard/content.php:657
+msgid "Upgrade Now"
+msgstr "Mejora ahora"
+
+#: src/Dashboard/content.php:654
+msgid "Priority support"
+msgstr "Soporte prioritario"
+
+#: src/Dashboard/content.php:653
+msgid "Submit & manage posts on the frontend"
+msgstr "Envía y gestiona entradas en la portada"
+
+#: src/Dashboard/content.php:652
+msgid "Create login, register & edit profile pages"
+msgstr "Crear páginas de inicio de sesión, registro y edición de perfil"
+
+#: src/Dashboard/content.php:651
+msgid "Create custom blocks with low code"
+msgstr "Crea bloques personalizados con poco código"
+
+#: src/Dashboard/content.php:650
+msgid "Custom tables to boost performance"
+msgstr "Tablas personalizadas para aumentar el rendimiento"
+
+#: src/Dashboard/content.php:649
+msgid "More location rules & conditional logic"
+msgstr "Más reglas de localización y lógica condicional"
+
+#: src/Dashboard/content.php:648
+msgid "Organize fields into groups (repeater)"
+msgstr "Organiza los campos en grupos (repetidor)"
+
+#: src/Dashboard/content.php:645
+msgid "Wanna advanced features?"
+msgstr "¿Quieres funciones avanzadas?"
+
+#: src/Dashboard/content.php:560
+msgid "Get access to the all-in-one version of Meta Box with full of top-notch features for building robust and dynamic websites."
+msgstr "Accede a la versión todo en uno de Meta Box, repleta de funciones de primera categoría para crear sitios web robustos y dinámicos."
+
+#. Translators: %s - Meta Box AIO.
+#: src/Dashboard/content.php:557
+msgid "Do more with %s"
+msgstr "Haz más con %s"
+
+#: src/Dashboard/content.php:529
+msgid "Licensing management system, including sub-licensing"
+msgstr "Sistema de gestión de licencias, incluidas las sublicencias"
+
+#: src/Dashboard/content.php:519
+msgid "UI features: columns, tooltips, tabs"
+msgstr "Funciones de IU: columnas, información sobre herramientas, pestañas"
+
+#: src/Dashboard/content.php:514
+msgid "Display fields in admin columns"
+msgstr "Mostrar campos en las columnas de administración"
+
+#: src/Dashboard/content.php:509
+msgid "Create custom Gutenberg blocks"
+msgstr "Crear bloques Gutenberg personalizados"
+
+#: src/Dashboard/content.php:504
+msgid "Save post/term meta to custom tables"
+msgstr "Guardar meta post/término en tablas personalizadas"
+
+#: src/Dashboard/content.php:499
+msgid "Create templates and displaying fields with views"
+msgstr "Crear plantillas y mostrar campos con vistas"
+
+#: src/Dashboard/content.php:494
+msgid "Frontend submission forms and dashboard"
+msgstr "Formularios de envío frontend y panel de control"
+
+#: src/Dashboard/content.php:489
+msgid "Toggle fields or field groups with conditional logic"
+msgstr "Alternar campos o grupos de campos con lógica condicional"
+
+#: src/Dashboard/content.php:484
+msgid "Advanced location rules for field groups"
+msgstr "Reglas de localización avanzadas para grupos de campos"
+
+#: src/Dashboard/content.php:474
+msgid "Create custom content models and save their data to custom tables"
+msgstr "Crea modelos de contenido personalizados y guarda sus datos en tablas personalizadas"
+
+#: src/Dashboard/content.php:469
+msgid "Create user profile"
+msgstr "Crear perfil de usuario"
+
+#: src/Dashboard/content.php:464
+msgid "Create Customizer sections & panels"
+msgstr "Crear secciones y paneles del personalizador"
+
+#: src/Dashboard/content.php:454
+msgid "Create custom fields for users"
+msgstr "Crear campos personalizados para los usuarios"
+
+#: src/Dashboard/content.php:449
+msgid "Create custom fields for taxonomies"
+msgstr "Crear campos personalizados para taxonomías"
+
+#: src/Dashboard/content.php:444
+msgid "Auto update"
+msgstr "Actualización automática"
+
+#: src/Dashboard/content.php:439
+msgid "Add custom fields to comments in WordPress"
+msgstr "Agregar campos personalizados a los comentarios en WordPress"
+
+#: src/Dashboard/content.php:434
+msgid "Limit text length"
+msgstr "Limitar la longitud del texto"
+
+#: src/Dashboard/content.php:429
+msgid "Get/set meta values with REST API"
+msgstr "Obtener/establecer metavalores con la REST API"
+
+#: src/Dashboard/content.php:424
+msgid "Relationships"
+msgstr "Relaciones"
+
+#: src/Dashboard/content.php:419
+msgid "Integrations with Elementor, Divi, FacetWP, Yoast SEO,..."
+msgstr "Intergraciones con Elementor, Divi, FacetWP, Yoast SEO,..."
+
+#: src/Dashboard/content.php:414
+msgid "Migration from ACF, Pods, Toolset"
+msgstr "Migración desde ACF, Pods, Toolset"
+
+#: src/Dashboard/content.php:409
+msgid "Create custom fields with UI"
+msgstr "Crear campos personalizados con IU"
+
+#: src/Dashboard/content.php:404
+msgid "Create custom post types & taxonomies"
+msgstr "Crear tipos de entradas y taxonomías personalizadas"
+
+#: src/Dashboard/content.php:399
+msgid "The Meta Box framework"
+msgstr "El framework Meta Box"
+
+#: src/Dashboard/content.php:396
+msgid "Paid"
+msgstr "Pagado"
+
+#: src/Dashboard/content.php:395
+msgid "Free"
+msgstr "Gratis"
+
+#: src/Dashboard/content.php:394
+msgid "Pricing"
+msgstr "Precios"
+
+#: src/Dashboard/content.php:387
+msgid "Feature"
+msgstr "Característica"
+
+#: src/Dashboard/content.php:381 src/Dashboard/content.php:562
+msgid "Upgrade now"
+msgstr "Mejorar ahora"
+
+#: src/Dashboard/content.php:378
+msgid "An all-in-one plugin that provides all free & pro Meta Box extensions for building powerful and dynamic WordPress websites!"
+msgstr "Un plugin todo en uno que proporciona todas las extensiones Meta Box gratuitas y profesionales para crear sitios web WordPress potentes y dinámicos."
+
+#. Translators: %s - Meta Box AIO.
+#: src/Dashboard/content.php:375
+msgid "Get access to %s"
+msgstr "Acceder a %s"
+
+#: src/Dashboard/content.php:363
+msgid "View all tutorials"
+msgstr "Ver todos los tutoriales"
+
+#: src/Dashboard/content.php:356
+msgid "How to create listings and use Elementor to show and filter them."
+msgstr "Cómo crear listados y utilizar Elementor para mostrarlos y filtrarlos."
+
+#: src/Dashboard/content.php:351 src/Dashboard/content.php:354
+msgid "Creating a listing site with Meta Box and Elementor"
+msgstr "Crear un sitio de anuncios con Meta Box y Elementor"
+
+#: src/Dashboard/content.php:334
+msgid "How to export custom fields settings and data and import them into another site."
+msgstr "Cómo exportar los ajustes y los datos de los campos personalizados e importarlos a otro sitio."
+
+#: src/Dashboard/content.php:329 src/Dashboard/content.php:332
+msgid "Export and import custom fields"
+msgstr "Exportar e importar campos personalizados"
+
+#: src/Dashboard/content.php:312
+msgid "How to create a post type with custom fields and show them with Bricks."
+msgstr "Cómo crear un tipo de entrada con campos personalizados y mostrarlos con Bricks."
+
+#: src/Dashboard/content.php:307 src/Dashboard/content.php:310
+msgid "Creating a recipe with Meta Box and Bricks"
+msgstr "Crear una receta con Meta Box y Bricks"
+
+#: src/Dashboard/content.php:290
+msgid "How to query, filter and show posts by taxonomies and by custom fields."
+msgstr "Cómo consultar, filtrar y mostrar entradas por taxonomías y por campos personalizados."
+
+#: src/Dashboard/content.php:285 src/Dashboard/content.php:288
+msgid "Filtering posts by custom fields and taxonomies"
+msgstr "Filtrar entradas por campos personalizados y taxonomías"
+
+#: src/Dashboard/content.php:268
+msgid "How to create featured images for categories and show them on the frontend."
+msgstr "Cómo crear imágenes destacadas para las categorías y mostrarlas en la portada."
+
+#: src/Dashboard/content.php:263 src/Dashboard/content.php:266
+msgid "Creating category thumbnails"
+msgstr "Crear miniaturas de categorías"
+
+#: src/Dashboard/content.php:246
+msgid "Understanding custom fields and how to create them with Meta Box."
+msgstr "Comprender los campos personalizados y cómo crearlos con Meta Box."
+
+#: src/Dashboard/content.php:241 src/Dashboard/content.php:244
+msgid "Creating and configure custom fields"
+msgstr "Crear y configurar campos personalizados"
+
+#: src/Dashboard/content.php:224
+msgid "If you want to change a field ID after entering data, here is the guide."
+msgstr "Si quieres cambiar el ID de un campo después de introducir los datos, aquí tienes la guía."
+
+#: src/Dashboard/content.php:219 src/Dashboard/content.php:222
+msgid "Changing the ID of a field"
+msgstr "Cambiar el ID de un campo"
+
+#: src/Dashboard/content.php:202
+msgid "Step-by-step guide to create custom post types and custom taxonomies."
+msgstr "Guía paso a paso para crear tipos de entrada personalizados y taxonomías personalizadas."
+
+#: src/Dashboard/content.php:197 src/Dashboard/content.php:200
+msgid "Creating post types and taxonomies"
+msgstr "Crear tipos de contenido y taxonomías"
+
+#: src/Dashboard/content.php:194 src/Dashboard/content.php:216
+#: src/Dashboard/content.php:238 src/Dashboard/content.php:260
+#: src/Dashboard/content.php:282 src/Dashboard/content.php:304
+#: src/Dashboard/content.php:326 src/Dashboard/content.php:348
+msgid "Click to view the video version"
+msgstr "Haz clic para ver la versión en video"
+
+#: src/Dashboard/content.php:179
+msgid "Cool"
+msgstr "Guay"
+
+#: src/Dashboard/content.php:178 src/Dashboard/Dashboard.php:55
+msgid "Upgrade"
+msgstr "Mejorar"
+
+#: src/Dashboard/content.php:162
+msgid "For global settings of your website"
+msgstr "Para la configuración global de tu sitio web"
+
+#: src/Dashboard/content.php:161
+msgid "Create a settings page"
+msgstr "Crear una página de ajustes"
+
+#: src/Dashboard/content.php:151
+msgid "To output fields on the frontend"
+msgstr "Para mostrar los campos en la portada"
+
+#: src/Dashboard/content.php:150
+msgid "Create a view"
+msgstr "Crear una vista"
+
+#: src/Dashboard/content.php:139
+msgid "To establish connections between posts"
+msgstr "Establecer conexiones entre entradas"
+
+#: src/Dashboard/content.php:138
+msgid "Create a relationship"
+msgstr "Crea una relación"
+
+#: src/Dashboard/content.php:130
+msgid "To add custom fields to your posts"
+msgstr "Para agregar campos personalizados a tus entradas"
+
+#: src/Dashboard/content.php:129
+msgid "Create a field group"
+msgstr "Crear un grupo de campos"
+
+#: src/Dashboard/content.php:120
+msgid "To group or categorize your posts"
+msgstr "Para agrupar o categorizar tus entradas"
+
+#: src/Dashboard/content.php:119
+msgid "Create a taxonomy"
+msgstr "Crear una taxonomía"
+
+#: src/Dashboard/content.php:111
+msgid "For a new type of content on your website"
+msgstr "Para un nuevo tipo de contenido en tu web"
+
+#: src/Dashboard/content.php:110
+msgid "Create a post type"
+msgstr "Crear un tipo de contenido"
+
+#: src/Dashboard/content.php:92
+msgid "Get started"
+msgstr "Primeros pasos"
+
+#. Translators: %s - Meta Box (plugin name).
+#: src/Dashboard/content.php:86
+msgid "%s is a powerful, lightweight WordPress plugin for creating custom post types, fields, relationships, and more. With a user-friendly interface and flexible options, it simplifies dynamic content creation without complex coding. Free and reliable, it's perfect for beginners and experts alike."
+msgstr "%s es un potente y plugin ligero de WordPress para crear tipos de entrada personalizados, campos, relaciones y mucho más. Con una interfaz fácil de usar y opciones flexibles, simplifica la creación de contenido dinámico sin codificación compleja. Gratuito y fiable, es perfecto tanto para principiantes como para expertos."
+
+#. Translators: %s - current user display name.
+#: src/Dashboard/content.php:74
+msgid "Hello %s,"
+msgstr "Hola %s,"
+
+#: src/Dashboard/content.php:56 src/Dashboard/content.php:742
+msgid "What's new?"
+msgstr "¿Qué hay de nuevo?"
+
+#: src/Dashboard/content.php:19
+msgid "No results found."
+msgstr "No se encontró ningún resultado."
+
+#: src/Dashboard/content.php:18
+msgid "Searching..."
+msgstr "Buscando…"
+
+#: src/Dashboard/content.php:14
+msgid "Need some help? Search here..."
+msgstr "¿Necesitas ayuda? Busca aquí..."
+
+#: inc/fields/icon.php:227
+msgid "Select an icon"
+msgstr "Selecciona un ícono"
+
+#: inc/fields/user.php:190
+msgid "Add New User"
+msgstr "Agregar nuevo usuario"
+
+#: src/Dashboard/content.php:173
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: src/Updater/Settings.php:79
+msgid "Your license key is <b style=\"color: #00a32a\">active</b>."
+msgstr "Tu clave de licencia <b style=\"color: #00a32a\">está activa</b>."
+
+#: src/Updater/Settings.php:78
+msgid "Your license key is <b style=\"color: #d63638\">expired</b>."
+msgstr "Tu clave de licencia <b style=\"color: #d63638\">ha caducado</b>."
+
+#: src/Updater/Settings.php:76 src/Updater/Settings.php:77
+msgid "Your license key is <b style=\"color: #d63638\">invalid</b>."
+msgstr "Tu clave de licencia <b style=\"color: #d63638\">no es válida</b>."
+
+#: inc/fields/post.php:141 inc/fields/taxonomy.php:134 inc/fields/user.php:136
+msgid "(No title)"
+msgstr "(Sin título)"
+
+#: inc/meta-box.php:313
+msgid "Meta Box Title"
+msgstr "Título del Meta Box"
+
+#: inc/fields/background.php:123
+msgid "-- Size --"
+msgstr "--Tamaño--"
+
+#: inc/fields/background.php:109
+msgid "-- Attachment --"
+msgstr "-- Adjunto --"
+
+#: inc/fields/background.php:89
+msgid "-- Position --"
+msgstr "-- Posición --"
+
+#: inc/fields/background.php:73
+msgid "-- Repeat --"
+msgstr "-- Repetir --"
+
+#: src/Dashboard/content.php:479
+msgid "Organize custom fields into repeatable groups"
+msgstr "Organizar los campos personalizados en grupos repetibles"
+
+#: inc/core.php:17
+msgid "Docs"
+msgstr "Documentación"
+
+#: src/Updater/Notification.php:111
+msgid "Update License"
+msgstr "Actualizar la licencia"
+
+#: src/Updater/Notification.php:111
+msgid "Activate License"
+msgstr "Activar la licencia"
+
+#. Translators: %3$s - URL to the My Account page.
+#: src/Updater/Notification.php:95
+msgid "Your license key is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a>."
+msgstr "Tu clave de licencia está <b>caducada</b>. Por favor, <a href=\"%3$s\" target=\"_blank\">renueva tu licencia</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:91 src/Updater/Notification.php:93
+msgid "Your license key is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Tu clave de licencia <b>no es válida</b>. Por favor, <a href=\"%1$s\">actualiza tu clave de licencia</a> o <a href=\"%2$s\" target=\"_blank\">consigue una nueva aquí</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:89
+msgid "Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Por favor, <a href=\"%1$s\">introduce tu clave de licencia</a> o <a href=\"%2$s\" target=\"_blank\">consigue una nueva aquí</a>."
+
+#. Translators: %3$s - URL to the My Account page.
+#: src/Updater/Notification.php:65
+msgid "Your license key for Meta Box is <b>expired</b>. Please <a href=\"%3$s\" target=\"_blank\">renew your license</a> to get automatic updates and premium support."
+msgstr "Tu clave de licencia para Meta Box está <b>caducada</b>. Por favor, <a href=\"%3$s\" target=\"_blank\">renueva tu licencia</a> para obtener actualizaciones automáticas y soporte premium."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:61 src/Updater/Notification.php:63
+msgid "Your license key for Meta Box is <b>invalid</b>. Please <a href=\"%1$s\">update your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one</a> to enable automatic updates."
+msgstr "Tu clave de licencia para Meta Box <b>no es válida</b>. Por favor, <a href=\"%1$s\">actualiza tu clave de licencia</a> o <a href=\"%2$s\" target=\"_blank\">consigue una nueva</a> para activar las actualizaciones automáticas."
+
+#: src/Updater/Checker.php:124
+msgid "UPDATE UNAVAILABLE! Please enter a valid license key to enable automatic updates."
+msgstr "¡ACTUALIZACIÓN NO DISPONIBLE! Por favor, introduce una clave de licencia válida para activar las actualizaciones automáticas."
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Settings.php:134
+msgid "Invalid license. Please <a href=\"%1$s\" target=\"_blank\">check again</a> or <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "Licencia no válida. Por favor, <a href=\"%1$s\" target=\"_blank\">compruébala de nuevo</a> o <a href=\"%2$s\" target=\"_blank\">consigue una nueva licencia aquí</a>."
+
+#. Translators: %s - URL to the My Account page.
+#: src/Updater/Settings.php:128
+msgid "License expired. Please renew on the <a href=\"%s\" target=\"_blank\">My Account</a> page on metabox.io website."
+msgstr "Licencia caducada. Por favor, renuévala en la página “<a href=\"%s\" target=\"_blank\">Mi cuenta</a>” en la web metabox.io."
+
+#: src/Updater/Settings.php:125
+msgid "Your license is activated."
+msgstr "Tu licencia está activada."
+
+#: src/Updater/Settings.php:123
+msgid "Something wrong with the connection to metabox.io. Please try again later."
+msgstr "Algo no funciona con la conexión a metabox.io. Por favor, inténtalo de nuevo más tarde."
+
+#. Translators: %1$s - URL to the My Account page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Settings.php:60
+msgid "To get the license key, visit the <a href=\"%1$s\" target=\"_blank\">My Account</a> page on metabox.io website. If you have not purchased any extension yet, please <a href=\"%2$s\" target=\"_blank\">get a new license here</a>."
+msgstr "Para obtener tu clave de licencia, visita la página “<a href=\"%1$s\" target=\"_blank\">Mi cuenta</a>” en la web metabox.io. Si todavía no has comprado ninguna extensión, por favor, <a href=\"%2$s\" target=\"_blank\">consigue una nueva licencia aquí</a>."
+
+#. Translators: %1$s - URL to the settings page, %2$s - URL to the pricing
+#. page.
+#: src/Updater/Notification.php:59
+msgid "You have not set your Meta Box license key yet, which means you are missing out on automatic updates and support! Please <a href=\"%1$s\">enter your license key</a> or <a href=\"%2$s\" target=\"_blank\">get a new one here</a>."
+msgstr "Aún no has establecido tu clave de licencia de Meta Box, lo que significa que ¡te estás perdiendo las actualizaciones automáticas y el soporte! Por favor, <a href=\"%1$s\">introduce tu clave de licencia</a> o <a href=\"%2$s\" target=\"_blank\">consigue una nueva aquí</a>."
+
+#: src/Updater/Settings.php:92
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: src/Updater/Settings.php:72
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: src/Updater/Settings.php:55
+msgid "Please enter your license key to enable automatic updates for Meta Box extensions."
+msgstr "Por favor, introduce tu clave de licencia para activar las actualizaciones automáticas para las extensiones de Meta Box."
+
+#: src/Updater/Settings.php:39 src/Updater/Settings.php:54
+msgid "Meta Box License"
+msgstr "Licencia de Meta Box"
+
+#: src/Updater/Settings.php:39
+msgid "License"
+msgstr "Licencia"
+
+#: inc/fields/input-list.php:83
+msgid "Toggle All"
+msgstr "Alternar todos"
+
+#: inc/fields/file.php:48
+msgid "Error: Invalid file"
+msgstr "Error: Archivo no válido"
+
+#: inc/fields/map.php:29 inc/fields/osm.php:16
+msgid "No results found"
+msgstr "No se encontraron resultados"
+
+#. Translators: %s - Meta Box (plugin name).
+#: src/Dashboard/content.php:80
+msgid "Welcome to %s,"
+msgstr "Te damos la bienvenida a %s,"
+
+#: src/Dashboard/Dashboard.php:53 src/Dashboard/Dashboard.php:78
+#: src/Dashboard/Dashboard.php:79
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: src/Dashboard/content.php:655
+msgid "And much more!"
+msgstr "¡Y mucho más!"
+
+#: src/Dashboard/content.php:459
+msgid "Create custom settings pages"
+msgstr "Crea páginas de ajustes personalizados"
+
+#: src/Dashboard/content.php:667
+msgid "Go to the support forum"
+msgstr "Ir al foro de soporte"
+
+#: src/Dashboard/content.php:524 src/Dashboard/content.php:663
+msgid "Premium support"
+msgstr "Soporte Premium"
+
+#: inc/fields/switch.php:85
+msgid "Off"
+msgstr "Apagado"
+
+#: inc/fields/switch.php:84
+msgid "On"
+msgstr "Encendido"
+
+#: inc/fields/background.php:127
+msgid "Contain"
+msgstr "Contener"
+
+#: inc/fields/background.php:126
+msgid "Cover"
+msgstr "Cubrir"
+
+#: inc/fields/background.php:112
+msgid "Scroll"
+msgstr "Desplazamiento"
+
+#: inc/fields/background.php:111
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/fields/background.php:99
+msgid "Bottom Right"
+msgstr "Abajo derecha"
+
+#: inc/fields/background.php:98
+msgid "Bottom Center"
+msgstr "Abajo centro"
+
+#: inc/fields/background.php:97
+msgid "Bottom Left"
+msgstr "Abajo izquierda"
+
+#: inc/fields/background.php:96
+msgid "Center Right"
+msgstr "Centro derecha"
+
+#: inc/fields/background.php:95
+msgid "Center Center"
+msgstr "Centro centro"
+
+#: inc/fields/background.php:94
+msgid "Center Left"
+msgstr "Centro izquierda"
+
+#: inc/fields/background.php:93
+msgid "Top Right"
+msgstr "Arriba derecha"
+
+#: inc/fields/background.php:92
+msgid "Top Center"
+msgstr "Arriba centro"
+
+#: inc/fields/background.php:91
+msgid "Top Left"
+msgstr "Arriba izquierda"
+
+#: inc/fields/background.php:79 inc/fields/background.php:113
+#: inc/fields/background.php:125
+msgid "Inherit"
+msgstr "Heredar"
+
+#: inc/fields/background.php:78
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: inc/fields/background.php:77
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: inc/fields/background.php:76
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+#: inc/fields/background.php:75
+msgid "No Repeat"
+msgstr "No repetir"
+
+#: inc/fields/background.php:61
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/fields/sidebar.php:10
+msgid "Select a sidebar"
+msgstr "Selecciona una barra lateral"
+
+#: src/Dashboard/content.php:101
+msgid "Getting Started"
+msgstr "Cómo comenzar"
+
+#: src/Dashboard/content.php:536
+msgid "Learn more"
+msgstr "Aprender más"
+
+#. Author of the plugin
+#: meta-box.php
+msgid "MetaBox.io"
+msgstr "MetaBox.io"
+
+#. Description of the plugin
+#: meta-box.php
+msgid "Create custom meta boxes and custom fields in WordPress."
+msgstr "Crea cajas personalizadas y campos personalizados en WordPress."
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid "or"
+msgstr "o"
+
+#: inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr "Selecciona un elemento"
+
+#: inc/fields/media.php:31
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Arrastra aquí los archivos para subirlos"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid "Select Files"
+msgstr "Seleccionar archivos"
+
+#: inc/fields/taxonomy.php:84
+msgid "Select a term"
+msgstr "Seleccionar un término"
+
+#: inc/fields/media.php:26
+msgctxt "media"
+msgid "No Title"
+msgstr "Sin título"
+
+#: inc/fields/media.php:22
+msgctxt "media"
+msgid " files"
+msgstr " archivos"
+
+#: inc/fields/media.php:21
+msgctxt "media"
+msgid " file"
+msgstr " archivo"
+
+#: inc/fields/media.php:25
+msgctxt "media"
+msgid "View"
+msgstr "Ver"
+
+#: inc/fields/media.php:24
+msgctxt "media"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/fields/media.php:23
+msgctxt "media"
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/fields/media.php:20
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Agregar medios"
+
+#: inc/field.php:309
+msgid "+ Add more"
+msgstr "+ Agregar más"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: meta-box.php
+msgid "https://metabox.io"
+msgstr "https://metabox.io"
+
+#. Plugin Name of the plugin
+#: meta-box.php src/Dashboard/Dashboard.php:65 src/Dashboard/Dashboard.php:66
+#: src/Integrations/Block.php:12 src/Integrations/Bricks.php:10
+#: src/Integrations/Elementor.php:13 src/Integrations/Oxygen.php:14
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/validation.php:66
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Por favor, corrige los errores resaltados abajo e inténtalo de nuevo."
+
+#: inc/fields/user.php:75
+msgid "Select a user"
+msgstr "Seleccionar un usuario"
+
+#: inc/fields/select.php:80
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/fields/select.php:80
+msgid "All"
+msgstr "Todos"
+
+#. Translators: %s is the post singular label.
+#. Translators: %s is the taxonomy singular label.
+#: inc/fields/post.php:75 inc/fields/taxonomy.php:88
+msgid "Select a %s"
+msgstr "Selecciona un %s"
+
+#: inc/fields/post.php:69
+msgid "Select a post"
+msgstr "Seleccionar una publicación"
+
+#: inc/fields/oembed.php:18
+msgid "Embed HTML not available."
+msgstr "HTML incrustado no disponible."
+
+#: inc/fields/key-value.php:80
+msgid "Value"
+msgstr "Valor"
+
+#: inc/fields/key-value.php:79
+msgid "Key"
+msgstr "Clave"
+
+#: inc/fields/file.php:87
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Agregar un archivo nuevo"
+
+#: inc/fields/file.php:61
+msgid "Error: Cannot delete file"
+msgstr "Error: No se puede eliminar el archivo"
+
+#. Translators: %d is the number of files in plural form.
+#: inc/fields/file.php:17
+msgid "You may only upload maximum %d files"
+msgstr "Sólo puedes subir un máximo de %d archivos"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/fields/file.php:15
+msgid "You may only upload maximum %d file"
+msgstr "Sólo puedes subir un máximo de %d archivo"
+
+#: inc/fields/file-input.php:48
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/fields/file-input.php:46 inc/fields/select.php:80
+msgid "Select"
+msgstr "Seleccionar"
+
+#: inc/fields/file-input.php:17
+msgid "Select File"
+msgstr "Seleccionar archivo"
+
+#: inc/fields/file.php:168
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/fields/file.php:167
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/fields/checkbox.php:43
+msgid "No"
+msgstr "No"
+
+#: inc/fields/checkbox.php:43
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/fields/button.php:28
+msgid "Click me"
+msgstr "Clic aquí"
+
+#: inc/fields/autocomplete.php:14 inc/fields/autocomplete.php:80
+#: inc/fields/autocomplete.php:92
+msgid "Delete"
+msgstr "Borrar"
+
+#: src/Dashboard/content.php:51
+msgid "Documentation"
+msgstr "Documentación"

@@ -1,0 +1,36 @@
+.scrollToTop{
+	position:fixed;
+	right: 20px;
+    bottom: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgba(264,255,255, 0.9);
+    color: #333;
+	box-shadow: 0 0 5px rgb(0 0 0 / 17%);
+    text-align: center;
+    line-height: 50px;
+	opacity: 0;
+	z-index: 350;
+}
+.scrollToTop.button-show {
+    opacity: 1;
+}
+.scrollToTop:hover{
+	color:#777;
+}
+.scrollToTop:after {
+    display: inline-block;
+    font-size: 30px;
+    content: "\e819";
+    font-family: "klbtheme";
+}
+@media (max-width: 1024px){
+	.scrollToTop{
+		bottom:75px;
+		right: 12px;
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+	}
+}

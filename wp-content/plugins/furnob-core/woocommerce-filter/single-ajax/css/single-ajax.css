@@ -1,0 +1,13 @@
+form.cart.single-ajax button {
+    position: relative;
+}
+
+form.cart.single-ajax button svg {
+    color: #fff;
+}
+
+svg.loader-image.preloader.added {
+    opacity: 1;
+    visibility: visible;
+    position: absolute;
+}

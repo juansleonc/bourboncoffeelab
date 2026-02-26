@@ -1,0 +1,48 @@
+.mi-header-notifications[data-v-d91b9d00] {
+  position: relative;
+}
+.mi-notifications-toggle[data-v-d91b9d00] {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  height: 36px;
+  padding: 0 8px;
+  background-color: #fff;
+  border: 1px solid #D6E2ED;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #1b55e3;
+  transition: all 0.2s ease;
+}
+.mi-notifications-toggle[data-v-d91b9d00]:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(27, 85, 227, 0.3);
+}
+.mi-notifications-toggle[data-v-d91b9d00]:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(27, 85, 227, 0.2);
+}
+.mi-notifications-toggle[data-v-d91b9d00]:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+.mi-notifications-badge[data-v-d91b9d00] {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  background-color: #ff6b6b;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 10px;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}

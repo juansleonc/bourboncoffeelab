@@ -1,0 +1,256 @@
+{
+  "_html2canvas-16Svk_8H.js": {
+    "file": "js/chunks/html2canvas-16Svk_8H.js",
+    "name": "html2canvas",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-Bvb6NIwm.js"
+    ]
+  },
+  "_useAuthGate-!~{009}~.js": {
+    "file": "css/main-monsterinsights4.css",
+    "src": "_useAuthGate-!~{009}~.js"
+  },
+  "_useAuthGate-Bvb6NIwm.js": {
+    "file": "js/chunks/useAuthGate-Bvb6NIwm.js",
+    "name": "useAuthGate",
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useSampleData-WWO8wHOx.js"
+    ],
+    "dynamicImports": [
+      "_html2canvas-16Svk_8H.js",
+      "node_modules/dompurify/dist/purify.es.mjs",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "css": [
+      "css/main-monsterinsights4.css"
+    ]
+  },
+  "_useSampleData-!~{008}~.js": {
+    "file": "css/main-monsterinsights5.css",
+    "src": "_useSampleData-!~{008}~.js"
+  },
+  "_useSampleData-WWO8wHOx.js": {
+    "file": "js/chunks/useSampleData-WWO8wHOx.js",
+    "name": "useSampleData",
+    "imports": [
+      "src/modules/custom-dashboard/main.js"
+    ],
+    "css": [
+      "css/main-monsterinsights5.css"
+    ]
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "js/chunks/index.es-CZBo_bXY.js",
+    "name": "index.es",
+    "src": "node_modules/canvg/lib/index.es.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-Bvb6NIwm.js",
+      "_useSampleData-WWO8wHOx.js"
+    ]
+  },
+  "node_modules/dompurify/dist/purify.es.mjs": {
+    "file": "js/chunks/purify.es-rdzFkSVF.js",
+    "name": "purify.es",
+    "src": "node_modules/dompurify/dist/purify.es.mjs",
+    "isDynamicEntry": true
+  },
+  "src/assets/icons/logos/exactmetrics-header.svg": {
+    "file": "assets/exactmetrics-header.svg",
+    "src": "src/assets/icons/logos/exactmetrics-header.svg"
+  },
+  "src/assets/icons/logos/monsterinsights-header.svg": {
+    "file": "assets/monsterinsights-header.svg",
+    "src": "src/assets/icons/logos/monsterinsights-header.svg"
+  },
+  "src/assets/icons/settings.svg": {
+    "file": "assets/settings.svg",
+    "src": "src/assets/icons/settings.svg"
+  },
+  "src/assets/icons/templates/exactmetrics/create-new.svg": {
+    "file": "assets/create-new2.svg",
+    "src": "src/assets/icons/templates/exactmetrics/create-new.svg"
+  },
+  "src/assets/icons/templates/exactmetrics/ecommerce.svg": {
+    "file": "assets/ecommerce.svg",
+    "src": "src/assets/icons/templates/exactmetrics/ecommerce.svg"
+  },
+  "src/assets/icons/templates/exactmetrics/marketer.svg": {
+    "file": "assets/marketer.svg",
+    "src": "src/assets/icons/templates/exactmetrics/marketer.svg"
+  },
+  "src/assets/icons/templates/exactmetrics/publisher.svg": {
+    "file": "assets/publisher2.svg",
+    "src": "src/assets/icons/templates/exactmetrics/publisher.svg"
+  },
+  "src/assets/icons/templates/exactmetrics/small-business.svg": {
+    "file": "assets/small-business.svg",
+    "src": "src/assets/icons/templates/exactmetrics/small-business.svg"
+  },
+  "src/assets/icons/templates/monsterinsights/create-new.svg": {
+    "file": "assets/create-new.svg",
+    "src": "src/assets/icons/templates/monsterinsights/create-new.svg"
+  },
+  "src/assets/icons/templates/monsterinsights/ecommerce.svg": {
+    "file": "assets/ecommerce2.svg",
+    "src": "src/assets/icons/templates/monsterinsights/ecommerce.svg"
+  },
+  "src/assets/icons/templates/monsterinsights/marketer.svg": {
+    "file": "assets/marketer2.svg",
+    "src": "src/assets/icons/templates/monsterinsights/marketer.svg"
+  },
+  "src/assets/icons/templates/monsterinsights/publisher.svg": {
+    "file": "assets/publisher.svg",
+    "src": "src/assets/icons/templates/monsterinsights/publisher.svg"
+  },
+  "src/assets/icons/templates/monsterinsights/small-business.svg": {
+    "file": "assets/small-business2.svg",
+    "src": "src/assets/icons/templates/monsterinsights/small-business.svg"
+  },
+  "src/assets/img/logo-exactmetrics-agency.svg": {
+    "file": "assets/logo-exactmetrics-agency.svg",
+    "src": "src/assets/img/logo-exactmetrics-agency.svg"
+  },
+  "src/assets/img/logo-exactmetrics-plus.svg": {
+    "file": "assets/logo-exactmetrics-plus.svg",
+    "src": "src/assets/img/logo-exactmetrics-plus.svg"
+  },
+  "src/assets/img/logo-exactmetrics-pro.svg": {
+    "file": "assets/logo-exactmetrics-pro.svg",
+    "src": "src/assets/img/logo-exactmetrics-pro.svg"
+  },
+  "src/assets/img/logo-exactmetrics.png": {
+    "file": "assets/logo-exactmetrics.png",
+    "src": "src/assets/img/logo-exactmetrics.png"
+  },
+  "src/assets/img/logo-exactmetrics@2x.png": {
+    "file": "assets/logo-exactmetrics@2x.png",
+    "src": "src/assets/img/logo-exactmetrics@2x.png"
+  },
+  "src/assets/img/logo-monsterinsights-agency.svg": {
+    "file": "assets/logo-monsterinsights-agency.svg",
+    "src": "src/assets/img/logo-monsterinsights-agency.svg"
+  },
+  "src/assets/img/logo-monsterinsights-plus.svg": {
+    "file": "assets/logo-monsterinsights-plus.svg",
+    "src": "src/assets/img/logo-monsterinsights-plus.svg"
+  },
+  "src/assets/img/logo-monsterinsights-pro.svg": {
+    "file": "assets/monsterinsights-header.svg",
+    "src": "src/assets/icons/logos/monsterinsights-header.svg"
+  },
+  "src/assets/img/logo-monsterinsights.png": {
+    "file": "assets/logo-monsterinsights.png",
+    "src": "src/assets/img/logo-monsterinsights.png"
+  },
+  "src/assets/img/logo-monsterinsights@2x.png": {
+    "file": "assets/logo-monsterinsights@2x.png",
+    "src": "src/assets/img/logo-monsterinsights@2x.png"
+  },
+  "src/assets/img/sample-image-exactmetrics.png": {
+    "file": "assets/sample-image-exactmetrics.png",
+    "src": "src/assets/img/sample-image-exactmetrics.png"
+  },
+  "src/assets/img/sample-image-monsterinsights.png": {
+    "file": "assets/sample-image-monsterinsights.png",
+    "src": "src/assets/img/sample-image-monsterinsights.png"
+  },
+  "src/modules/custom-dashboard/main.js": {
+    "file": "js/custom-dashboard.js",
+    "name": "custom-dashboard",
+    "src": "src/modules/custom-dashboard/main.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/stores/sample-data/custom-dashboard/sample-view.json",
+      "src/stores/sample-data/custom-dashboard/widgets-data.json",
+      "src/modules/custom-dashboard/views/DashboardList.lite.vue",
+      "src/modules/custom-dashboard/views/DashboardCreate.vue",
+      "src/modules/custom-dashboard/views/DashboardEdit.vue",
+      "src/modules/custom-dashboard/views/DashboardView.vue"
+    ],
+    "css": [
+      "css/main-monsterinsights.css"
+    ],
+    "assets": [
+      "assets/logo-exactmetrics-agency.svg",
+      "assets/logo-exactmetrics-plus.svg",
+      "assets/logo-exactmetrics-pro.svg",
+      "assets/logo-exactmetrics.png",
+      "assets/logo-exactmetrics@2x.png",
+      "assets/logo-monsterinsights-agency.svg",
+      "assets/logo-monsterinsights-plus.svg",
+      "assets/monsterinsights-header.svg",
+      "assets/logo-monsterinsights.png",
+      "assets/logo-monsterinsights@2x.png",
+      "assets/sample-image-exactmetrics.png",
+      "assets/sample-image-monsterinsights.png"
+    ]
+  },
+  "src/modules/custom-dashboard/styles/main-monsterinsights.scss": {
+    "file": "css/main-monsterinsights2.css",
+    "src": "src/modules/custom-dashboard/styles/main-monsterinsights.scss"
+  },
+  "src/modules/custom-dashboard/views/DashboardCreate.vue": {
+    "file": "js/chunks/DashboardCreate-DS2q8PCa.js",
+    "name": "DashboardCreate",
+    "src": "src/modules/custom-dashboard/views/DashboardCreate.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-Bvb6NIwm.js",
+      "_useSampleData-WWO8wHOx.js"
+    ],
+    "css": [
+      "css/main-monsterinsights3.css"
+    ]
+  },
+  "src/modules/custom-dashboard/views/DashboardEdit.vue": {
+    "file": "js/chunks/DashboardEdit-Bg_jnvC0.js",
+    "name": "DashboardEdit",
+    "src": "src/modules/custom-dashboard/views/DashboardEdit.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/views/DashboardCreate.vue",
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-Bvb6NIwm.js",
+      "_useSampleData-WWO8wHOx.js"
+    ]
+  },
+  "src/modules/custom-dashboard/views/DashboardList.lite.vue": {
+    "file": "js/chunks/DashboardList.lite-DgBYugI_.js",
+    "name": "DashboardList.lite",
+    "src": "src/modules/custom-dashboard/views/DashboardList.lite.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useSampleData-WWO8wHOx.js"
+    ]
+  },
+  "src/modules/custom-dashboard/views/DashboardView.vue": {
+    "file": "js/chunks/DashboardView-DYlPIsZf.js",
+    "name": "DashboardView",
+    "src": "src/modules/custom-dashboard/views/DashboardView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/modules/custom-dashboard/main.js",
+      "_useAuthGate-Bvb6NIwm.js",
+      "_useSampleData-WWO8wHOx.js"
+    ]
+  },
+  "src/stores/sample-data/custom-dashboard/sample-view.json": {
+    "file": "js/chunks/sample-view-DCgpbF5N.js",
+    "name": "sample-view",
+    "src": "src/stores/sample-data/custom-dashboard/sample-view.json",
+    "isDynamicEntry": true
+  },
+  "src/stores/sample-data/custom-dashboard/widgets-data.json": {
+    "file": "js/chunks/widgets-data-Cvrc56L9.js",
+    "name": "widgets-data",
+    "src": "src/stores/sample-data/custom-dashboard/widgets-data.json",
+    "isDynamicEntry": true
+  }
+}

@@ -1,0 +1,64 @@
+.klb-single-video{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.klb-single-video a{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    min-width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background: rgba(255,255,255,.9);
+    box-shadow: 0 0 5px rgb(0 0 0 / 8%);
+    color: rgba(0,0,0,.7);
+    font-size: 13px;
+	text-decoration: none;
+}
+
+.klb-single-video span {
+    overflow: hidden;
+    padding: 0;
+    max-width: 0;
+    white-space: nowrap;
+    font-weight: 600;
+    transition: padding 0.4s cubic-bezier(.175,.885,.32,1.15),max-width 0.4s cubic-bezier(.175,.885,.32,1.15);
+}
+
+.klb-single-video a:hover span {
+    padding-right: 25px;
+    max-width: 280px;
+}
+
+.klb-single-video a:before {
+    font-family: "klbtheme";
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: '\e81b';
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 50px;
+}
+
+.mfp-iframe-scaler button.mfp-close {
+    width: auto;
+    top: -40px !important;
+    background: none !important;
+    right: 0 !important;
+}

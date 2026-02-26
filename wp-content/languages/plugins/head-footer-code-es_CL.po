@@ -1,0 +1,423 @@
+# Translation of Plugins - Head &amp; Footer Code - Stable (latest release) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Head &amp; Footer Code - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-08-11 16:06:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Head &amp; Footer Code - Stable (latest release)\n"
+
+#. translators: %s will be replaced with plugin name Head & Footer Code
+#: templates/settings.php:38
+msgid "Review %s"
+msgstr "Valora %s"
+
+#: classes/techwebux/hfc/class-settings.php:707
+msgid "Define what post types will support article specific features, and which non-priviledged user roles will have access to it."
+msgstr "Define qué tipos de contenido admitirán características específicas de artículos, y qué perfiles de usuario sin privilegios tendrán acceso a los mismos."
+
+#: classes/techwebux/hfc/class-settings.php:497
+msgid "Only allow for roles you trust to handle code responsibly!"
+msgstr "¡Permitir solo para perfiles en los que confíes en que gestionen código de manera responsable!"
+
+#: classes/techwebux/hfc/class-settings.php:496
+msgid "This may pose a security risk if those users are not fully trusted!"
+msgstr "¡Esto puede suponer un riesgo de seguridad si esos usuarios no son de total confianza!"
+
+#: classes/techwebux/hfc/class-settings.php:495
+msgid "Granting access to non-administrator roles (e.g., Editors) allows users to inject raw HTML, CSS, and JavaScript into individual posts and pages, and categories!"
+msgstr "¡Conceder acceso a perfiles que no sean administradores (p. ej.: editores) permite a los usuarios inyectar HTML, CSS y JavaScript puro en páginas, entradas y categorías individuales!"
+
+#: classes/techwebux/hfc/class-settings.php:493
+msgid "Security Notice"
+msgstr "Aviso de seguridad"
+
+#: classes/techwebux/hfc/class-settings.php:490
+msgid "Choose which unprivileged user roles can manage article-specific and category-specific code."
+msgstr "Elige qué perfiles de usuario sin privilegios pueden gestionar código específico para artículos y para categorías."
+
+#: classes/techwebux/hfc/class-settings.php:487
+msgid "Author"
+msgstr "Autor"
+
+#: classes/techwebux/hfc/class-settings.php:486
+msgid "Editor"
+msgstr "Editor"
+
+#: classes/techwebux/hfc/class-settings.php:478
+msgid "Allow for User Roles"
+msgstr "Permitir a los perfiles de usuario"
+
+#: classes/techwebux/hfc/class-common.php:491
+msgid "Enter only safe, secure, and code from a trusted source. Unsafe or invalid code may break your site or pose security risks."
+msgstr "Introduce únicamente código limpio, seguro y de una fuente de confianza. El código inseguro o no válido puede romper tu sitio o suponer riesgos de seguridad."
+
+#: classes/techwebux/hfc/class-common.php:490
+msgid "WARNING!"
+msgstr "¡ADVERTENCIA!"
+
+#. translators: Plugin name
+#: templates/settings.php:24
+msgid "%s Settings"
+msgstr "Ajustes de %s"
+
+#: classes/techwebux/hfc/class-settings.php:471
+msgid "Note that if you add head, body, and footer code for individual articles and then disable that post type, the article-specific code will no longer be output and only the site-wide code will be used."
+msgstr "Ten en cuenta que si agregas código para artículos individuales a la cabecera, cuerpo o pie de página y luego desactivas ese tipo de contenido, el código específico para el artículo ya no estará disponible y solo se usará el código para toda la web."
+
+#: classes/techwebux/hfc/class-settings.php:469
+msgid "Choose the post types that will have an article specific section."
+msgstr "Elige qué tipos de contenido tendrán una sección específica para el artículo."
+
+#: classes/techwebux/hfc/class-metabox-article.php:113
+msgid "article specific"
+msgstr "específica para el artículo"
+
+#. translators: 1: category or article specific, HTML comment code
+#: templates/hfc-form.php:43
+msgid "Please note, if you leave empty any of %1$s fields and choose replace behavior, site-wide code will not be removed until you add empty space or empty HTML comment %2$s here."
+msgstr "Por favor, ten en cuenta que si dejas vacío alguno de los campos %1$s y eliges el comportamiento de reemplazar, el código de todo el sitio no se eliminará hasta que añadas aquí un espacio vacío o un comentario HTML vacío %2$s."
+
+#. translators: Link to Plugin Settings page
+#: templates/hfc-form.php:35
+msgid "They work in exactly the same way as site-wide code, which you can configure under %s."
+msgstr "Funcionan exactamente igual que el código de todo el sitio, que puedes configurar en %s."
+
+#. translators: 1: User role(s) that can manage options (Super Admin and/or
+#. Administrator), 2: Path/Name of Plugin Settings page
+#: templates/hfc-form.php:28
+msgid "They work in exactly the same way as site-wide code, which %1$s can configure under %2$s."
+msgstr "Funcionan exactamente igual que el código de todo el sitio, que %1$s puedes configurar en %2$s."
+
+#: classes/techwebux/hfc/class-metabox-category.php:39
+msgid "category specific"
+msgstr "categoría específica"
+
+#. translators: 1: category or article specific, 2: </head>, 3: <body>, 4:
+#. </body>
+#: templates/hfc-form.php:14
+msgid "Here you can insert %1$s code for HEAD (before the %2$s), BODY (after the %3$s) and FOOTER (before the %4$s) sections."
+msgstr "Aquí puedes insertar código %1$s para las secciones HEAD (antes del %2$s), BODY (después del %3$s) y FOOTER (antes del %4$s)."
+
+#. translators: 1: Plugin name, 2: PHP or WordPress, 3: min version of PHP or
+#. WordPress
+#: classes/techwebux/hfc/class-main.php:54
+msgid "The %1$s plugin cannot run on %2$s version older than %3$s. Please contact your host and ask them to upgrade."
+msgstr "El plugin %1$s no funciona con una versión de %2$s anterior a la %3$s. Ponte en contacto con tu proveedor de alojamiento y pídele que lo actualice."
+
+#: templates/hfc-form.php:29 templates/hfc-form.php:36
+msgid "Tools"
+msgstr "Herramientas"
+
+#: templates/hfc-form.php:25
+msgid "Administrator"
+msgstr "Administrador"
+
+#: templates/hfc-form.php:24
+msgid "and"
+msgstr "y"
+
+#: templates/hfc-form.php:24
+msgid "Super Admin"
+msgstr "Súper administrador"
+
+#: classes/techwebux/hfc/class-settings.php:417
+msgid "Chose if the Homepage specific code will be enqueued on paged pages 2, 3, and so on."
+msgstr "Elije si el código específico de la página de inicio se debe agregar también en las páginas 2, 3, etc."
+
+#: classes/techwebux/hfc/class-settings.php:414
+msgid "Do not add on paged homepage"
+msgstr "No agregar en página de inicio paginada"
+
+#: classes/techwebux/hfc/class-settings.php:413
+msgid "Add on paged homepage"
+msgstr "Agregar en página de inicio paginada"
+
+#: classes/techwebux/hfc/class-settings.php:405
+msgid "On paged homepage"
+msgstr "En la página de inicio paginada"
+
+#: classes/techwebux/hfc/class-settings.php:217
+msgid "If you wish to process shortcodes in the BODY section, enable this option."
+msgstr "Activa esta opción si quieles procesar los shortcodes de la sección BODY."
+
+#: classes/techwebux/hfc/class-settings.php:268
+msgid "Process FOOTER Shortcodes"
+msgstr "Procesar shortcodes del FOOTER"
+
+#: classes/techwebux/hfc/class-settings.php:205
+msgid "Process BODY Shortcodes"
+msgstr "Procesar shortcodes del BODY"
+
+#: classes/techwebux/hfc/class-settings.php:150
+msgid "If you wish to process shortcodes in the HEAD section, enable this option. Please note, shortcodes with malformed output in the HEAD section can break the rendering of your website!"
+msgstr "Si quieres procesar shortcodes en la sección HEAD activa esta opción. ¡Por favor, ten en cuenta que los shortcodes con una salida mal formada en la sección HEAD pueden romper la visualización de tu web!"
+
+#: classes/techwebux/hfc/class-settings.php:138
+msgid "Process HEAD Shortcodes"
+msgstr "Procesar shortcodes de HEAD"
+
+#. translators: %s will be replaced with a link to wp_body_open page on
+#. WordPress.org
+#: classes/techwebux/hfc/class-settings.php:771
+msgid "Make sure that your active theme support %s hook."
+msgstr "Asegúrate de que tu tema activo es compatible con el gancho %s."
+
+#. translators: 1: italicized 'unseen elements', 2: <script>, 3: <style>, 4:
+#. italicized sentence 'could break layouts or lead to unexpected situations'
+#: classes/techwebux/hfc/class-settings.php:757
+msgid "Usage of this field should be reserved for output of %1$s like %2$s and %3$s tags or additional metadata. It should not be used to add arbitrary HTML content to a page that %4$s."
+msgstr "El uso de este campo debe reservarse para procesar %1$s, como las tags %2$s y %3$s o metadatos adicionales. No debería usarse para agregar contenido HTML arbitrario a una página, lo que %4$s."
+
+#. Description of the plugin
+#: head-footer-code.php
+msgid "Easy add site-wide, category or article specific custom code before the closing <strong>&lt;/head&gt;</strong> and <strong>&lt;/body&gt;</strong> or after opening <strong>&lt;body&gt;</strong> HTML tag."
+msgstr "Agrega fácilmente código personalizado específico para un artículo, categoría o a todo el sitio antes de la etiqueta HTML <strong>&lt;/head&gt;</strong> y <strong>&lt;/body&gt;</strong> de cierre, o después de la etiqueta HTML de apertura <strong>&lt;body&gt;</strong>."
+
+#. translators: This is label for article without defined code
+#: classes/techwebux/hfc/class-grid.php:107
+msgid "No custom code"
+msgstr "Sin código personalizado"
+
+#. translators: This is label for article specific mode meaning 'Replace
+#. site-wide with'
+#: classes/techwebux/hfc/class-grid.php:120
+msgid "Replace"
+msgstr "Reemplazar"
+
+#. translators: This is description for article specific mode label 'Replace'
+#: classes/techwebux/hfc/class-grid.php:118
+msgid "Replace site-wide code with article specific code"
+msgstr "Reemplazar el código de todo el sitio con código específico para el artículo"
+
+#. translators: This is label for article specific mode meaning 'Append to
+#. site-wide' )
+#: classes/techwebux/hfc/class-grid.php:115
+msgid "Append"
+msgstr "Adjuntar"
+
+#. translators: This is description for article specific mode label 'Append'
+#: classes/techwebux/hfc/class-grid.php:113
+msgid "Append article specific code to site-wide code"
+msgstr "Adjuntar el código específico del artículo al código de todo el sitio"
+
+#. translators: This is description for article without defined code
+#: classes/techwebux/hfc/class-grid.php:105
+msgid "No article specific code defined in any section"
+msgstr "No se ha definido ningún código específico del artículo en ninguna sección"
+
+#: classes/techwebux/hfc/class-grid.php:97
+msgid "Article specific code is defined in FOOTER section"
+msgstr "El código específico del artículo se define en la sección FOOTER"
+
+#: classes/techwebux/hfc/class-grid.php:90
+msgid "Article specific code is defined in BODY section"
+msgstr "El código específico del artículo se define en la sección BODY"
+
+#: classes/techwebux/hfc/class-grid.php:83
+msgid "Article specific code is defined in HEAD section"
+msgstr "El código específico del artículo se define en la sección HEAD"
+
+#: classes/techwebux/hfc/class-settings.php:729
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/techwebux/hfc/class-settings.php:700
+msgid "Define code and behavior for the Homepage in Blog Posts mode."
+msgstr "Define el código y su comportamiento para la página de inicio en el modo de entradas del blog."
+
+#: classes/techwebux/hfc/class-settings.php:693
+msgid "Define site-wide code and behavior. You can Add custom content like JavaScript, CSS, HTML meta and link tags, Google Analytics, site verification, etc."
+msgstr "Define el código y comportamiento en todo el sitio. Puedes agregar contenido personalizado como JavaScript, CSS, meta HTML y etiquetas de enlaces, Google Analytics, verificación del sitio, etc."
+
+#: classes/techwebux/hfc/class-settings.php:443
+msgid "Article specific settings"
+msgstr "Ajustes específicos para artículos"
+
+#: classes/techwebux/hfc/class-settings.php:398
+msgid "Chose how the Homepage specific code will be enqueued in relation to site-wide code."
+msgstr "Elige cómo debe encolarse el código específico para la página de inicio en relación con el código para todo el sitio."
+
+#. translators: %s will be replaced with preformatted HTML tag </body>
+#: classes/techwebux/hfc/class-settings.php:376
+msgid "Code to enqueue in footer section (before the %s) on Homepage."
+msgstr "Código a poner en cola en la sección del pie de página (antes de %s) en la página de inicio."
+
+#: classes/techwebux/hfc/class-settings.php:365
+#: classes/techwebux/hfc/class-settings.php:372
+msgid "Homepage FOOTER Code"
+msgstr "Código de PIE DE PÁGINA en la página de inicio"
+
+#. translators: %s: preformatted HTML tag <body>
+#: classes/techwebux/hfc/class-settings.php:354
+msgid "Code to enqueue in BODY section (after the %s) on Homepage."
+msgstr "Código a poner en cola en la sección BODY (después de %s) en la página de inicio."
+
+#: classes/techwebux/hfc/class-settings.php:343
+#: classes/techwebux/hfc/class-settings.php:350
+msgid "Homepage BODY Code"
+msgstr "Código de BODY en la página de inicio"
+
+#. translators: %s will be replaced with preformatted HTML tag </head>
+#: classes/techwebux/hfc/class-settings.php:333
+msgid "Code to enqueue in HEAD section (before the %s) on Homepage."
+msgstr "Código a poner en cola en la sección HEAD (antes de %s) en la página de inicio."
+
+#: classes/techwebux/hfc/class-settings.php:322
+#: classes/techwebux/hfc/class-settings.php:329
+msgid "Homepage HEAD Code"
+msgstr "Código HEAD en la pagina de inicio"
+
+#: classes/techwebux/hfc/class-settings.php:309
+msgid "Head, body and footer code on Homepage in Blog Posts mode"
+msgstr "Código de head, body y footer en la página de inicio en el modo de entradas del blog"
+
+#. translators: %s will be replaced with preformatted HTML tag <body>
+#: classes/techwebux/hfc/class-settings.php:168
+msgid "Code to enqueue in BODY section (after the %s)."
+msgstr "Código a poner en cola en la sección BODY (después de %s)."
+
+#. translators: %s will be replaced with preformatted HTML tag </head>
+#: classes/techwebux/hfc/class-settings.php:105
+msgid "Code to enqueue in HEAD section (before the %s)."
+msgstr "Código a poner en cola en la sección HEAD (antes de %s)."
+
+#: classes/techwebux/hfc/class-settings.php:81
+msgid "Site-wide head, body and footer code"
+msgstr "Código en head, body y footer en todo el sitio"
+
+#: classes/techwebux/hfc/class-settings.php:67
+msgid "Requires WordPress 5.2 or later."
+msgstr "Requiere WordPress 5.2 o posterior."
+
+#: templates/hfc-form.php:71 templates/hfc-form.php:81
+#: templates/hfc-form.php:91
+msgid "Example"
+msgstr "Ejemplo"
+
+#: classes/techwebux/hfc/class-settings.php:395 templates/hfc-form.php:59
+msgid "Replace the site-wide code"
+msgstr "Reemplazar el código de todo el sitio"
+
+#: classes/techwebux/hfc/class-settings.php:394 templates/hfc-form.php:58
+msgid "Append to the site-wide code"
+msgstr "Adjuntar al código de todo el sitio"
+
+#: classes/techwebux/hfc/class-settings.php:761
+msgid "could break layouts or lead to unexpected situations"
+msgstr "podría romper diseños o llevar a situaciones inesperadas"
+
+#: classes/techwebux/hfc/class-settings.php:758
+msgid "unseen elements"
+msgstr "elementos no vistos"
+
+#: templates/settings.php:32
+msgid "Community Support"
+msgstr "Soporte de la comunidad"
+
+#: templates/settings.php:31
+msgid "FAQ"
+msgstr "FAQ"
+
+#. translators: 1: default BODY priority, 2: preformatted HTML tag <body>
+#: classes/techwebux/hfc/class-settings.php:188
+msgid "Priority for enqueued BODY code. Default is %1$d. Smaller number inject code closer to %2$s."
+msgstr "Prioridad del código del BODY en la cola. El valor por defecto es %1$d. Un número menor inyecta el código más cerca de %2$s."
+
+#: classes/techwebux/hfc/class-settings.php:178
+msgid "BODY Priority"
+msgstr "Prioridad del cuerpo"
+
+#: classes/techwebux/hfc/class-settings.php:157
+#: classes/techwebux/hfc/class-settings.php:164 templates/hfc-form.php:76
+msgid "BODY Code"
+msgstr "Código del cuerpo"
+
+#: classes/techwebux/hfc/class-settings.php:280
+msgid "If you wish to process shortcodes in the FOOTER section, enable this option."
+msgstr "Si quieres procesar los shortcodes en la sección del PIE DE PÁGINA, activa esta opción."
+
+#: classes/techwebux/hfc/class-settings.php:147
+#: classes/techwebux/hfc/class-settings.php:214
+#: classes/techwebux/hfc/class-settings.php:277
+msgid "Disable"
+msgstr "Desactivar"
+
+#: classes/techwebux/hfc/class-settings.php:146
+#: classes/techwebux/hfc/class-settings.php:213
+#: classes/techwebux/hfc/class-settings.php:276
+msgid "Enable"
+msgstr "Activar"
+
+#. translators: 1: default FOOTER priority, 2: preformatted HTML tag </body>
+#: classes/techwebux/hfc/class-settings.php:255
+msgid "Priority for enqueued FOOTER code. Default is %1$d. Larger number inject code closer to %2$s."
+msgstr "Prioridad del código del FOOTER en la cola. El valor por defecto es %1$d. Un número menor inyecta el código más cerca de %2$s."
+
+#: classes/techwebux/hfc/class-settings.php:245
+msgid "FOOTER Priority"
+msgstr "Prioridad del pie de página"
+
+#. translators: 1: default HEAD priority, 2: preformatted HTML tag </head>
+#: classes/techwebux/hfc/class-settings.php:125
+msgid "Priority for enqueued HEAD code. Default is %1$d. Larger number inject code closer to %2$s."
+msgstr "Prioridad del código del HEAD en la cola. El valor por defecto es %1$d. Un número menor inyecta el código más cerca de %2$s."
+
+#: classes/techwebux/hfc/class-settings.php:115
+msgid "HEAD Priority"
+msgstr "Prioridad de la cabecera"
+
+#: classes/techwebux/hfc/class-settings.php:744
+msgid "Support"
+msgstr "Soporte"
+
+#: classes/techwebux/hfc/class-settings.php:715
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: classes/techwebux/hfc/class-settings.php:460
+msgid "Post Types"
+msgstr "Tipos de entrada"
+
+#. translators: %s will be replaced with preformatted HTML tag </body>
+#: classes/techwebux/hfc/class-settings.php:235
+msgid "Code to enqueue in footer section (before the %s)."
+msgstr "Código a poner en cola en la sección footer (antes de %s)."
+
+#: classes/techwebux/hfc/class-settings.php:224
+#: classes/techwebux/hfc/class-settings.php:231 templates/hfc-form.php:86
+msgid "FOOTER Code"
+msgstr "Código del pie de página"
+
+#: classes/techwebux/hfc/class-settings.php:94
+#: classes/techwebux/hfc/class-settings.php:101 templates/hfc-form.php:66
+msgid "HEAD Code"
+msgstr "Código de la cabecera"
+
+#: classes/techwebux/hfc/class-settings.php:386 templates/hfc-form.php:54
+msgid "Behavior"
+msgstr "Comportamiento"
+
+#. Author URI of the plugin
+#: head-footer-code.php
+msgid "https://urosevic.net/"
+msgstr "https://urosevic.net/"
+
+#. Author of the plugin
+#: head-footer-code.php
+msgid "Aleksandar Urošević"
+msgstr "Aleksandar Urošević"
+
+#. Plugin URI of the plugin
+#: head-footer-code.php
+msgid "https://urosevic.net/wordpress/plugins/head-footer-code/"
+msgstr "https://urosevic.net/wordpress/plugins/head-footer-code/"
+
+#. Plugin Name of the plugin
+#: head-footer-code.php
+msgid "Head & Footer Code"
+msgstr "Head & Footer Code"

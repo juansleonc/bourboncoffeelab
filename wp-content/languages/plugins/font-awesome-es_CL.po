@@ -1,0 +1,239 @@
+# Translation of Plugins - Font Awesome - Stable (latest release) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Font Awesome - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-12-04 22:09:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Font Awesome - Stable (latest release)\n"
+
+#. translators: 1: newline, 2: self-hosted stylesheet URL,
+#: includes/class-fontawesome-svg-styles-manager.php:350
+msgid "Here's the URL on your WordPress server where you need to make the stylesheet available:%1$s%2$s"
+msgstr "Esta es la URL de tu servidor WordPress en la que debes poner a disposición la hoja de estilos:%1$s%2$s"
+
+#: includes/class-fontawesome-svg-styles-manager.php:339
+msgid "Due to another issue, we couldn't find a link to the stylesheet's contents for you to manually place."
+msgstr "Debido a otro problema, no hemos podido encontrar un enlace al contenido de la hoja de estilos para que lo coloques manualmente."
+
+#: includes/class-fontawesome-svg-styles-manager.php:334
+msgid "Due to another issue, we couldn't determine the URL where you need to make the stylesheet available."
+msgstr "Debido a otro problema, no hemos podido determinar la URL en la que debes poner a disposición la hoja de estilos."
+
+#: includes/class-fontawesome-svg-styles-manager.php:329
+msgid "We couldn't save the stylesheet required to render SVG icons added in the Block Editor. We don't have permission to save files on your WordPress site. Make an exception to allow it, or place the stylesheet manually."
+msgstr "No hemos podido guardar la hoja de estilos obligatoria para representar los íconos SVG agregados en el editor de bloques. No tenemos permiso para guardar archivos en tu sitio de WordPress. Haz una excepción para permitirlo o coloca la hoja de estilos manualmente."
+
+#: includes/class-fontawesome-activator.php:33
+#: includes/class-fontawesome-activator.php:39
+msgid "Font Awesome Activation Error"
+msgstr "Error de activación de Font Awesome"
+
+#: font-awesome.php:269
+msgid "The Font Awesome plugin has a warning"
+msgstr "El plugin Font Awesome tiene una advertencia"
+
+#: block-editor/build/block.json
+msgctxt "block description"
+msgid "Add a Font Awesome icon."
+msgstr "Agregar un ícono de Font Awesome"
+
+#: block-editor/build/block.json
+msgctxt "block title"
+msgid "Font Awesome Icon"
+msgstr "Ícono de Font Awesome"
+
+#: includes/class-fontawesome-svg-styles-manager.php:235
+#: includes/class-fontawesome-svg-styles-manager.php:416
+msgid "Current user lacks permissions required to fetch Font Awesome SVG stylesheets for self-hosting. Try logging in as an admin user."
+msgstr "El usuario actual carece de los permisos obligatorios para obtener hojas de estilos SVG de Font Awesome para autoalojamiento. Intenta acceder como usuario administrador."
+
+#: includes/class-fontawesome-svg-styles-manager.php:86
+msgid "Failed to get WP uploads directory."
+msgstr "Error al obtener el directorio de subidas de WP."
+
+#: includes/class-fontawesome-svg-styles-manager.php:59
+msgid "Failed to get or initialize WP uploads directory."
+msgstr "Error al obtener o inicializar el directorio de subidas de WP."
+
+#: includes/class-fontawesome-exception.php:275
+msgid "The requested access token could not be retrieved."
+msgstr "No se pudo recuperar el token de acceso solicitado."
+
+#: includes/class-fontawesome-exception.php:173
+msgid "Your WordPress server failed when trying to communicate with the Font Awesome API token endpoint. Try again to update your API token."
+msgstr "Tu servidor de WordPress ha fallado al intentar comunicarse con la variable del token de la API de Font Awesome. Inténtalo de nuevo para actualizar tu token de API."
+
+#: includes/class-fontawesome-svg-styles-manager.php:457
+msgid "Invalid metadata for self-hosted asset. Please report this on the plugin support forum so it can be investigated."
+msgstr "Metadatos no válidos para un recurso autoalojado. Por favor, informa de esto en el foro de soporte del plugin para que pueda ser investigado."
+
+#: includes/class-fontawesome-svg-styles-manager.php:250
+#: includes/class-fontawesome-svg-styles-manager.php:444
+msgid "Failed to initialize filesystem usage for creating self-hosted assets. Please report this on the plugin support forum so it can be investigated."
+msgstr "Fallo al inicializar el uso del sistema de archivos para crear recursos autoalojados. Por favor, informa de esto en el foro de soporte del plugin para que pueda ser investigado."
+
+#: includes/class-fontawesome-svg-styles-manager.php:207
+#: includes/class-fontawesome-svg-styles-manager.php:429
+msgid "Failed to determine filesystem location for self-hosted asset. Please report this on the plugin support forum so it can be investigated."
+msgstr "No se pudo determinar la ubicación del sistema de archivos para el recurso autoalojado. Por favor, informa de esto en el foro de soporte del plugin para que pueda ser investigado."
+
+#: includes/class-fontawesome-svg-styles-manager.php:196
+msgid "Failed to determine Font Awesome version when setting up self-hosted assets."
+msgstr "No se pudo determinar la versión de Font Awesome al configurar activos autoalojados."
+
+#: includes/class-fontawesome-exception.php:381
+msgid "This plugin supports WordPress Multisite only for WordPress versions 5.1.0 or newer."
+msgstr "Este plugin es compatible con WordPress multisitiio solo para las versión de WordPress 5.1.0 o posteriores."
+
+#: includes/class-fontawesome-exception.php:358
+msgid "Whoops! Font Awesome Pro Version 6 is not available from CDN. Please use a Kit."
+msgstr "¡Ups! Font Awesome Pro Version 6 no está disponible en CDN. Por favor, usa un Kit."
+
+#: includes/class-fontawesome-exception.php:503
+msgid "Eek! We're missing the information we need to load the version of Font Awesome you have selected. Go to your Font Awesome plugin settings page, re-select a version, and save. If that doesn't work, try deactivating and then re-activating the plugin. If that doesn't work either, you might need to delete and re-install the plug-in."
+msgstr "¡Ups! Nos falta la información que necesitamos para cargar la versión de Font Awesome que has seleccionado. Ve a tu página de ajustes del plugin Font Awesome, vuelve a seleccionar una versión y guárdala. Si eso no funciona, intenta desactivar y volver a activar el plugin. Si eso tampoco funciona, puede que tengas que borrar y volver a instalar el plugin."
+
+#: includes/class-fontawesome-exception.php:615
+msgid "Failed during upgrade when trying to delete the main Font Awesome option."
+msgstr "Fallo durante la actualización al intentar borrar la opción principal de Font Awesome."
+
+#: font-awesome.php:417
+msgid "A theme or plugin tried to initialize Font Awesome, but failed."
+msgstr "Un tema o plugin ha intentado iniciar Font Awesome, pero ha fallado."
+
+#: font-awesome.php:331
+msgid "Font Awesome Plugin Error Details"
+msgstr "Detalles de error del plugin Font Awesome"
+
+#: font-awesome.php:284
+msgid "No error message available."
+msgstr "No hay disponible ningún mensaje de error."
+
+#: font-awesome.php:268
+msgid "The Font Awesome plugin caught a fatal error"
+msgstr "El plugin Font Awesome ha detectado un error fatal"
+
+#: font-awesome.php:245
+msgid "Font Awesome could not be activated."
+msgstr "No se pudo activar Font Awesome."
+
+#. translators: 1: minimum required php version 2: current php version
+#: font-awesome.php:177
+msgid "Font Awesome requires a PHP Version of at least %1$s. Your current version of PHP is %2$s."
+msgstr "Font Awesome necesita, al menos, la versión PHP %1$s. Tu versión actual de PHP es %2$s."
+
+#: font-awesome.php:162
+msgid "Unable To Load Font Awesome Plugin."
+msgstr "No se pudo cargar el plugin Font Awesome."
+
+#: includes/class-fontawesome-exception.php:582
+msgid "We were not able to save conflict detection data to your WordPress database."
+msgstr "No hemos podido guardar los datos de detección de conflictos en tu base de datos de WordPress."
+
+#: includes/class-fontawesome-exception.php:558
+msgid "Inconceivable! Somehow the conflict detection information got garbled into something we can't understand."
+msgstr "¡Incomprensible! Por algún motivo, la información de detección de conflictos se ha convertido en algo ilegible que no podemos entender."
+
+#: includes/class-fontawesome-exception.php:532
+msgid "When trying to load Font Awesome, the plugin's configuration was invalid. Try deactivating, uninstalling, and re-activating the Font Awesome plugin."
+msgstr "Al intentar cargar Font Awesome, la configuración del plugin no ha sido válida. Intenta desactivar, desinstalar y reactivar el plugin Font Awesome."
+
+#: includes/class-fontawesome-exception.php:479
+msgid "Something went wrong when we tried to store the list of available Font Awesome versions in your WordPress database."
+msgstr "Algo salió mal cuando hemos intentado almacenar la lista de versiones disponibles de Font Awesome en tu base de datos de WordPress."
+
+#: includes/class-fontawesome-exception.php:454
+msgid "An unexpected response was received from the Font Awesome API server."
+msgstr "Se ha recibido una respuesta inesperada desde el servidor de la API de Font Awesome."
+
+#: includes/class-fontawesome-exception.php:428
+msgid "Your WordPress server failed trying to send a request to the Font Awesome API server."
+msgstr "Tu servidor de WordPress ha fallado al intentar enviar una solicitud al servidor de la API de Font Awesome."
+
+#: includes/class-fontawesome-exception.php:403
+msgid "A theme or plugin registered with Font Awesome threw an exception."
+msgstr "Un tema o plugin registrado con Font Awesome ha lanzado una excepción."
+
+#: includes/class-fontawesome-exception.php:344
+msgid "Whoops! You found a corner case here. Older Version Compatibility for our webfont technology was not introduced until Font Awesome 5.1.0. Try using a newer version, disabling version 4 compatibility, or switch to SVG."
+msgstr "¡Ups! Has encontrado aquí un callejón sin salida. La compatibilidad de la versión antigua para nuestra tecnología de fuentes web no ha sido introducida hasta Font Awesome 5.1.0. Intenta usar una versión más reciente, desactivando la compatibilidad con la versión 4 o cambia a SVG."
+
+#: includes/class-fontawesome-exception.php:329
+msgid "A Font Awesome version number was expected but not given"
+msgstr "Se esperaba un número de versión de Font Awesome, pero no se ha proporcionado"
+
+#: includes/class-fontawesome-exception.php:314
+msgid "A kitToken was given without a valid apiToken"
+msgstr "Se ha proporcionado un kitToken sin un apiToken válido"
+
+#: includes/class-fontawesome-exception.php:299
+msgid "Pseudo-elements cannot be disabled with webfont technology."
+msgstr "Los seudoelementos no pueden ser desactivados con la tecnología fuentes web."
+
+#: includes/class-fontawesome-exception.php:248
+msgid "Your API Token was valid but we couldn't save it for some reason."
+msgstr "Tu token para la API ha sido válido, pero, por algún motivo, no hemos podido guardarlo."
+
+#: includes/class-fontawesome-exception.php:223
+msgid "Oh no! It looks like your API Token was valid, but the Font Awesome API server returned an invalid response."
+msgstr "¡Oh, no! Parece que tu token para la API ha sido válido, pero el servidor de la API de Font Awesome ha devuelto una respuesta no válida."
+
+#: includes/class-fontawesome-exception.php:197
+msgid "Whoops, it looks like that API Token is not valid. Try another one?"
+msgstr "Vaya, parece que ese token para la API no es válido. ¿Pruebas con otro?"
+
+#: includes/class-fontawesome-exception.php:148
+msgid "Whoops, it looks like you have not provided a Font Awesome API Token. Enter one on the Font Awesome plugin settings page."
+msgstr "Vaya, parece que no has proporcionado un token para la API de Font Awesome. Introduce uno en la página de ajustes del plugin Font Awesome."
+
+#: includes/class-fontawesome.php:1055
+msgid "You've got more than one version of the Font Awesome plugin installed."
+msgstr "Tienes instalada más de una versión del plugin Font Awesome."
+
+#. translators: 1: path to plugin or theme code file 2: current Font Awesome
+#. plugin version number
+#: includes/class-fontawesome.php:1044
+msgid "The active version of the Font Awesome plugin is being loaded by this plugin or theme: %1$s since it's the newest (%2$s). We recommend you update the plugin above to the latest version. In the meantime, we'll use that newer version for editing your Font Awesome settings so you'll be sure to hit 88mph with those icons."
+msgstr "La versión activa del plugin Font Awesome está siendo cargada por este plugin o tema: %1$s, ya que es el más reciente (%2$s). Te recomendamos actualizar el plugin anterior a la última versión. Mientras tanto, usaremos esa nueva versión para editar tus ajustes de Font Awesome, así te asegurarás de alcanzar las 88 millas por hora con esos íconos."
+
+#: includes/class-fontawesome.php:1040
+msgid "Great Scott!"
+msgstr "¡Genial Scott!"
+
+#. translators: label for link to settings page on plugin listing
+#: includes/class-fontawesome.php:1020
+#: admin/build/381-057637e1868de5670c65.js:4
+msgid "Settings"
+msgstr "Ajustes"
+
+#. translators: add_options_page page_title
+#: includes/class-fontawesome.php:1001
+msgid "Font Awesome Settings"
+msgstr "Ajustes de Font Awesome"
+
+#. Description of the plugin
+#: index.php
+msgid "The official way to use Font Awesome Free or Pro icons on your site, brought to you by the Font Awesome team."
+msgstr "La forma oficial de usar en tu sitio los íconos de Font Awesome gratis o Pro que te ofrece el equipo de Font Awesome."
+
+#. Author URI of the plugin
+#: index.php
+msgid "https://fontawesome.com/"
+msgstr "https://fontawesome.com/"
+
+#. Plugin URI of the plugin
+#: index.php
+msgid "https://fontawesome.com/how-to-use/on-the-web/using-with/wordpress"
+msgstr "https://fontawesome.com/how-to-use/on-the-web/using-with/wordpress"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#. translators: add_options_page menu_title
+#: index.php includes/class-fontawesome.php:1003
+msgid "Font Awesome"
+msgstr "Font Awesome"

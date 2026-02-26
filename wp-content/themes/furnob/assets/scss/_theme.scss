@@ -1,0 +1,76 @@
+$themeRoot: (
+  color: (
+    'background': #fff,
+    'background-light': #eee,
+    'background-extra-light': #f8f8f8,
+    'text': #000,
+    'desc': #8a8b8e,
+    'light': #bbb,
+    'primary': #eb7700,
+    'secondary': #016a78,
+    'third': #3e516a,
+    'success': #47b486,
+    'success-dark': #287c58,
+    'success-light': #c9e3d8,
+    'warning': #f5af28,
+    'warning-light': #f4e3d1,
+    'danger': #f4344f,
+    'info': #aeb9be,
+    'border': #e5e5e5,
+    'form-border': #ddd,
+    'form-active': #8f8f8f,
+    'form-placeholder': #adadad
+  ),
+  font: (
+    'primary': ('Jost', sans-serif),
+    'secondary': ('Jost', sans-serif)
+  ),
+  size: (
+    'site-width': 1290px,
+    'form-height': 42px
+  )
+);
+
+// Social Media Color
+$facebook: #3b5998;
+$forumbee: #86ac2f;
+$instagram: #fd1d1d;
+$instagram-gradient: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+$pinterest: #e60023;
+$spotify: #1db954;
+$twitch: #9146ff;
+$whatsapp: #25d366;
+$github: #000;
+$odnoklassniki: #ed812b;
+$amazon: #ff9900;
+$dropbox: #007ee5;
+$snapchat: #fffc00;
+$foursquare: #f94877;
+$lastfm: #d51007;
+$skype: #00aff0;
+$stackoverflow: #f48024;
+$twitter: #1da1f2;
+$xing: #cfdc00;
+$tripadvisor: #00af87;
+$vimeo: #1ab7ea;
+$codeopen: #000;
+$dribbble: #ea4c89;
+$google: #ea4335;
+$linkedin: #0077b5;
+$slack: #3eb991;
+$stumbleupon: #eb4924;
+$vine: #00b488;
+$yelp: #af0606;
+$pocket: #ef4056;
+$quora: #a82400;
+$behance: #1769ff;
+$delicious: #3399ff;
+$paypal: #003087;
+$soundcloud: #ff8800;
+$tumblr: #35465c;
+$vkontakte: #45668e;
+$youtube: #ff0000;
+$fivepx: #34bf49;
+$deviantart: #05cc47;
+$codiepie: #000;
+$reddit: #ff4500;

@@ -1,0 +1,2388 @@
+# Translation of Plugins - Google for WooCommerce - Stable (latest release) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Google for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-14 17:26:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Google for WooCommerce - Stable (latest release)\n"
+
+#. translators: %s: The homepage URL.
+#: src/Exception/InvalidDomainName.php:43
+msgid "Unable to create an account. The homepage URL \"%s\" is not valid."
+msgstr "No se pudo crear una cuenta. La URL de la página de inicio “%s” no es válida."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:408
+msgid "Whether the Campaign has political content as defined by Google's EU political content policy."
+msgstr "Si la campaña tiene contenido político según la definición de la política de contenido político de la UE de Google."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:162
+msgid "Additional details related to the recommendation"
+msgstr "Detalles adicionales relacionados con la recomendación"
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:82
+msgid "Filter recommendations by campaign id"
+msgstr "Filtrar recomendaciones por el ID de la campaña"
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:73
+msgid "Filter recommendations by one or more types"
+msgstr "Filtrar recomendaciones por uno o más tipos"
+
+#: src/Ads/AdsRecommendationsService.php:256 js/build/commons.js:44
+msgid "Current"
+msgstr "Actual"
+
+#: src/Admin/SystemStatusService.php:103
+msgid "No sync mode configuration found"
+msgstr "No se encontró la configuración del modo de sincronización"
+
+#: src/Admin/SystemStatusService.php:87
+msgid "Error retrieving sync mode configuration"
+msgstr "Error al recuperar la configuración del modo de sincronización"
+
+#: src/Admin/SystemStatusService.php:82 src/Admin/SystemStatusService.php:98
+msgid "Sync Mode Status:"
+msgstr "Estado del modo de sincronización:"
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:167
+msgid "Last synced date and time."
+msgstr "Fecha y hora de la última sincronización."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:157
+msgid "Status of the campaign."
+msgstr "Estado de la campaña."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:153
+msgid "Campaign name associated with the recommendation."
+msgstr "Nombre de la campaña asociada a la recomendación."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:149
+msgid "Campaign ID associated with the recommendation."
+msgstr "ID de campaña asociado a la recomendación."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:145
+msgid "Resource name of the recommendation."
+msgstr "Nombre del recurso de la recomendación."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:141
+msgid "Recommendation type."
+msgstr "Tipo de recomendación."
+
+#: src/API/Site/Controllers/Ads/RecommendationsController.php:137
+msgid "Recommendation ID."
+msgstr "ID de la recomendación."
+
+#: src/Ads/AdsRecommendationsService.php:313
+msgid "Unable to retrieve Google Ads recommendations."
+msgstr "No se han podido recuperar las recomendaciones de Google Ads."
+
+#. translators: %s number of clicks
+#: src/Notes/ReviewAfterClicks.php:76
+msgid "You’ve gotten %s+ clicks on your product feed! 🎉"
+msgstr "¡Has conseguido más de %s clics en tu feed de productos! 🎉"
+
+#: src/Notes/CompleteSetup.php:40
+msgid "Reach more shoppers with product feed on Google"
+msgstr "Llega a más compradores con el feed de productos en Google"
+
+#: src/API/Site/Controllers/Ads/AdsSettingsController.php:131
+#: src/API/Site/Controllers/Ads/AdsSettingsController.php:148
+msgid "Whether enhanced conversions are enabled."
+msgstr "Si las conversiones mejoradas están activadas."
+
+#: src/API/Site/Controllers/Ads/AdsSettingsController.php:110
+msgid "Unable to update setting."
+msgstr "No se pudo actualizar la configuración."
+
+#: src/API/Site/Controllers/Ads/AdsSettingsController.php:64
+msgid "Not Allowed."
+msgstr "No tienes permisos."
+
+#: src/Product/ProductSyncer.php:389
+msgid "Pushing products will not run if the PUSH Sync functionality has been disabled."
+msgstr "El envío de productos no se ejecutará si la función de sincronización PUSH ha sido desactivada."
+
+#: src/Product/ProductSyncer.php:374
+msgid "Pushing products will not run if the store is not ready for syncing."
+msgstr "El envío de productos no se ejecutará si la tienda no está preparada para la sincronización."
+
+#: src/Coupon/CouponSyncer.php:503
+msgid "Pushing Coupons will not run if the PUSH Sync functionality has been disabled."
+msgstr "El envío de cupones no se ejecutará si se ha desactivado la función de sincronización PUSH."
+
+#: src/Coupon/CouponSyncer.php:488
+msgid "Pushing coupons will not run if the store is not ready for syncing."
+msgstr "El envío de cupones no se ejecutará si la tienda no está preparada para la sincronización."
+
+#: src/API/Site/Controllers/Ads/IncentiveCreditsController.php:109
+msgid "Incentive credit amount."
+msgstr "Importe del crédito de incentivo."
+
+#: src/API/Site/Controllers/Ads/IncentiveCreditsController.php:104
+msgid "Spending amount required to earn the incentive credit."
+msgstr "Importe del gasto necesario para obtener el crédito de incentivo."
+
+#: src/API/Site/Controllers/Ads/IncentiveCreditsController.php:99
+msgid "Ads account currency code in ISO 4217 format."
+msgstr "Código de moneda de la cuenta de anuncios en formato ISO 4217."
+
+#: src/API/Site/Controllers/Ads/IncentiveCreditsController.php:94
+msgid "Currency code in ISO 4217 format."
+msgstr "Código de moneda en formato ISO 4217."
+
+#: src/API/Site/Controllers/Ads/IncentiveCreditsController.php:62
+msgid "No incentive credits found."
+msgstr "No se encontraron créditos de incentivo."
+
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:269
+msgid "Data source of the budget recommendations, either from Google Ads API or fallback database."
+msgstr "Fuente de datos de las recomendaciones de presupuesto, ya sea de la API de Google Ads o de una base de datos alternativa."
+
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:263
+msgid "The baseline daily budget for a country."
+msgstr "El presupuesto diario de referencia de un país."
+
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:236
+msgid "Label for the recommendation level: High, Recommended, Low"
+msgstr "Etiqueta para el nivel de recomendación: alto, recomendado, bajo"
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:185
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:253
+msgid "Estimated total value of all the conversions (sales volume) your campaign will generate in a week."
+msgstr "Valor total estimado de todas las conversiones (volumen de ventas) que generará tu campaña en una semana."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:180
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:248
+msgid "Estimated number of conversions (unit sales) for a typical week."
+msgstr "Número estimado de conversiones (ventas de unidades) para una semana típica."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:175
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:243
+msgid "Estimated average amount you will spend weekly during the month."
+msgstr "Cantidad media estimada que gastarás semanalmente durante el mes."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:161
+msgid "Budget we requested metrics for."
+msgstr "Presupuesto para el que solicitamos métricas."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:155
+msgid "The currency to use for the metrics."
+msgstr "La moneda a utilizar para las métricas."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:125
+msgid "Cannot find any budget metrics."
+msgstr "No se puede encontrar ninguna métrica de presupuesto."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:83
+msgid "List of country codes to fetch metrics for."
+msgstr "Lista de códigos de país para los que obtener métricas."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:76
+msgid "Budget to fetch metrics for."
+msgstr "Presupuesto para obtener métricas."
+
+#: src/API/Google/Middleware.php:784
+msgid "Error fetching incentive credits."
+msgstr "Error al recuperar créditos de incentivos."
+
+#: src/API/Google/Middleware.php:743
+msgid "Invalid response when fetching incentive credits."
+msgstr "Respuesta no válida al obtener créditos de incentivos."
+
+#: src/API/Site/Controllers/ConnectController.php:121
+msgid "The WordPress.com blog ID."
+msgstr "El ID del blog de WordPress.com."
+
+#: src/API/Site/Controllers/ConnectController.php:115
+msgid "The Merchant Center ID that was connected."
+msgstr "El ID del centro del vendedor al que se conectó."
+
+#: src/API/Site/Controllers/ConnectController.php:109
+msgid "Message describing the connection result."
+msgstr "Mensaje que describe el resultado de la conexión."
+
+#: src/API/Site/Controllers/ConnectController.php:103
+msgid "Status of the connection request."
+msgstr "Estado de la solicitud de conexión."
+
+#: src/API/Site/Controllers/ConnectController.php:83
+msgid "Account connection triggered successfully."
+msgstr "La conexión a la cuenta se ha disparado correctamente."
+
+#: src/Ads/AdsRecommendationsService.php:260
+#: src/API/Google/BudgetRecommendations.php:157 js/build/commons.js:44
+#: js/build/price-benchmark.js:1
+msgid "High"
+msgstr "Alto"
+
+#: src/Ads/AdsRecommendationsService.php:253
+#: src/API/Google/BudgetRecommendations.php:160 js/build/commons.js:44
+#: js/build/price-benchmark.js:1
+msgid "Low"
+msgstr "Baja"
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:344
+msgid "Total number of products without price benchmark data."
+msgstr "Número total de productos sin datos de referencia de precios."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:340
+msgid "Total number of products with lower prices to benchmark data."
+msgstr "Número total de productos con precios inferiores a los datos de referencia."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:336
+msgid "Total number of products with higher prices to benchmark data."
+msgstr "Número total de productos con precios superiores a los datos de referencia."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:332
+msgid "Total number of products with similar prices to benchmark data."
+msgstr "Número total de productos con precios similares a los datos de referencia."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:328
+msgid "Total number of products represented in the Google report."
+msgstr "Número total de productos representados en el informe de Google."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:301
+msgid "The total number of benchmarks that are available."
+msgstr "El número total de puntos de referencia disponibles."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:295
+msgid "Comparison of price with benchmark."
+msgstr "Comparación del precio con el valor de referencia."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:291
+msgid "Expected uplift in conversions (fraction)."
+msgstr "Aumento previsto de las conversiones (fracción)."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:287
+msgid "Expected uplift in clicks (fraction)."
+msgstr "Aumento previsto de clics (fracción)."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:283
+msgid "Expected uplift in impressions (fraction)."
+msgstr "Aumento previsto de impresiones (fracción)."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:279
+msgid "Current conversions."
+msgstr "Conversiones actuales."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:275
+msgid "Click-through rate."
+msgstr "Tasa de clics."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:271
+msgid "Current impressions."
+msgstr "Impresiones actuales."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:267
+msgid "Current clicks."
+msgstr "Clics actuales."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:263
+msgid "Suggested price currency code."
+msgstr "Código de moneda del precio sugerido."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:259
+msgid "Suggested price for the product."
+msgstr "Precio sugerido para el producto."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:255
+msgid "Price gap between the product price and the benchmark price on Google."
+msgstr "Diferencia de precio entre el precio del producto y el precio de referencia en Google."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:251
+msgid "Benchmark price currency code."
+msgstr "Código de moneda del precio de referencia."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:247
+msgid "Average benchmark price of the product on Google."
+msgstr "Precio medio de referencia del producto en Google."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:243
+msgid "Current price of the product on Google."
+msgstr "Precio actual del producto en Google."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:239
+msgid "Currency code."
+msgstr "Código de la moneda."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:230
+msgid "Effectiveness score."
+msgstr "Puntuación de efectividad."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:218
+msgid "Product details."
+msgstr "Detalles del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:181
+msgid "The Id of the product."
+msgstr "El Id del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:155
+msgid "Limit results to those matching a string."
+msgstr "Limitar resultados a aquellos que coinciden con una cadena."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:148
+msgid "Maximum number of items returned in the results."
+msgstr "Número máximo de elementos devueltos en los resultados."
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:142
+msgid "Current page of the collection."
+msgstr "Página actual de la colección."
+
+#: src/API/Google/MerchantPriceBenchmarks.php:196
+msgid "Unable to retrieve product metrics data"
+msgstr "No se han podido recuperar los datos de las métricas de los productos"
+
+#: src/API/Google/MerchantPriceBenchmarks.php:143
+msgid "Unable to retrieve price insights data"
+msgstr "No se han podido recuperar los datos de información sobre precios"
+
+#: src/API/Google/MerchantPriceBenchmarks.php:84
+msgid "Unable to retrieve price benchmark data"
+msgstr "No se han podido recuperar los datos de referencia de los precios"
+
+#: src/API/Google/Middleware.php:600
+msgid "Error updating merchant account in Google Partner APP."
+msgstr "Error al actualizar la cuenta de vendedor en la aplicación Google Partner."
+
+#: src/API/Google/Middleware.php:592
+msgid "Invalid response when updating merchant account in Google Partner APP."
+msgstr "Respuesta no válida al actualizar la cuenta de vendedor en la aplicación Google Partner."
+
+#: src/API/Google/Middleware.php:569
+msgid "Merchant ID must be set before updating in SDI."
+msgstr "El ID de vendedor debe definirse antes de la actualización en SDI."
+
+#: src/API/Google/Ads.php:354
+msgid "Unable to find the pending approval link sent from the Merchant Center account"
+msgstr "No se puede encontrar el enlace de aprobación pendiente enviado desde la cuenta de Merchant Center."
+
+#: src/Menu/Shipping.php:27 js/build/commons.js:112 js/build/index.js:19
+msgid "Shipping"
+msgstr "Envío"
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:315
+msgid "The minimum shipping time cannot be greater than the maximum shipping time."
+msgstr "El tiemo mínimo de envío no puede ser mayor que el tiempo máximo de envío."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:311
+msgid "Shipping times cannot be negative."
+msgstr "Los tiempos de envío no pueden ser negativos."
+
+#. translators: 1: Parameter, 2: Type name.
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:305
+msgid "%1$s is not of type %2$s."
+msgstr "%1$s no es del tipo %2$s."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:269
+msgid "The maximum shipping time in days."
+msgstr "El tiempo máximo de envío en días."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:263
+msgid "The minimum shipping time in days."
+msgstr "El tiempo mínimo de envío en días."
+
+#: src/API/Site/Controllers/MerchantCenter/SettingsController.php:159
+msgid "The number of shipping rates in WC ready to be used in the Merchant Center."
+msgstr "El número de tarifas de envíos en WC disponibles para usar en el Merchant Center."
+
+#. Translators: %1$d is the number of migrated GTINS and %2$d is the execution
+#. time in seconds.
+#: src/Utility/WPCLIMigrationGTIN.php:96
+msgid "%1$d GTIN was migrated in %2$d seconds."
+msgid_plural "%1$d GTIN were migrated in %2$d seconds."
+msgstr[0] "%1$d GTIN fue migrado en %2$d segundos."
+msgstr[1] "%1$d GTIN fueron migrados en %2$d segundos."
+
+#: src/Utility/WPCLIMigrationGTIN.php:89
+msgid "No GTIN were migrated."
+msgstr "No se ha migrado ningún GTIN."
+
+#: src/Notes/SetupCampaignTwoWeeks.php:48
+msgid "Reach more shoppers with Google Ads"
+msgstr "Llega a más compradores con los anuncios de Google"
+
+#: src/API/Site/Controllers/GTINMigrationController.php:89
+msgid "GTIN Migration successfully started."
+msgstr "Migración GTIN iniciada correctamente."
+
+#: src/API/Site/Controllers/GTINMigrationController.php:79
+msgid "GTIN Migration cannot be scheduled."
+msgstr "No se puede programar la Migración GTIN."
+
+#: src/Admin/Product/Attributes/Input/GTINInput.php:47
+msgid "The Global Trade Item Number (GTIN) for your item can now be entered on the \"Inventory\" tab"
+msgstr "Ahora puedes introducir el Número Global de Artículo Comercial (GTIN) de tu artículo en la pestaña “Inventario”."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:400
+msgid "The name of the label to assign to the campaign."
+msgstr "El nombre de la etiqueta para asignar a la campaña."
+
+#: src/TaskList/CompleteSetupTask.php:53
+msgid "Set up Google for WooCommerce"
+msgstr "Configurar Google for WooCommerce"
+
+#. translators: %1 is a random 4-digit string, %2 is the country code
+#: src/Shipping/GoogleAdapter/WCShippingSettingsAdapter.php:149
+msgid "[%1$s] Google for WooCommerce generated service - %2$s"
+msgstr "[%1$s] Servicio generado por Google for WooCommerce - %2$s"
+
+#. translators: %1 is a random 4-digit string, %2 is the rate, %3 is the
+#. currency, %4 is the country code
+#: src/Shipping/GoogleAdapter/DBShippingSettingsAdapter.php:150
+msgid "[%1$s] Google for WooCommerce generated service - %2$s %3$s to %4$s"
+msgstr "[%1$s] Servicio generado por Google for WooCommerce - %2$s %3$s a %4$s"
+
+#: src/Notes/ReconnectWordPress.php:70
+msgid "Go to Google for WooCommerce"
+msgstr "Ir a Google for WooCommerce"
+
+#: src/Notes/ReconnectWordPress.php:59
+msgid "Re-connect your store to Google for WooCommerce"
+msgstr "Reconecta tu tienda a Google for WooCommerce"
+
+#: src/MerchantCenter/AccountService.php:594
+msgid "Nonces mismatch, skip updating auth status."
+msgstr "Los nonces no coinciden, omite la actualización del estado de autenticación."
+
+#: src/MerchantCenter/AccountService.php:587
+msgid "Nonce is not provided, skip updating auth status."
+msgstr "No se proporciona el nonce, omite la actualización del estado de autenticación."
+
+#: src/MerchantCenter/AccountService.php:581
+msgid "No stored nonce found in the database, skip updating auth status."
+msgstr "No se encontró ningún nonce almacenado en la base de datos, omite la actualización del estado de autenticación."
+
+#: src/Integration/JetpackWPCOM.php:323
+msgid "The authorization process expired. Please go back and try again."
+msgstr "El proceso de autorización ha caducado. Por favor, vuelve atrás e inténtalo de nuevo."
+
+#. translators: %s is a URL
+#: src/Integration/JetpackWPCOM.php:226
+msgid "Your site is incorrectly double-encoding redirects from http to https. This is preventing Jetpack from authenticating your connection. Please visit our <a href=\"%s\">support page</a> for details about how to resolve this."
+msgstr "Tu sitio está codificando incorrectamente de forma doble las redirecciones de http a https. Esto está impidiendo que Jetpack autorice tu conexión. Por favor, visita nuestra <a href=\"%s\">página de soporte</a> para obtener más detalles sobre cómo resolver esto."
+
+#: src/Integration/JetpackWPCOM.php:216
+msgid "Someone may be trying to trick you into giving them access to your site. Or it could be you just encountered a bug :).  Either way, please close this window."
+msgstr "Alguien puede estar intentando engañarte para que le des acceso a tu sitio. O simplemente puedes haber encontrado un fallo :). De cualquier manera, por favor, cierra esta ventana."
+
+#: src/Integration/JetpackWPCOM.php:213
+msgid "You must connect your Jetpack plugin to WordPress.com to use this feature."
+msgstr "Debes conectar el plugin Jetpack a WordPress.com para utilizar esta función."
+
+#. translators: Name/image of the client requesting authorization
+#: src/Integration/JetpackWPCOM.php:193
+msgid "%s wants to access your site’s data. Log in to authorize that access."
+msgstr "%s quiere acceder a los datos de tu sitio. Accede para autorizar ese acceso."
+
+#: src/Exception/InvalidVersion.php:85
+msgid "Google for WooCommerce requires a 64 bit version of PHP."
+msgstr "Google for WooCommerce requiere una versión de 64 bits de PHP."
+
+#. translators: 1 is the required component, 2 is the minimum required version
+#: src/Exception/InvalidVersion.php:67
+msgid "Google for WooCommerce requires %1$s version %2$s or higher."
+msgstr "Google for WooCommerce necesita %1$s versión %2$s o superior."
+
+#. translators: 1 the incompatible plugin name
+#: src/Exception/ExtensionRequirementException.php:59
+msgid "Google for WooCommerce is incompatible with %1$s."
+msgstr "Google for WooCommerce es incompatible con %1$s."
+
+#. translators: 1 the missing plugin name
+#: src/Exception/ExtensionRequirementException.php:36
+msgid "Google for WooCommerce requires %1$s to be enabled."
+msgstr "Google for WooCommerce requiere que %1$s esté activado."
+
+#: src/API/Site/Controllers/RestAPI/AuthController.php:193
+msgid "The authorization URL for granting access to Google WPCOM App."
+msgstr "La URL de autorización para conceder acceso a Google WPCOM App."
+
+#: src/API/Site/Controllers/RestAPI/AuthController.php:176
+msgid "The nonce provided by Google in the URL query parameter when Google redirects back to merchant's site"
+msgstr "El nonce proporcionado por Google en el parámetro de consulta URL cuando Google redirige de vuelta al sitio del comerciante"
+
+#: src/API/Site/Controllers/RestAPI/AuthController.php:169
+#: src/API/Site/Controllers/RestAPI/AuthController.php:198
+msgid "The status of the merchant granting access to Google's WPCOM app"
+msgstr "El estado del comerciante que concede acceso a la aplicación WPCOM de Google"
+
+#: src/API/Site/Controllers/RestAPI/AuthController.php:152
+msgid "Indicates the next page name mapped to the redirect URL when redirected back from Google WPCOM App authorization."
+msgstr "Indica el nombre de la página siguiente asignada a la URL de redirección cuando se redirige de vuelta desde la autorización de la aplicación Google WPCOM."
+
+#: src/API/Google/Middleware.php:708
+msgid "Error authenticating Google Partner APP."
+msgstr "Error al identificar Google Partner APP."
+
+#: src/API/Google/Middleware.php:698
+msgid "Invalid response authenticating partner app."
+msgstr "Respuesta no válida identificando la aplicación asociada."
+
+#. translators: %1 is a random 4-digit string
+#: src/API/Google/AdsConversionAction.php:70
+msgid "[%1$s] Google for WooCommerce purchase action"
+msgstr "[%1$s] Acción de compra de Google for WooCommerce"
+
+#. Plugin Name of the plugin
+#: google-listings-and-ads.php src/Admin/ProductBlocksService.php:148
+#: src/Admin/SystemStatusService.php:62
+#: src/Internal/DependencyManagement/ThirdPartyServiceProvider.php:82
+#: src/Menu/Dashboard.php:39 src/Menu/GetStarted.php:37
+#: src/MultichannelMarketing/GLAChannel.php:104
+#: views/attributes/variations-form.php:22
+#: views/meta-box/channel_visibility.php:63
+#: views/meta-box/channel_visibility.php:92
+#: views/meta-box/coupon_channel_visibility.php:114
+#: views/meta-box/coupon_channel_visibility.php:160
+#: js/build/get-started-page.js:1 js/build/index.js:19
+msgid "Google for WooCommerce"
+msgstr "Google for WooCommerce"
+
+#: src/Ads/AccountService.php:250
+msgid "Account must be accepted before completing setup."
+msgstr "La cuenta debe ser aceptada antes de completar la configuración."
+
+#: src/Notes/ReviewAfterConversions.php:81
+msgid "You got your first conversion on Google Ads! 🎉"
+msgstr "¡Ya tienes tu primera conversión en Google Ads! 🎉"
+
+#: src/MerchantCenter/MerchantStatuses.php:147
+msgid "The scheduled job has been paused due to a high failure rate."
+msgstr "El trabajo programado se ha pausado debido a una alta tasa de fallos."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:181
+msgid "Error message in case of failure"
+msgstr "Mensaje de error en caso de fallo"
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:175
+msgid "Whether the product statistics are loading."
+msgstr "Si se están cargando las estadísticas del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:183
+msgid "Whether the product issues are loading."
+msgstr "Si los problemas del producto se están cargando."
+
+#: src/API/Google/MerchantReport.php:116
+msgid "Unable to retrieve Product View Report."
+msgstr "No se puede recuperar el Informe de vista de producto."
+
+#: js/build/product-select-with-text-field/block.json
+msgctxt "block title"
+msgid "Product select with text field"
+msgstr "Selección de producto con campo de texto"
+
+#: js/build/product-select-field/block.json
+msgctxt "block title"
+msgid "Product select field"
+msgstr "Campo de selección de producto"
+
+#: js/build/product-onboarding-prompt/block.json
+msgctxt "block title"
+msgid "Product onboarding prompt"
+msgstr "Solicitud de incorporación de productos"
+
+#: js/build/product-date-time-field/block.json
+msgctxt "block title"
+msgid "Product date and time fields"
+msgstr "Campos de fecha y hora del producto"
+
+#: js/build/product-channel-visibility/block.json
+msgctxt "block title"
+msgid "Product channel visibility"
+msgstr "Visibilidad de producto en el canal"
+
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:232
+msgid "The recommended daily budget for a country."
+msgstr "El presupuesto diario recomendado para un país."
+
+#. translators: 1) HTML anchor open tag 2) HTML anchor closing tag
+#: src/Admin/Admin.php:293
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. %1$sLearn more about what data is collected by Google and what you may want to include in your privacy policy%2$s."
+msgstr "Al utilizar esta extensión, es posible que almacenes datos personales o compartas datos con un servicio externo. %1$sAprende más sobre cómo recopila Google los datos y lo que quieres incluir en tu política de privacidad%2$s."
+
+#: src/API/Google/ExceptionTrait.php:139
+msgid "An unknown error occurred in the Shopping Content Service."
+msgstr "Ocurrió un error desconocido en el Shopping Content Service."
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:195
+msgid "The URL linked to the post/term"
+msgstr "La URL vinculada a la entrada/término"
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:189
+msgid "The post or term title"
+msgstr "El título de la entrada o término"
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:182
+msgid "Post, term or homepage"
+msgstr "Entrada, término o página de inicio"
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:177
+msgid "Post ID or Term ID"
+msgstr "ID de entrada o de término"
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:119
+msgid "Type linked to the id."
+msgstr "Tipo vinculado al id."
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:112
+msgid "Post ID or Term ID."
+msgstr "ID de entrada o de término."
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:94
+msgid "Sort retrieved items by parameter"
+msgstr "Ordenar los elementos recuperados por parámetro"
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:86
+msgid "The number of items to be return"
+msgstr "El número de elementos a devolver"
+
+#: src/API/Site/Controllers/Ads/AssetSuggestionsController.php:79
+msgid "Search for post title or term name"
+msgstr "Buscar el título de la entrada o el nombre del término"
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:290
+msgid "Asset field type"
+msgstr "Tipo de campo de activo"
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:286
+msgid "Asset content"
+msgstr "Contenido del activo"
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:282
+msgid "Asset ID"
+msgstr "ID de activo"
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:237
+msgid "Asset is a part of an ad which can be shared across multiple ads. It can be an image, headlines, descriptions, etc."
+msgstr "Un activo es una parte de un anuncio que puede compartirse entre varios anuncios. Puede ser una imagen, titulares, descripciones, etc."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:232
+msgid "Text that may appear appended to the url displayed in the ad."
+msgstr "Texto que puede aparecer adjunto a la url mostrada en el anuncio."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:226
+#: js/build/commons.js:1
+msgid "Final URL"
+msgstr "URL final"
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:221
+msgid "Asset Group ID"
+msgstr "ID de grupo de activos"
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:203
+msgid "Successfully edited asset group."
+msgstr "Grupo de activos editado correctamente."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:197
+msgid "No asset group fields to update."
+msgstr "No hay campos de grupo de activos que actualizar."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:174
+msgid "Successfully created asset group."
+msgstr "Grupo de activos creado correctamente."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:131
+msgid "Campaign ID."
+msgstr "ID de campaña."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:114
+msgid "List of asset to be edited."
+msgstr "Lista de activos a editar."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:108
+msgid "Asset Group ID."
+msgstr "ID de grupo de activos."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:94
+msgid "Asset Group path 2."
+msgstr "Ruta del grupo de activos 2."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:90
+msgid "Asset Group path 1."
+msgstr "Ruta del grupo de activos 1."
+
+#: src/API/Site/Controllers/Ads/AssetGroupController.php:86
+msgid "Final URL."
+msgstr "URL final"
+
+#. translators: %s Error message
+#: src/API/Google/AdsAssetGroupAsset.php:213
+msgid "Error retrieving asset groups assets by final url: %s"
+msgstr "Error al recuperar grupos de activos por url final: %s"
+
+#. translators: %s Error message
+#: src/API/Google/AdsAssetGroupAsset.php:141
+msgid "Error retrieving asset groups assets: %s"
+msgstr "Error al recuperar grupos de activos: %s"
+
+#: src/API/Google/AdsAssetGroup.php:425
+msgid "Invalid asset group ID"
+msgstr "ID de grupo de activos no válido"
+
+#. translators: %s Error message
+#: src/API/Google/AdsAssetGroup.php:336
+msgid "Error editing asset group: %s"
+msgstr "Error al editar el grupo de activos: %s"
+
+#: src/API/Google/AdsAssetGroup.php:330
+msgid "Each image type (landscape, square, portrait or logo) cannot contain duplicated images."
+msgstr "Cada tipo de imagen (horizontal, cuadrada, vertical o logotipo) no puede contener imágenes duplicadas."
+
+#. translators: %s Error message
+#: src/API/Google/AdsAssetGroup.php:262
+msgid "Error retrieving asset groups: %s"
+msgstr "Error al recuperar grupos de activos: %s"
+
+#. translators: %s Error message
+#: src/API/Google/AdsAssetGroup.php:116
+msgid "Error creating asset group: %s"
+msgstr "Error al crear el grupo de activos: %s"
+
+#. translators: %s: current date time.
+#: src/API/Google/AdsAssetGroup.php:100
+msgid "PMax %s"
+msgstr "PMax %s"
+
+#. translators: 1: is an integer representing an unknown Term ID
+#: src/Ads/AssetSuggestionsService.php:315
+msgid "Invalid Term ID %1$d"
+msgstr "ID de término %1$d no válido"
+
+#. translators: 1: is an integer representing an unknown Post ID
+#: src/Ads/AssetSuggestionsService.php:266
+msgid "Invalid Post ID %1$d"
+msgstr "ID de entrada %1$d no válido"
+
+#: src/Ads/AssetSuggestionsService.php:242
+#: src/Ads/AssetSuggestionsService.php:243
+#: src/Ads/AssetSuggestionsService.php:244
+#: src/Ads/AssetSuggestionsService.php:721
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#. translators: 1: is an integer representing an unknown Term ID
+#: src/Ads/AssetSuggestionsService.php:173
+msgid "Invalid Term ID or Post ID or site url %1$d"
+msgstr "ID de término, ID de entrada o url de sitio %1$d no válidos"
+
+#: src/API/Site/Controllers/TourController.php:123
+msgid "Whether the tour was checked."
+msgstr "Si se comprobó el recorrido."
+
+#: src/API/Site/Controllers/TourController.php:116
+msgid "The Id for the tour."
+msgstr "El Id del recorrido."
+
+#: src/API/Site/Controllers/TourController.php:91
+msgid "Unable to updated the tour."
+msgstr "No se pudo actualizar el recorrido."
+
+#: src/API/Site/Controllers/TourController.php:86
+msgid "Successfully updated the tour."
+msgstr "Recorrido actualizado correctamente."
+
+#: src/Product/Attributes/SizeType.php:80
+msgid "Size Type"
+msgstr "Tipo de tamaño"
+
+#: src/Product/Attributes/SizeSystem.php:84
+msgid "Size System"
+msgstr "Sistema de tamaño"
+
+#: src/Product/Attributes/MPN.php:61
+msgid "MPN"
+msgstr "MPN"
+
+#: src/Product/Attributes/IsBundle.php:72
+msgid "Is Bundle"
+msgstr "Es un lote"
+
+#: src/Product/Attributes/GTIN.php:61
+msgid "GTIN"
+msgstr "GTIN"
+
+#: src/Product/Attributes/AgeGroup.php:79
+msgid "Age group"
+msgstr "Grupo de edad"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:133
+msgid "- Custom Attributes -"
+msgstr "- Atributos personalizados -"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:110
+msgid "- Product fields -"
+msgstr "- Campos del producto -"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:104
+msgid "Weight (with units)"
+msgstr "Peso (con unidades)"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:103
+msgid "Weight (raw value, no units)"
+msgstr "Peso (valor bruto, sin unidades)"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:102
+msgid "Variation title"
+msgstr "Título de la variación"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:101
+msgid "Tax class"
+msgstr "Clase de impuesto"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:100
+msgid "Stock Status"
+msgstr "Estado del inventario"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:99
+msgid "Stock Qty"
+msgstr "Cantidad de existencias"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:98
+msgid "SKU"
+msgstr "SKU"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:96
+msgid "Allow backorders setting"
+msgstr "Permitir pedidos sobre reserva"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:80
+msgid "- Taxonomies -"
+msgstr "- Taxonomías -"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:70
+msgid "- Global attributes -"
+msgstr "- Atributos globales -"
+
+#: src/Menu/AttributeMapping.php:25 js/build/index.js:19
+msgid "Attribute Mapping"
+msgstr "Asignación de atributos"
+
+#: src/Integration/YoastWooCommerceSeo.php:233
+msgid "MPN Field"
+msgstr "Campo MPN"
+
+#: src/Integration/YoastWooCommerceSeo.php:224
+msgid "GTIN Field"
+msgstr "Campo GTIN"
+
+#: src/Integration/YoastWooCommerceSeo.php:215
+msgid "- Yoast SEO -"
+msgstr "- Yoast SEO -"
+
+#: src/API/Site/Controllers/MerchantCenter/AttributeMappingCategoriesController.php:92
+msgid "The category parent."
+msgstr "El padre de la categoría."
+
+#: src/API/Site/Controllers/MerchantCenter/AttributeMappingCategoriesController.php:86
+msgid "The category name."
+msgstr "El nombre de la categoría."
+
+#: src/API/Site/Controllers/MerchantCenter/AttributeMappingCategoriesController.php:80
+msgid "The Category ID."
+msgstr "El ID de categoría."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingSyncerController.php:96
+msgid "Timestamp with the last sync."
+msgstr "Marca de tiempo de la última sincronización."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingSyncerController.php:89
+msgid "Indicates if the products are currently syncing"
+msgstr "Indica si los productos se están sincronizando actualmente"
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingRulesController.php:233
+msgid "List of category IDs, separated by commas."
+msgstr "Lista de IDs de categoría, separados por comas."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingRulesController.php:226
+msgid "The category condition type to apply for this rule."
+msgstr "La clase de condición de categoría que se aplicará a esta regla."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingRulesController.php:220
+msgid "The source value for the rule."
+msgstr "El valor de origen de la regla."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingRulesController.php:213
+msgid "The attribute value for the rule."
+msgstr "El valor del atributo de la regla."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingRulesController.php:207
+msgid "The Id for the rule."
+msgstr "El Id de la norma."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingDataController.php:125
+msgid "The list of attributes or attribute sources."
+msgstr "La lista de atributos o fuentes de atributos."
+
+#: src/API/Site/Controllers/AttributeMapping/AttributeMappingDataController.php:71
+msgid "The attribute key to get the sources."
+msgstr "La clave de atributo para obtener las fuentes."
+
+#: src/Ads/AdsRecommendationsService.php:258
+#: src/API/Google/BudgetRecommendations.php:154
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:200
+#: js/build/commons.js:44 js/build/commons.js:99
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: src/API/Site/Controllers/MerchantCenter/SyncableProductsCountController.php:115
+msgid "The number of products that are ready to be synced to Google."
+msgstr "El número de productos que están listos para ser sincronizados con Google."
+
+#: src/API/Site/Controllers/MerchantCenter/SyncableProductsCountController.php:99
+msgid "Successfully scheduled a job to update the number of syncable products."
+msgstr "Programado con éxito un trabajo para actualizar el número de productos sincronizables."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:117
+msgid "The price of the product."
+msgstr "El precio del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:112
+msgid "The image url of the product."
+msgstr "La url de la imagen del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:140
+msgid "The verification status of the phone number associated with the Merchant Center account."
+msgstr "El estado de verificación del número de teléfono asociado a la cuenta Merchant Center."
+
+#: src/MerchantCenter/PolicyComplianceCheck.php:211
+msgctxt "Page slug"
+msgid "refund_returns"
+msgstr "refund_returns"
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:126
+msgid "The refund returns policy associated with onboarding policy checking."
+msgstr "La política de devoluciones de reembolsos asociada a la comprobación de la política de incorporación."
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:121
+msgid "The store ssl associated with onboarding policy checking."
+msgstr "El ssl de la tienda asociado a la comprobación de la política de incorporación."
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:116
+msgid "The payment gateways associated with onboarding policy checking."
+msgstr "Las pasarelas de pago asociadas a la comprobación de la política de incorporación."
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:111
+msgid "The sample of product landing pages have redirects through 3P domains."
+msgstr "La muestra de páginas de destino de productos tiene redireccionamientos a través de dominios 3P."
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:106
+msgid "The sample of product landing pages leads to a 404 error."
+msgstr "La muestra de páginas de destino de productos conduce a un error 404."
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:101
+msgid "The merchant set the restrictions in robots.txt or not in the store."
+msgstr "El comerciante establece las restricciones en robots.txt o no en la tienda."
+
+#: src/API/Site/Controllers/MerchantCenter/PolicyComplianceCheckController.php:96
+msgid "The store website could be accessed or not by all users."
+msgstr "Todos los usuarios pueden acceder o no a la web de la tienda."
+
+#: src/Product/Attributes/SizeType.php:56
+msgid "Big"
+msgstr "Grande"
+
+#: src/Product/Attributes/SizeType.php:55
+msgid "Tall"
+msgstr "Alto"
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:165
+msgid "Whether the campaign has been converted"
+msgstr "Si la campaña se ha convertido"
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:321
+msgid "Exclude removed campaigns."
+msgstr "Excluye las campañas eliminadas."
+
+#: src/API/Google/Query/AdsQuery.php:81
+msgid "No result from query"
+msgstr "No hay resultado de la consulta"
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:204
+msgid "The region codes in which is allowed to request a new review."
+msgstr "Los códigos de región en los que está permitido solicitar una nueva revisión."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:195
+msgid "The issues related to the Merchant Center to be reviewed and addressed before approval."
+msgstr "Los problemas relacionadas con Merchant Center deben revisarse y abordarse antes de su aprobación."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:189
+msgid "Timestamp indicating if the user is in cool down period."
+msgstr "Marca de tiempo que indica si el usuario está en periodo de enfriamiento."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:183
+msgid "The status of the last review."
+msgstr "El estado de la última valoración."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:131
+msgid "Your account is not eligible for a new request review."
+msgstr "Tu cuenta no es apta para una nueva solicitud de revisión."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:119
+msgid "Your account is under cool down period and cannot request a new review."
+msgstr "Tu cuenta está en periodo de enfriamiento y no puedes solicitar una nueva revisión."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:331
+msgid "Error requesting a new review."
+msgstr "Error al solicitar una nueva revisión."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:325
+msgid "A new review has been successfully requested"
+msgstr "Se ha solicitado con éxito una nueva revisión"
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:318
+msgid "Invalid response getting requesting a new review."
+msgstr "Respuesta no válida al solicitar una nueva revisión."
+
+#: src/API/Site/Controllers/MerchantCenter/RequestReviewController.php:286
+msgid "Error getting account review status."
+msgstr "Error al obtener el estado de revisión de la cuenta."
+
+#: src/API/Site/Controllers/MerchantCenter/SupportedCountriesController.php:159
+msgid "Include continents data if set to true."
+msgstr "Incluye los datos de los continentes si se establece como true."
+
+#: src/API/Site/Controllers/Google/AccountController.php:126
+msgid "Indicates the next page name mapped to the redirect URL when back from Google authorization."
+msgstr "Indica el nombre de la página siguiente asignada a la URL de redireccionamiento cuando se vuelve de la autorización de Google."
+
+#: src/Notes/ReconnectWordPress.php:62
+msgid "Your WordPress.com account has been disconnected from Google for WooCommerce. Connect your WordPress.com account again to ensure your products stay listed on Google through the Google for WooCommerce extension.<br/><br/>If you do not re-connect, any existing listings may be removed from Google."
+msgstr "Tu cuenta de WordPress.com se ha desconectado de Google for WooCommerce. Vuelve a conectar tu cuenta de WordPress.com para asegurarte de que tus productos siguen apareciendo en Google a través de la extensión Google for WooCommerce.<br/><br/>Si no vuelves a conectarte, es posible que se elimine de Google cualquier anuncio existente."
+
+#: src/Exception/AccountReconnect.php:44
+msgid "Please reconnect your Google account."
+msgstr "Vuelve a conectar tu cuenta de Google."
+
+#: src/Exception/AccountReconnect.php:27
+msgid "Please reconnect your Jetpack account."
+msgstr "Vuelve a conectar tu cuenta de Jetpack, por favor."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:367
+msgid "Campaign type."
+msgstr "Tipo de campaña."
+
+#: views/meta-box/coupon_channel_visibility.php:90
+msgid "This coupon cannot be shown because the coupon restrictions are not supported to share in Google channel."
+msgstr "Este cupón no se puede mostrar porque las restricciones del cupón no son compatibles para compartir en el canal de Google."
+
+#: views/meta-box/coupon_channel_visibility.php:89
+msgid "This coupon cannot be shown on public channel because it is hidden from your store."
+msgstr "Este cupón no se puede mostrar en el canal público porque está oculto en tu tienda."
+
+#. translators: 1 top level domain name.
+#: src/Exception/InvalidDomainName.php:28
+msgid "Unable to create an account, the domain name \"%s\" must end with a valid top-level domain name."
+msgstr "No se puede crear una cuenta, el nombre de dominio \"%s\" debe terminar con un nombre de dominio de nivel superior válido."
+
+#: src/Exception/ApiNotReady.php:29
+msgid "Please retry the request after the indicated number of seconds."
+msgstr "Por favor, reintenta la petición tras el número de segundos indicado."
+
+#: src/API/Site/Controllers/ShippingRateSchemaTrait.php:58
+msgid "Array of options for the shipping method."
+msgstr "Conjunto de opciones para el método de envío."
+
+#: src/API/Site/Controllers/ShippingRateSchemaTrait.php:28
+msgid "The shipping rate unique identification number."
+msgstr "El número de identificación único de la tarifa de envío."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateController.php:249
+msgid "Successfully deleted rate."
+msgstr "Tasa eliminada correctamente."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateController.php:152
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateController.php:238
+msgid "No rate found with the given ID."
+msgstr "No se ha encontrado ninguna tasa con el ID proporcionado."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateBatchController.php:145
+msgid "Array of unique shipping rate identification numbers."
+msgstr "Array de números únicos de identificación de la tarifa de envío."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateBatchController.php:123
+msgid "Array of shipping rates to create."
+msgstr "Array de tarifas de envío para crear."
+
+#: src/API/Site/Controllers/CountryCodeTrait.php:72
+msgid "Country is not supported"
+msgstr "No se admite el país"
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:388
+msgid "The locations that an Ads campaign is targeting in ISO 3166-1 alpha-2 format."
+msgstr "Las ubicaciones a las que se dirige una campaña de Ads en formato ISO 3166-1 alfa-2."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:380
+msgid "Country code of sale country in ISO 3166-1 alpha-2 format."
+msgstr "Código del país de venta en formato ISO 3166-1 alfa-2."
+
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:155
+msgid "Cannot find any budget recommendations."
+msgstr "No encuentro ninguna recomendación de presupuesto."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:109
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:103
+msgid "No currency available for the Ads account."
+msgstr "No hay moneda disponible para la cuenta de Ads."
+
+#. translators: %s Error message
+#: src/API/Google/AdsReport.php:110
+msgid "Unable to retrieve report data: %s"
+msgstr "No se pueden recuperar los datos del informe: %s"
+
+#: src/API/Google/AdsCampaign.php:679
+msgid "Invalid geo target location ID"
+msgstr "ID de ubicación de geoobjetivo no válido"
+
+#: src/Notes/SetupCampaignTwoWeeks.php:67
+msgid "You're just a few steps away from reaching new shoppers across Google. Finish connecting your account, create your campaign, pick your budget, and easily measure the impact of your ads."
+msgstr "Estás a pocos pasos de llegar a nuevos compradores desde Google. Termina de conectar tu cuenta, crea tu campaña, elige tu presupuesto, y mide fácilmente el impacto de tus anuncios."
+
+#: src/Notes/SetupCampaignTwoWeeks.php:64
+msgid "Finish setting up your ads campaign and boost your sales"
+msgstr "Termina de configurar tu campaña de anuncios e impulsa tus ventas"
+
+#: src/Notes/SetupCampaignTwoWeeks.php:50
+msgid "Your products are ready for Google Ads! Connect with the right shoppers at the right moment when they’re searching for products like yours. Connect your Google Ads account to create your first campaign."
+msgstr "¡Tus productos están listos para los anuncios de Google! Conecta con los compradores adecuados en el momento justo en que buscan productos como los tuyos. Conecta tu cuenta de Google Ads para crear tu primera campaña."
+
+#: src/Notes/SetupCampaign.php:72 src/Notes/SetupCampaignTwoWeeks.php:74
+msgid "Complete Setup"
+msgstr "Finalizar la configuración"
+
+#: src/Notes/SetupCampaign.php:65
+msgid "Your products are ready for Google Ads! Finish connecting your account, create your campaign, pick your budget, and easily measure the impact of your ads. Plus, Google will give you $500 USD in ad credit when you spend $500 for new accounts. T&Cs apply."
+msgstr "¡Tus productos están listos para Google Ads! Primero conecta tu cuenta, crea tu campaña, elige un presupuesto, y mide fácilmente el impacto de tus anuncios. Además, Google te dará 500 $ USA en un crédito de anuncios cuando gastes 500 $ en cuentas nuevas. Se aplican términos y condiciones."
+
+#: src/Notes/SetupCampaign.php:63
+msgid "Finish connecting your Google Ads account"
+msgstr "Termina conectando tu cuenta de Google Ads"
+
+#: src/Notes/SetupCampaign.php:57 src/Notes/SetupCampaignTwoWeeks.php:57
+msgid "Set up Google Ads"
+msgstr "Configurar Google Ads"
+
+#: src/Notes/SetupCampaign.php:50
+msgid "Your products are ready for Google Ads! Get your products shown on Google exactly when shoppers are searching for the products you offer. For new Google Ads accounts, get $500 in ad credit when you spend $500 within your first 60 days. T&Cs apply."
+msgstr "¡Tus productos están listos para Google Ads! Haz que tus productos se muestren en Google exactamente cuando los compradores estén buscando productos que ofrezcas. En las cuentas nuevas de Google Ads consigue 500 $ en un crédito de anuncios cuando gastes 500 $ durante tus primeros 60 días. Se aplican términos y condiciones."
+
+#: src/Notes/SetupCampaign.php:48
+msgid "Launch ads to drive traffic and grow sales"
+msgstr "Lanza anuncios para aumentar el tráfico y hacer crecer las ventas"
+
+#: views/bulk-edit/shop_coupon.php:26
+msgid "Don't show coupon"
+msgstr "No mostrar el cupón"
+
+#: views/bulk-edit/shop_coupon.php:25
+msgid "Show coupon"
+msgstr "Mostrar el cupón"
+
+#: views/bulk-edit/shop_coupon.php:24
+msgid "— No change —"
+msgstr "— Sin cambios —"
+
+#: views/bulk-edit/shop_coupon.php:19
+msgid "Google visibility"
+msgstr "Visibilidad de Google"
+
+#: src/Notes/SetupCouponSharing.php:74
+msgid "Go to coupons"
+msgstr "Ir a los cupones"
+
+#: src/Notes/SetupCouponSharing.php:61
+msgid "Sync your store promotions and coupons directly with Google to showcase on your product listings across the Google Shopping tab. <br/><br/>When creating a coupon, you’ll see a Channel Visibility settings box on the right; select \"Show coupon on Google\" to enable."
+msgstr "Sincroniza las promociones y cupones de tu tienda directamente con Google para mostrarlos en tus anuncios de productos en la pestaña de Google Shopping.<br/><br/>Al crear un cupón, verás a la derecha un cuadro de ajustes de visibilidad del canal. Selecciona \"Mostrar el cupón en Google\" para activarlo."
+
+#: src/Notes/SetupCouponSharing.php:59
+msgid "Show your store coupons on your Google listings"
+msgstr "Muestra los cupones de tu tienda en tus anuncios de Google"
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:163
+msgid "The errors associated with the WooCommerce address"
+msgstr "Los errores asociados con la dirección de WooCommerce"
+
+#: src/Notes/ReviewAfterClicks.php:81 src/Notes/ReviewAfterConversions.php:83
+msgid "Congratulations! Tell us what you think about Google for WooCommerce by leaving a review. Your feedback will help us make WooCommerce even better for you."
+msgstr "¡Felicidades! Cuéntanos qué piensas de Google for WooCommerce dejando una valoración. Tus comentarios nos ayudarán a hacer WooCommerce aún mejor para ti."
+
+#: src/Notes/LeaveReviewActionTrait.php:30
+msgid "Leave a review"
+msgstr "Deja una valoración"
+
+#: src/API/Site/Controllers/MerchantCenter/AccountController.php:245
+msgid "The domain registered with the Merchant Center Account."
+msgstr "El dominio registrado con la cuenta de Merchan Center."
+
+#: src/API/Site/Controllers/MerchantCenter/AccountController.php:239
+msgid "The Merchant Center Account name."
+msgstr "El nombre de la cuenta de Merchant Center."
+
+#: src/API/Site/Controllers/Google/AccountController.php:133
+msgid "Indicate the Google account to suggest for authorization."
+msgstr "Indica a la cuenta de Google que sugiera una autorización."
+
+#: views/meta-box/coupon_channel_visibility.php:162
+msgid "Complete setup to get your coupon listed on Google for free."
+msgstr "Completa la configuración para que tus cupones se listen en Google de forma gratuita."
+
+#: views/meta-box/coupon_channel_visibility.php:138
+msgid "Coupon issues"
+msgstr "Problemas del cupón"
+
+#: views/meta-box/coupon_channel_visibility.php:122
+msgid "Don't show coupon on Google"
+msgstr "No mostrar el cupón en Google"
+
+#: views/meta-box/coupon_channel_visibility.php:118
+msgid "Show coupon on Google"
+msgstr "Mostrar cupón en Google"
+
+#: views/meta-box/coupon_channel_visibility.php:95
+msgid "This coupon visibility channel has not been supported in your store base country yet."
+msgstr "El canal de visibilidad de este cupón aún no es compatible con el país base de tu tienda."
+
+#: views/meta-box/coupon_channel_visibility.php:73
+msgid "Check your email for updates."
+msgstr "Comprueba tu correo electrónico para ver si hay novedades."
+
+#: views/meta-box/coupon_channel_visibility.php:65
+msgid "Sent to Google"
+msgstr "Enviado a Google"
+
+#: views/meta-box/coupon_channel_visibility.php:62
+msgid "Pending for sync"
+msgstr "Pendiente de sincronización"
+
+#: src/API/Site/Controllers/MerchantCenter/PhoneVerificationController.php:101
+msgid "The verification code that was sent to the phone number for validation."
+msgstr "El código de verificación que se ha enviado al número de teléfono para la validación."
+
+#: src/API/Site/Controllers/MerchantCenter/PhoneVerificationController.php:95
+msgid "The verification ID returned by the /request call."
+msgstr "El ID de verificación devuelto por la solicitud de llamada."
+
+#: src/API/Site/Controllers/MerchantCenter/PhoneVerificationController.php:75
+msgid "The phone number to verify."
+msgstr "El número de teléfono a verificar."
+
+#: src/API/Site/Controllers/MerchantCenter/PhoneVerificationController.php:69
+msgid "Two-letter country code (ISO 3166-1 alpha-2) for the phone number."
+msgstr "Código de dos letras del país (ISO 3166-1 alpha-2) para el número de teléfono."
+
+#: src/API/Site/Controllers/MerchantCenter/PhoneVerificationController.php:50
+msgid "Method used to verify the phone number."
+msgstr "Método usado para verificar el número de teléfono."
+
+#: src/Admin/Product/Attributes/Input/AvailabilityDateInput.php:26
+#: src/Product/Attributes/AvailabilityDate.php:47
+msgid "The date a preordered or backordered product becomes available for delivery. Required if product availability is preorder or backorder"
+msgstr "La fecha en la que un producto reservado o pendiente está disponible para su entrega. Es necesaria si la disponibilidad del producto es para pedidos previos o para reservar"
+
+#: src/Admin/Product/Attributes/Input/AvailabilityDateInput.php:25
+#: src/Product/Attributes/AvailabilityDate.php:38
+msgid "Availability Date"
+msgstr "Fecha de disponibilidad"
+
+#: views/meta-box/channel_visibility.php:93 js/build/blocks.js:1
+msgid "Complete setup to get your products listed on Google for free."
+msgstr "Completa la configuración para que tus productos se listen en Google de forma gratuita."
+
+#: src/Notes/SetupCampaign.php:81 js/build/commons.js:41 js/build/commons.js:44
+#: js/build/commons.js:47 js/build/commons.js:50 js/build/product-feed.js:1
+#: js/build/settings.js:1
+msgid "Learn more"
+msgstr "Más información"
+
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:235
+msgid "Country code."
+msgstr "Código de país."
+
+#: src/Notes/ContactInformation.php:51
+msgid "Add contact information"
+msgstr "Agregar información de contacto"
+
+#: src/Notes/ContactInformation.php:42
+msgid "Google requires the phone number and store address for all stores using Google Merchant Center. This is required to verify your store, and it will not be shown to customers. If you do not add your contact information, your listings may not appear on Google."
+msgstr "Google requiere el número de teléfono y la dirección de la tienda de todas las tiendas que usen Google Merchant Center. Es obligatorio para verificar tu tienda, y no se mostrará a los clientes. Si no agregas tu información de contacto tus anuncios podrían no aparecer en Google."
+
+#: src/Notes/ContactInformation.php:41
+msgid "Please add your contact information"
+msgstr "Por favor, agrega tu información de contacto"
+
+#: src/MerchantCenter/MerchantCenterService.php:308
+msgid "Add store contact information"
+msgstr "Agregar información de contacto de la tienda"
+
+#: src/MerchantCenter/MerchantCenterService.php:307
+msgid "No contact information."
+msgstr "No hay información de contacto."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:197
+msgid "CLDR country code (e.g. \"US\")."
+msgstr "Código de país CLDR (p.ej: \"ES\")."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:192
+msgid "Postal code or ZIP (e.g. \"94043\")."
+msgstr "Código postal o ZIP (p.ej. \"28100\")."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:187
+msgid "Top-level administrative subdivision of the country. For example, a state like California (\"CA\") or a province like Quebec (\"QC\")."
+msgstr "Subdivisión administrativa de nivel superior del país. Por ejemplo, una comunidad autónoma como Cataluña (\"CAT\") o una provincia como Gerona (\"GI\")."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:182
+msgid "City, town or commune. May also include dependent localities or sublocalities (e.g. neighborhoods or suburbs)."
+msgstr "Ciudad, población o comunidad. También puede incluir localidades o sublocalidades dependientes (p.ej. vecindarios o suburbios)."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:177
+msgid "Street-level part of the address."
+msgstr "Parte de la dirección donde se encuentra la calle."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:158
+msgid "Whether the Merchant Center account address is different than the WooCommerce store address."
+msgstr "Si la dirección de la cuenta de Merchant Center es distinta de la dirección de la tienda de WooCommerce."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:152
+msgid "The WooCommerce store address."
+msgstr "La dirección de la tienda de WooCommerce."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:146
+msgid "The address associated with the Merchant Center account."
+msgstr "La dirección asociada a la cuenta de Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:135
+msgid "The phone number associated with the Merchant Center account."
+msgstr "El número de teléfono asociado a la cuenta de Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/ContactInformationController.php:129
+msgid "The Merchant Center account ID."
+msgstr "El ID de la cuenta de Merchant Center."
+
+#: views/meta-box/channel_visibility.php:47
+msgid "This product cannot be shown on any channel because it is hidden from your store catalog."
+msgstr "Este producto no puede mostrarse en cualquier canal porque está oculto del catálogo de tu tienda."
+
+#: src/MerchantCenter/MerchantStatuses.php:279
+msgid "Merchant Center account is not set up."
+msgstr "La cuenta de Merchant Center no está configurada."
+
+#: src/MerchantCenter/MerchantStatuses.php:276
+msgid "Google account is not connected."
+msgstr "La cuenta de Google no está conectada."
+
+#: src/Internal/Requirements/GoogleProductFeedValidator.php:85
+msgid "Deactivate the Google Product Feed plugin from your store"
+msgstr "Desactiva el plugin Google Product Feed de tu tienda"
+
+#: src/Internal/Requirements/GoogleProductFeedValidator.php:84
+msgid "The Google Product Feed plugin may cause conflicts or unexpected results."
+msgstr "El plugin Google Product Feed puede provocar conflictos o resultados inesperados."
+
+#: src/API/Site/Controllers/Jetpack/AccountController.php:147
+msgid "Indicates the next page name mapped to the redirect URL when back from Jetpack authorization."
+msgstr "Indica el nombre de la siguiente página a la que asignar la URL de redirección cuando vuelvas de la autorización de Jetpack."
+
+#: src/MerchantCenter/MerchantStatuses.php:589
+msgid "Update this attribute in your product data"
+msgstr "Actualiza este atributo en los datos de tus productos"
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:160
+msgid "Severity level of the issue: warning or error."
+msgstr "Nivel de gravedad del problema: advertencia o error."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:169
+msgid "Amount of scheduled jobs which will sync products to Google."
+msgstr "Cantidad de tareas programadas que sincronizarán los productos con Google."
+
+#: views/meta-box/channel_visibility.php:28
+#: views/meta-box/coupon_channel_visibility.php:60 js/build/blocks.js:1
+msgid "Issues detected"
+msgstr "Problemas detectados"
+
+#: src/Notes/CompleteSetup.php:50
+msgid "Finish setup"
+msgstr "Finalizar configuración"
+
+#: src/Notes/CompleteSetup.php:41
+msgid "Finish setting up Google for WooCommerce to list your products on Google for free and promote them with ads."
+msgstr "Termina de configurar Google para WooCommerce para listar tus productos en Google de forma gratuita y promocionarlos con anuncios."
+
+#: src/Admin/Product/Attributes/Input/MultipackInput.php:26
+msgid "The number of identical products in a multipack. Use this attribute to indicate that you've grouped multiple identical products for sale as one item."
+msgstr "El número de productos idénticos en un multipack.  Utiliza este atributo para indicar que has agrupado varios productos idénticos para su venta como un solo artículo."
+
+#: src/Admin/Product/Attributes/Input/MultipackInput.php:25
+#: src/Product/Attributes/Multipack.php:72
+msgid "Multipack"
+msgstr "Multipack"
+
+#: src/Admin/Product/Attributes/Input/IsBundleInput.php:26
+msgid "Whether the item is a bundle of products. A bundle is a custom grouping of different products sold by a merchant for a single price."
+msgstr "Si el producto es un lote de productos. Un lote es una agrupación personalizada de diferentes productos vendidos por un vendedor a un precio único."
+
+#: src/Admin/Product/Attributes/Input/IsBundleInput.php:25
+msgid "Is Bundle?"
+msgstr "¿Es un lote?"
+
+#: src/Product/Attributes/Condition.php:53
+msgid "Used"
+msgstr "Usado"
+
+#: src/Product/Attributes/Condition.php:52
+msgid "Refurbished"
+msgstr "Reacondicionado"
+
+#: src/Product/Attributes/Condition.php:51 js/build/price-benchmark.js:1
+msgid "New"
+msgstr "Nuevo"
+
+#: src/Admin/Product/Attributes/Input/ConditionInput.php:26
+msgid "Condition or state of the item."
+msgstr "Condición o estado del producto."
+
+#: src/Admin/Product/Attributes/Input/ConditionInput.php:25
+#: src/Product/Attributes/Condition.php:76
+msgid "Condition"
+msgstr "Condición"
+
+#: src/Admin/Input/BooleanSelect.php:22 src/Product/Attributes/Adult.php:83
+#: src/Product/Attributes/IsBundle.php:84
+msgid "No"
+msgstr "No"
+
+#: src/Admin/Input/BooleanSelect.php:21 src/Product/Attributes/Adult.php:82
+#: src/Product/Attributes/IsBundle.php:83
+msgid "Yes"
+msgstr "Sí"
+
+#: src/Admin/Input/BooleanSelect.php:20
+#: src/Admin/Product/Attributes/AttributesForm.php:147
+msgid "Default"
+msgstr "Por defecto"
+
+#: src/API/Site/Controllers/MerchantCenter/ProductVisibilityController.php:154
+msgid "New Visibility status for the specified products."
+msgstr "Nuevo estado de visibilidad para los productos especificados."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductVisibilityController.php:145
+msgid "IDs of the products to update."
+msgstr "ID de los productos a actualizar."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductVisibilityController.php:126
+msgid "Products whose visibility was not changed."
+msgstr "Productos cuya visibilidad no ha sido modificada."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductVisibilityController.php:117
+msgid "Products whose visibility was changed successfully."
+msgstr "Productos cuya visibilidad ha sido modificada correctamente."
+
+#: src/Product/Attributes/Adult.php:72 src/Product/Attributes/AgeGroup.php:46
+msgid "Adult"
+msgstr "Adulto"
+
+#: src/Product/Attributes/AgeGroup.php:45
+msgid "Kids"
+msgstr "Jóvenes"
+
+#: src/Product/Attributes/AgeGroup.php:44
+msgid "Toddler"
+msgstr "Niño"
+
+#: src/Product/Attributes/AgeGroup.php:43
+msgid "Infant"
+msgstr "Bebé"
+
+#: src/Product/Attributes/AgeGroup.php:42
+msgid "Newborn"
+msgstr "Recién nacido"
+
+#: src/Admin/Product/Attributes/Input/AgeGroupInput.php:26
+msgid "Target age group of the item."
+msgstr "Grupo de edad al que va dirigido el artículo."
+
+#: src/Admin/Product/Attributes/Input/AgeGroupInput.php:25
+msgid "Age Group"
+msgstr "Grupo de edad"
+
+#: src/Admin/Product/Attributes/Input/MPNInput.php:26
+msgid "This code uniquely identifies the product to its manufacturer."
+msgstr "Este código identifica de forma única el producto para su fabricante."
+
+#: src/Admin/Product/Attributes/Input/MPNInput.php:25
+msgid "Manufacturer Part Number (MPN)"
+msgstr "Manufacturer Part Number (MPN)"
+
+#: src/Admin/Product/Attributes/Input/BrandInput.php:26
+msgid "Brand of the product."
+msgstr "Marca del producto."
+
+#: src/Admin/Product/Attributes/Input/BrandInput.php:25
+#: src/Product/Attributes/Brand.php:61
+msgid "Brand"
+msgstr "Marca"
+
+#: src/Admin/Product/Attributes/Input/MaterialInput.php:26
+msgid "The material of which the item is made."
+msgstr "El material del que está hecho el producto."
+
+#: src/Admin/Product/Attributes/Input/MaterialInput.php:25
+#: src/Product/Attributes/Material.php:61
+msgid "Material"
+msgstr "Material"
+
+#: src/Product/Attributes/SizeType.php:57
+msgid "Maternity"
+msgstr "Maternidad"
+
+#: src/Product/Attributes/SizeType.php:54
+msgid "Plus"
+msgstr "Más"
+
+#: src/Product/Attributes/SizeType.php:53
+msgid "Petite"
+msgstr "Pequeño"
+
+#: src/Product/Attributes/SizeType.php:52
+msgid "Regular"
+msgstr "Normal"
+
+#: src/Admin/Product/Attributes/Input/SizeTypeInput.php:26
+msgid "The cut of the item. Recommended for apparel items."
+msgstr "El corte del producto. Recomendado para prendas de vestir."
+
+#: src/Admin/Product/Attributes/Input/SizeTypeInput.php:25
+msgid "Size type"
+msgstr "Tipo de tamaño"
+
+#: src/Admin/Product/Attributes/Input/GTINInput.php:29
+msgid "Global Trade Item Number (GTIN) for your item. These identifiers include UPC (in North America), EAN (in Europe), JAN (in Japan), and ISBN (for books)"
+msgstr "Global Trade Item Number (GTIN) para tu producto. Estos identificadores incluyen UPC (en Norteamérica), EAN (en Europa), JAN (en Japón) e ISBN (para libros)."
+
+#: src/Admin/Product/Attributes/Input/GTINInput.php:28
+msgid "Global Trade Item Number (GTIN)"
+msgstr "Global Trade Item Number (GTIN)"
+
+#: src/Admin/Product/Attributes/Input/PatternInput.php:26
+msgid "The item's pattern (e.g. polka dots)."
+msgstr "El dibujo del producto (por ejemplo, lunares)."
+
+#: src/Admin/Product/Attributes/Input/PatternInput.php:25
+#: src/Product/Attributes/Pattern.php:61
+msgid "Pattern"
+msgstr "Patrón"
+
+#: src/Product/Attributes/SizeSystem.php:61
+msgid "MEX"
+msgstr "MEX"
+
+#: src/Product/Attributes/SizeSystem.php:60
+msgid "JP"
+msgstr "JP"
+
+#: src/Product/Attributes/SizeSystem.php:59
+msgid "CN"
+msgstr "CN"
+
+#: src/Product/Attributes/SizeSystem.php:58
+msgid "BR"
+msgstr "BR"
+
+#: src/Product/Attributes/SizeSystem.php:57
+msgid "AU"
+msgstr "AU"
+
+#: src/Product/Attributes/SizeSystem.php:56
+msgid "IT"
+msgstr "IT"
+
+#: src/Product/Attributes/SizeSystem.php:55
+msgid "FR"
+msgstr "FR"
+
+#: src/Product/Attributes/SizeSystem.php:54
+msgid "DE"
+msgstr "DE"
+
+#: src/Product/Attributes/SizeSystem.php:53
+msgid "UK"
+msgstr "UK"
+
+#: src/Product/Attributes/SizeSystem.php:52
+msgid "EU"
+msgstr "UE"
+
+#: src/Product/Attributes/SizeSystem.php:51
+msgid "US"
+msgstr "US"
+
+#: src/Admin/Product/Attributes/Input/SizeSystemInput.php:26
+msgid "System in which the size is specified. Recommended for apparel items."
+msgstr "Sistema en el que se especifica la talla. Recomendado para prendas de vestir."
+
+#: src/Admin/Product/Attributes/Input/SizeSystemInput.php:25
+msgid "Size system"
+msgstr "Sistema de tallas"
+
+#: src/Product/Attributes/Gender.php:44
+msgid "Unisex"
+msgstr "Unisex"
+
+#: src/Product/Attributes/Gender.php:43
+msgid "Female"
+msgstr "Mujer"
+
+#: src/Product/Attributes/Gender.php:42
+msgid "Male"
+msgstr "Hombre"
+
+#: src/Admin/Product/Attributes/Input/GenderInput.php:26
+msgid "The gender for which your product is intended."
+msgstr "El género al que está destinado tu producto."
+
+#: src/Admin/Product/Attributes/Input/GenderInput.php:25
+#: src/Product/Attributes/Gender.php:76
+msgid "Gender"
+msgstr "Género"
+
+#: src/Admin/Product/Attributes/Input/SizeInput.php:26
+msgid "Size of the product."
+msgstr "Tamaño del producto."
+
+#: src/Admin/Product/Attributes/Input/SizeInput.php:25
+#: src/Product/Attributes/Size.php:61
+msgid "Size"
+msgstr "Tamaño"
+
+#: src/Admin/Product/Attributes/Input/ColorInput.php:26
+msgid "Color of the product."
+msgstr "Color del producto."
+
+#: src/Admin/Product/Attributes/Input/ColorInput.php:25
+#: src/Product/Attributes/Color.php:61
+msgid "Color"
+msgstr "Color"
+
+#: src/Admin/Product/Attributes/Input/AdultInput.php:26
+msgid "Whether the product contains nudity or sexually suggestive content"
+msgstr "El producto contiene desnudos o contenido sexualmente sugerente"
+
+#: src/Admin/Product/Attributes/Input/AdultInput.php:25
+msgid "Adult content"
+msgstr "Contenido para adultos"
+
+#: src/Admin/Input/SelectWithTextInput.php:106
+#: src/Admin/Input/SelectWithTextInput.php:165
+msgid "Enter a custom value"
+msgstr "Introduce un valor personalizado"
+
+#: src/Admin/Input/SelectWithTextInput.php:27
+msgid "Enter your value"
+msgstr "Introduce tu valor"
+
+#. translators: 1: is a numeric account ID
+#: src/MerchantCenter/AccountService.php:441
+msgid "Merchant Center account already connected: %d"
+msgstr "Cuenta de Merchant Center ya conectada: %d"
+
+#: views/attributes/tab-panel.php:21
+msgid "As this is a variable product, you can add additional product attributes by going to Variations > Select one variation > Google for WooCommerce."
+msgstr "Como se trata de un producto variable, puedes agregar atributos adicionales del producto yendo a Variaciones > Seleccionar una variación > Google for WooCommerce."
+
+#: src/Admin/ProductBlocksService.php:204 views/attributes/tab-panel.php:20
+msgid "Product attributes"
+msgstr "Atributos del producto"
+
+#: src/TaskList/CompleteSetupTask.php:74
+msgid "20 minutes"
+msgstr "20 minutos"
+
+#: src/Product/AttributeMapping/Traits/IsFieldTrait.php:97
+#: js/build/reports.js:4
+msgid "Product title"
+msgstr "Título de producto"
+
+#: src/Menu/Reports.php:25 js/build/commons.js:112 js/build/index.js:19
+msgid "Reports"
+msgstr "Informes"
+
+#: views/meta-box/channel_visibility.php:95
+#: views/meta-box/coupon_channel_visibility.php:163 js/build/onboarding.js:1
+msgid "Complete setup"
+msgstr "Configuración completa"
+
+#: src/Menu/SetupAds.php:25
+msgid "Ads Setup Wizard"
+msgstr "Asistente de configuración de anuncios"
+
+#: src/Menu/SetupMerchantCenter.php:25
+msgid "MC Setup Wizard"
+msgstr "Asistente de configuración de Merchant Center"
+
+#: src/Menu/ProductFeed.php:25 js/build/commons.js:112 js/build/index.js:19
+#: js/build/product-feed.js:13 js/build/reports.js:1 js/build/reports.js:4
+msgid "Product Feed"
+msgstr "Feed de productos"
+
+#. translators: %s: the action name
+#: src/ActionScheduler/ActionSchedulerException.php:29
+msgid "No action matching %s was found."
+msgstr "No se ha encontrado ninguna acción que coincida con %s."
+
+#: src/Coupon/CouponSyncer.php:473 src/Product/ProductSyncer.php:363
+msgid "Google Merchant Center has not been set up correctly. Please review your configuration."
+msgstr "Google Merchant Center no se ha configurado correctamente. Por favor, revisa tu configuración."
+
+#: src/Admin/MetaBox/ChannelVisibilityMetaBox.php:73
+#: src/Admin/MetaBox/CouponChannelVisibilityMetaBox.php:78
+#: src/Admin/ProductBlocksService.php:185
+msgid "Channel visibility"
+msgstr "Visibilidad del canal"
+
+#: views/meta-box/channel_visibility.php:81 js/build/blocks.js:1
+msgid "Issues"
+msgstr "Problemas"
+
+#: views/meta-box/channel_visibility.php:77 js/build/blocks.js:1
+msgid "Google sync status"
+msgstr "Estado de la sincronización con Google"
+
+#: src/Value/ChannelVisibility.php:75
+msgid "Don't Sync and show"
+msgstr "No sincronizar y mostrar"
+
+#: src/Value/ChannelVisibility.php:74 js/build/product-feed.js:7
+#: js/build/product-feed.js:13
+msgid "Sync and show"
+msgstr "Sincronizar y mostrar"
+
+#: src/Admin/Admin.php:232
+msgid "Documentation"
+msgstr "Documentación"
+
+#: src/Admin/Admin.php:225 js/build/blocks.js:1
+msgid "Get Started"
+msgstr "Primeros pasos"
+
+#: src/Admin/Admin.php:219 src/Menu/Settings.php:25 js/build/commons.js:112
+#: js/build/index.js:19
+msgid "Settings"
+msgstr "Ajustes"
+
+#. translators: %s: the job classname
+#: src/Jobs/JobException.php:72
+msgid "The job \"%s\" does not exist."
+msgstr "No existe la tarea llamada \"%s\"."
+
+#. translators: %s: the job name
+#: src/Jobs/JobException.php:55
+msgid "The \"%s\" job was stopped because its failure rate is above the allowed threshold."
+msgstr "La tarea \"%s\" se ha detenido porque su tasa de fallos está por encima del umbral permitido."
+
+#. translators: %s: the job item name
+#: src/Jobs/JobException.php:38
+msgid "Required job item \"%s\" not provided."
+msgstr "No se ha proporcionado el elemento de tarea requerido \"%s\"."
+
+#: src/Jobs/JobException.php:24
+msgid "Job item not found."
+msgstr "Elemento de tarea no encontrado."
+
+#: src/MerchantCenter/MerchantStatuses.php:497
+msgid "All products"
+msgstr "Todos los productos"
+
+#: src/API/Site/Controllers/Jetpack/AccountController.php:268
+msgid "The URL for making a connection to Jetpack (wordpress.com)."
+msgstr "La URL para establecer una conexión con Jetpack (wordpress.com)."
+
+#: src/API/Site/Controllers/Google/AccountController.php:206
+msgid "The URL for making a connection to Google."
+msgstr "La URL para establecer la conexión con Google."
+
+#: src/API/Site/Controllers/Ads/SetupCompleteController.php:85
+msgid "Successfully marked Ads setup as completed."
+msgstr "Marcada correctamente la configuración de anuncios como completada."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:373
+msgid "Daily budget amount in the local currency."
+msgstr "Importe del presupuesto diario en la moneda local."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:352
+msgid "Descriptive campaign name."
+msgstr "Nombre descriptivo de la campaña."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:278
+msgid "Successfully deleted campaign."
+msgstr "Campaña retirada correctamente."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:243
+msgid "Successfully edited campaign."
+msgstr "Campaña editada correctamente."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:213
+msgid "Invalid edit data."
+msgstr "Datos no válidos."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:186
+msgid "Campaign is not available."
+msgstr "La campaña no está disponible."
+
+#. translators: %s: current date time.
+#: src/API/Site/Controllers/Ads/CampaignController.php:132
+msgid "Campaign %s"
+msgstr "Campaña %s"
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:226
+msgid "Conversions."
+msgstr "Conversiones."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:221
+msgid "Spend amount."
+msgstr "Importe gastado."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:216
+msgid "Sales amount."
+msgstr "Importe de las ventas."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:360
+#: src/API/Site/Controllers/Ads/ReportsController.php:160
+msgid "Campaign status."
+msgstr "Estado de la campaña."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:154
+msgid "Campaign name."
+msgstr "Nombre de la campaña."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:346
+#: src/API/Site/Controllers/Ads/ReportsController.php:149
+msgid "ID number."
+msgstr "Número de ID."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:135
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:139
+msgid "Product name."
+msgstr "Nombre del producto."
+
+#: src/Ads/AccountService.php:329
+msgid "Billing setup must be completed."
+msgstr "Se debe completar la configuración de la facturación."
+
+#. translators: 1: is a string representing an unknown step name
+#: src/Ads/AccountService.php:186
+msgid "Unknown ads account creation step %1$s"
+msgstr "Paso de creación de cuenta de anuncios desconocido %1$s"
+
+#. translators: 1: is a numeric account ID
+#: src/Ads/AccountService.php:109
+msgid "Ads account %1$d already connected."
+msgstr "La cuenta %1$d de Google Ads ya está conectada"
+
+#: src/API/Site/Controllers/Ads/AccountController.php:207
+msgid "Billing Flow URL."
+msgstr "URL del flujo de facturación."
+
+#: src/API/Site/Controllers/Ads/AccountController.php:200
+msgid "Google Ads Account ID."
+msgstr "ID de la cuenta de Google Ads"
+
+#: src/API/Site/Controllers/Ads/AccountController.php:160
+#: src/API/Site/Controllers/Google/AccountController.php:151
+#: src/API/Site/Controllers/Jetpack/AccountController.php:169
+msgid "Successfully disconnected."
+msgstr "Desconectado correctamente"
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:165
+msgid "Country codes of the product audience."
+msgstr "Códigos de país de la audiencia del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:155
+msgid "Documentation URL for issue and/or action."
+msgstr "URL de la documentación para el problema o la acción."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:150
+msgid "Descriptive text of action to take."
+msgstr "Texto descriptivo de la acción a realizar."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:145
+msgid "Descriptive text of the issue."
+msgstr "Texto descriptivo del problema."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:140
+msgid "Internal Google code for issue."
+msgstr "Código interno de Google para el problema."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:135
+msgid "The WooCommerce product ID."
+msgstr "ID del producto de WooCommerce."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:130
+msgid "Affected product."
+msgstr "Producto afectado."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:125
+msgid "Issue type."
+msgstr "Tipo de problema."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:117
+msgid "The issues related to the Merchant Center account."
+msgstr "Los problemas relacionados con la cuenta de Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:346
+msgid "Country in which the shipping time applies."
+msgstr "País en el que se aplica el tiempo de envío."
+
+#. translators: %s is the country code in ISO 3166-1 alpha-2 format.
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:204
+msgid "Successfully deleted the time for country: \"%s\"."
+msgstr "Se ha borrado correctamente la hora del país: \"%s\"."
+
+#. translators: %s is the country code in ISO 3166-1 alpha-2 format.
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:170
+msgid "Successfully added time for country: \"%s\"."
+msgstr "Agregada correctamente la hora para el país: \"%s\"."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:119
+msgid "No time available."
+msgstr "No queda tiempo disponible."
+
+#: src/API/Site/Controllers/MerchantCenter/ConnectionController.php:56
+msgid "Action that should be completed after connection."
+msgstr "Acción que debería completarse tras la conexión."
+
+#: src/API/Site/Controllers/ShippingRateSchemaTrait.php:50
+msgid "The shipping rate."
+msgstr "La tarifa de envío."
+
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:216
+#: src/API/Site/Controllers/ShippingRateSchemaTrait.php:42
+msgid "The currency to use for the shipping rate."
+msgstr "Moneda a usar para la tarifa de envío."
+
+#: src/API/Site/Controllers/Ads/BudgetMetricsController.php:167
+#: src/API/Site/Controllers/Ads/BudgetRecommendationController.php:227
+#: src/API/Site/Controllers/Ads/IncentiveCreditsController.php:89
+#: src/API/Site/Controllers/MerchantCenter/ShippingTimeController.php:255
+#: src/API/Site/Controllers/ShippingRateSchemaTrait.php:34
+msgid "Country code in ISO 3166-1 alpha-2 format."
+msgstr "Código del país en formato ISO 3166-1 alpha-2."
+
+#. translators: %s is the country code in ISO 3166-1 alpha-2 format.
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateController.php:216
+msgid "Successfully added rate for country: \"%s\"."
+msgstr "Tarifa agregada correctamente para el país: \"%s\"."
+
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateController.php:128
+msgid "No rate available."
+msgstr "Tarifa no disponible"
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:182
+msgid "Limit result to items with specified ids (comma-separated)."
+msgstr "Limitar el resultado a los productos con ids especificados (separados por comas)."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:177
+msgid "Text to search for in product names."
+msgstr "Texto a buscar en los nombres de los productos."
+
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:200
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:161
+msgid "Page of data to retrieve."
+msgstr "Página de datos a recuperar."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:122
+msgid "Errors preventing the product from being synced to the Merchant Center."
+msgstr "Errores que impiden la sincronización del producto con el Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:107
+msgid "The current sync status of the product."
+msgstr "El estado de sincronización actual del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:102
+msgid "Whether the product is set to be visible in the Merchant Center"
+msgstr "Si el producto está configurado para ser visible en el Merchant Center"
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:97
+msgid "Product title."
+msgstr "Título del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:84
+msgid "The store's products."
+msgstr "Los productos de la tienda."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:211
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:185
+msgid "Impressions."
+msgstr "Impresiones."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:206
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:180
+msgid "Clicks."
+msgstr "Clics."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:189
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:163
+msgid "Token to retrieve the next page of results."
+msgstr "Token para recuperar la siguiente página de resultados."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:179
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:153
+msgid "ID of this report segment."
+msgstr "ID de este segmento del informe."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:130
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:92
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:134
+msgid "Product ID."
+msgstr "ID del producto."
+
+#: src/API/Site/Controllers/Ads/ReportsController.php:102
+#: src/API/Site/Controllers/MerchantCenter/ReportsController.php:101
+msgid "Time interval to use for segments in the returned data."
+msgstr "Intervalo de tiempo para utilizar para los segmentos en los datos devueltos."
+
+#: src/API/Site/Controllers/MerchantCenter/SettingsSyncController.php:91
+msgid "Successfully synchronized settings with Google."
+msgstr "Sincronización correcta de los ajustes con Google."
+
+#: src/API/Site/Controllers/MerchantCenter/TargetAudienceController.php:236
+msgid "Location where products will be shown."
+msgstr "Ubicaciones donde se mostrarán los productos."
+
+#: src/API/Site/Controllers/MerchantCenter/TargetAudienceController.php:176
+msgid "The language to use for product listings."
+msgstr "Idioma que se utilizará para la ficha de los productos."
+
+#: src/API/Site/Controllers/MerchantCenter/TargetAudienceController.php:165
+msgid "The locale for the site."
+msgstr "Configuración regional del sitio."
+
+#: src/API/Site/Controllers/MerchantCenter/TargetAudienceController.php:143
+msgid "Successfully updated the Target Audience settings."
+msgstr "Se actualizó correctamente los ajustes de la audiencia objetivo."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:162
+msgid "Products not uploaded."
+msgstr "Productos no subidos."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:157
+msgid "Disapproved products."
+msgstr "Productos rechazados."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:152
+msgid "Pending products."
+msgstr "Productos pendientes."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:147
+msgid "Expiring products."
+msgstr "Productos caducados."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:142
+msgid "Active products."
+msgstr "Productos activos."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:136
+msgid "Merchant Center product status statistics."
+msgstr "Estadísticas del estado de los productos de Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/ProductStatisticsController.php:130
+msgid "Timestamp reflecting when the product status statistics were last generated."
+msgstr "Marca de tiempo que refleja cuándo se generaron por última vez las estadísticas de estado del producto."
+
+#: src/API/Site/Controllers/MerchantCenter/SettingsController.php:145
+msgid "Whether tax rate is destination based or need to be configured manually in the Merchant Center."
+msgstr "Si la tasa de impuestos está basada en el destino o necesita ser configurada manualmente en el Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/SettingsController.php:132
+msgid "Whether shipping time is a simple flat time or needs to be configured manually in the Merchant Center."
+msgstr "Si el tiempo de envío es un simple tiempo plano o necesita ser configurado manualmente en el Merchant Center."
+
+#: src/API/Site/Controllers/ShippingRateSchemaTrait.php:66
+msgid "Minimum price eligible for free shipping."
+msgstr "Precio mínimo necesario para envío gratuito."
+
+#: src/API/Site/Controllers/MerchantCenter/SettingsController.php:118
+msgid "Whether shipping rate is a simple flat rate or needs to be configured manually in the Merchant Center."
+msgstr "Si la tarifa de envío es una simple tarifa plana o necesita ser configurada manualmente en el Merchant Center."
+
+#: src/API/Site/Controllers/MerchantCenter/SettingsController.php:103
+msgid "Merchant Center Settings successfully updated."
+msgstr "Los ajustes del Merchant Center se han actualizado correctamente."
+
+#. translators: 1: is a website URL (without the protocol)
+#: src/MerchantCenter/AccountService.php:490
+msgid "This Merchant Center account already has a verified and claimed URL, %1$s"
+msgstr "Esta cuenta de Merchant Center ya tiene una URL verificada y reclamada, %1$s"
+
+#: src/MerchantCenter/AccountService.php:409
+msgid "Unable to claim website URL with this Merchant Center Account."
+msgstr "No ha sido posible reclamar la URL del sitio web con esta cuenta de Merchant Center."
+
+#. translators: 1: is a string representing an unknown step name
+#: src/MerchantCenter/AccountService.php:377
+msgid "Unknown merchant account creation step %1$s"
+msgstr "Paso de creación de cuenta comercial desconocido %1$s"
+
+#: src/API/Site/Controllers/MerchantCenter/AccountController.php:233
+msgid "Is a MCA sub account."
+msgstr "Es una subcuenta de MCA (Merchant Center multicliente)"
+
+#: src/API/Site/Controllers/MerchantCenter/AccountController.php:226
+msgid "Merchant Center Account ID."
+msgstr "ID de cuenta de Merchant Center"
+
+#: src/API/Site/Controllers/MerchantCenter/AccountController.php:212
+msgid "Merchant Center account successfully disconnected."
+msgstr "La cuenta de Merchant Center desconectada correctamente."
+
+#: src/MerchantCenter/AccountService.php:186
+msgid "Attempting invalid URL switch."
+msgstr "Intento de cambio de URL no válido."
+
+#: src/MerchantCenter/AccountService.php:209
+msgid "Attempting invalid claim overwrite."
+msgstr "Intento de sobreescritura de reclamación no válida."
+
+#: src/API/Site/Controllers/BatchSchemaTrait.php:33
+#: src/API/Site/Controllers/MerchantCenter/ShippingRateSuggestionsController.php:64
+#: src/API/Site/Controllers/MerchantCenter/TargetAudienceController.php:247
+msgid "Array of country codes in ISO 3166-1 alpha-2 format."
+msgstr "Array de códigos de país en formato ISO 3166-1 alfa-2."
+
+#: src/API/Site/Controllers/BaseReportsController.php:88
+msgid "Token to retrieve the next page."
+msgstr "Token para recuperar la página siguiente."
+
+#: src/API/Site/Controllers/Ads/CampaignController.php:327
+#: src/API/Site/Controllers/BaseReportsController.php:79
+#: src/API/Site/Controllers/MerchantCenter/IssuesController.php:208
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:169
+msgid "Maximum number of rows to be returned in result data."
+msgstr "Número máximo de filas que se devolverán en los datos de resultados."
+
+#: src/API/Site/Controllers/BaseReportsController.php:74
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:165
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:191
+msgid "Sort collection by attribute."
+msgstr "Ordenar la colección por atributo."
+
+#: src/API/Site/Controllers/BaseReportsController.php:67
+#: src/API/Site/Controllers/MerchantCenter/PriceBenchmarksController.php:159
+#: src/API/Site/Controllers/MerchantCenter/ProductFeedController.php:198
+msgid "Order sort attribute ascending or descending."
+msgstr "Orden de clasificación de atributos ascendente o descendente."
+
+#: src/API/Site/Controllers/BaseReportsController.php:58
+msgid "Limit totals to a set of fields."
+msgstr "Limita los totales a un conjunto de campos."
+
+#: src/API/Site/Controllers/BaseReportsController.php:49
+msgid "Limit result to items with specified ids."
+msgstr "Limita el resultado a artículos con IDs específicos."
+
+#: src/API/Site/Controllers/BaseReportsController.php:42
+msgid "Limit response to data before a given ISO8601 compliant date."
+msgstr "Limita la respuesta a los datos anteriores a una fecha determinada que cumpla con ISO8601."
+
+#: src/API/Site/Controllers/BaseReportsController.php:35
+msgid "Limit response to data after a given ISO8601 compliant date."
+msgstr "Limita la respuesta a los datos posteriores a una fecha determinada que cumpla con ISO8601."
+
+#: src/API/Google/AdsCampaignBudget.php:147
+msgid "Invalid campaign budget ID"
+msgstr "ID de presupuesto de campaña no válido"
+
+#. translators: %d Campaign ID
+#: src/API/Google/AdsCampaignBudget.php:131
+msgid "No budget found for campaign %d"
+msgstr "No se encontró presupuesto para la campaña %d"
+
+#: src/API/Google/MerchantReport.php:184
+msgid "Unable to retrieve report data."
+msgstr "No ha sido posible recuperar los datos del informe."
+
+#. translators: %s Error message
+#: src/API/Google/AdsConversionAction.php:157
+msgid "Error retrieving conversion action: %s"
+msgstr "Error al recuperar la acción de conversión: %s"
+
+#. translators: %s Error message
+#: src/API/Google/AdsConversionAction.php:116
+msgid "Error creating conversion action: %s"
+msgstr "Error al crear la acción de conversión: %s"
+
+#: src/API/Google/AdsConversionAction.php:107
+msgid "A conversion action with this name already exists"
+msgstr "Ya existe una acción de conversión con ese nombre"
+
+#. translators: %s Error message
+#: src/API/Google/SiteVerification.php:168
+msgid "Unable to insert site verification: %s"
+msgstr "No ha sido posible insertar la verificación del sitio: %s"
+
+#. translators: %s Error message
+#: src/API/Google/SiteVerification.php:126
+msgid "Unable to retrieve site verification token: %s"
+msgstr "No ha sido posible obtener el token de verificación del sitio: %s"
+
+#: src/API/Google/Connection.php:128
+msgid "Error retrieving status"
+msgstr "Error al recuperar el estado."
+
+#: src/API/Google/Connection.php:123
+msgid "Invalid response when retrieving status"
+msgstr "Respuesta no válida al recuperar el estado"
+
+#: src/API/Google/Connection.php:68 src/API/Google/Connection.php:72
+msgid "Unable to connect Google account"
+msgstr "No ha sido posible conectar a la cuenta de Google"
+
+#: src/API/Google/AdsCampaign.php:663
+msgid "Invalid campaign ID"
+msgstr "ID de campaña no válido"
+
+#. translators: %s Error message
+#: src/API/Google/AdsCampaign.php:368
+msgid "Error deleting campaign: %s"
+msgstr "Error al retirar la campaña: %s"
+
+#: src/API/Google/AdsCampaign.php:371
+msgid "This campaign has already been deleted"
+msgstr "Esta campaña ya ha sido retirada"
+
+#. translators: %s Error message
+#: src/API/Google/AdsCampaign.php:332
+msgid "Error editing campaign: %s"
+msgstr "Error al editar la campaña: %s"
+
+#. translators: %s Error message
+#: src/API/Google/AdsCampaign.php:204
+msgid "Error retrieving campaign: %s"
+msgstr "Error al recuperar la campaña: %s"
+
+#. translators: %s Error message
+#: src/API/Google/AdsCampaign.php:270
+msgid "Error creating campaign: %s"
+msgstr "Error al crear la campaña: %s"
+
+#: src/API/Google/AdsCampaign.php:273
+msgid "A campaign with this name already exists"
+msgstr "Ya existe una campaña con este nombre"
+
+#. translators: %s Error message
+#: src/API/Google/AdsCampaign.php:161
+msgid "Error retrieving campaigns: %s"
+msgstr "Error al recuperar las campañas: %s"
+
+#. translators: %1 is the shipping rate, %2 is the currency (e.g. USD)
+#: src/Shipping/GoogleAdapter/DBShippingSettingsAdapter.php:122
+msgid "Flat rate - %1$s %2$s"
+msgstr "Tarifa plana - %1$s %2$s"
+
+#. translators: %s Error message
+#: src/API/Google/Merchant.php:356
+msgid "Unable to update Merchant Center account: %s"
+msgstr "No se pudo actualizar la cuenta de Merchant Center: %s"
+
+#: src/API/Google/Merchant.php:306
+msgid "Unable to retrieve Merchant Center account status."
+msgstr "No se pudo recuperar el estado de la cuenta de Merchant Center."
+
+#. translators: %s Error message
+#: src/API/Google/Merchant.php:255
+msgid "Unable to retrieve Merchant Center account: %s"
+msgstr "No se pudo recuperar la cuenta de Merchant Center: %s"
+
+#: src/API/Google/Merchant.php:99
+msgid "Website already claimed, use overwrite to complete the process."
+msgstr "Web ya reclamada, utiliza la sobrescritura para completar el proceso."
+
+#: src/API/Google/Merchant.php:105
+msgid "Unable to claim website."
+msgstr "No se puede reclamar la web."
+
+#: src/API/Google/Middleware.php:408
+msgid "Error linking account"
+msgstr "Error al enlazar cuenta"
+
+#: src/API/Google/Middleware.php:402
+msgid "Invalid response when linking account"
+msgstr "Respuesta no válida al enlazar la cuenta"
+
+#: src/API/Google/Middleware.php:306
+msgid "Store country is not supported"
+msgstr "El país de la tienda no es compatible"
+
+#. translators: %s Error message
+#: src/API/Google/Ads.php:85
+msgid "Error retrieving accounts: %s"
+msgstr "Error al recuperar las cuentas: %s"
+
+#: src/API/Google/Middleware.php:287
+msgid "Error claiming website"
+msgstr "Error al reclamar la web"
+
+#: src/API/Google/Middleware.php:280
+msgid "Invalid response when claiming website"
+msgstr "Respuesta no válida al reclamar la web"
+
+#: src/API/Google/Middleware.php:241
+msgid "Error linking merchant to MCA"
+msgstr "Error al enlazar el comercio con MCA"
+
+#: src/API/Google/Middleware.php:235
+msgid "Invalid response when linking merchant to MCA"
+msgstr "Respuesta no válida al enlazar el comercio con MCA"
+
+#: src/API/Google/Middleware.php:167 src/API/Google/Middleware.php:358
+msgid "Error creating account"
+msgstr "Error al crear la cuenta."
+
+#: src/API/Google/Middleware.php:164 src/API/Google/Middleware.php:352
+msgid "Invalid response when creating account"
+msgstr "Respuesta no válida al crear la cuenta"
+
+#: src/API/Google/Middleware.php:99 src/API/Google/SiteVerification.php:59
+#: src/MerchantCenter/AccountService.php:462
+msgid "Invalid site URL."
+msgstr "URL del sitio no válida."
+
+#: src/API/Google/Middleware.php:94 src/API/Google/Middleware.php:312
+msgid "Unable to log accepted TOS"
+msgstr "No ha sido posible registrar las aceptaciones de las condiciones del servicio."
+
+#: src/API/Google/Middleware.php:77
+msgid "Error retrieving accounts"
+msgstr "Error al recuperar las cuentas"
+
+#. translators: 1: is a link to a support document. 2: closing link
+#: src/Autoloader.php:63
+msgid "Your installation of Google for WooCommerce is incomplete. If you installed from GitHub, %1$splease refer to this document%2$s to set up your development environment."
+msgstr "Tu instalación de Google for WooCommerce está incompleta. Si lo has instalado desde GitHub, por favor, %1$sconsulta este documento%2$s para configurar tu entorno de desarrollo."
+
+#: src/Autoloader.php:51
+msgid "Your installation of Google for WooCommerce is incomplete. If you installed from GitHub, please refer to this document to set up your development environment: https://github.com/woocommerce/woocommerce/wiki/How-to-set-up-WooCommerce-development-environment"
+msgstr "Tu instalación de Google for WooCommerce está incompleta. Si lo has instalado desde GitHub, por favor, consulta este documento para configurar tu entorno de desarrollo: https://github.com/woocommerce/woocommerce/wiki/How-to-set-up-WooCommerce-development-environment"
+
+#. translators: 1 is the required component, 2 is the minimum required version,
+#. 3 is the version in use on the site
+#: src/Exception/InvalidVersion.php:40
+msgid "Google for WooCommerce requires %1$s version %2$s or higher. You are using version %3$s."
+msgstr "Google for WooCommerce necesita la versión %2$s o superior de %1$s. Estás usando la versión %3$s."
+
+#. Author URI of the plugin
+#: google-listings-and-ads.php
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#. Author of the plugin
+#: google-listings-and-ads.php js/build/index.js:19
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Description of the plugin
+#: google-listings-and-ads.php src/MultichannelMarketing/GLAChannel.php:113
+msgid "Native integration with Google that allows merchants to easily display their products across Google’s network."
+msgstr "Integración nativa con Google que permite a los vendedores mostrar fácilmente sus productos a través de la red de Google."

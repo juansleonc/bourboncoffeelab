@@ -1,0 +1,7 @@
+
+.mi-icon[data-v-2dfff0ed] {
+	display: inline-block;
+	width: var(--mi-icon-width);
+	height: var(--mi-icon-height);
+	object-fit: contain;
+}

@@ -1,0 +1,202 @@
+// Form elements
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], textarea, select, .form-control, .form-select, button, .button, input[type=submit], .submit, .btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: getFont(primary);
+  font-size: 15px;
+  line-height: inherit;
+  padding: .5rem .9375rem;
+  height: getSize(form-height);
+  border-radius: 4px;
+  &::placeholder {
+    color: getColor(form-placeholder);
+  }
+}
+
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], textarea, select, .form-control, .form-select {
+  width: 100%;
+  border: 1px solid getColor(form-border);
+  &:focus, &:active {
+    border-color: getColor(form-active);
+    box-shadow: none;
+  }
+  &.line {
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom-width: 2px;
+    border-radius: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+select {
+  cursor: pointer;
+	appearance: none;
+	background: #fff url("data:image/svg+xml;utf8,<svg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M6 9L12 15L18 9' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/></svg>") calc(100% - 5px) 12px no-repeat;
+  background-size: 18px 15px;
+	padding-right: 1.875rem;
+  &:focus, &:active {
+    outline: none;
+    box-shadow: none;
+  }
+}
+
+button, .button, input[type=submit], .submit, .btn {
+  font-weight: 500;
+  border: 1px solid getColor(form-border);
+  cursor: pointer;
+  i {
+    position: relative;
+    font-size: 1.125rem;
+    margin-left: .625rem;
+    top: 1px;
+  }
+  &:hover {
+    color: #fff;
+    border-color: getColor(form-active);
+    background-color: getColor(form-active);
+  }
+  &:focus, &:active {
+    box-shadow: none;
+    outline: none;
+  }
+  &.transparent {
+    background-color: transparent!important;
+    &.btn-white {
+      border-color: #000;
+      &:hover {
+        background-color: #000!important;
+      }
+    }
+    &.btn-primary {
+      color: getColor(primary);
+      &:hover {
+        color: #fff;
+        background-color: getColor(primary)!important;
+      }
+    }
+    &.btn-secondary {
+      color: getColor(secondary);
+      &:hover {
+        color: #fff;
+        background-color: getColor(secondary)!important;
+      }
+    }
+    &.btn-success {
+      color: getColor(success);
+      &:hover {
+        color: #fff;
+        background-color: getColor(success)!important;
+      }
+    }
+    &.btn-warning {
+      color: getColor(warning);
+      &:hover {
+        color: #fff;
+        background-color: getColor(warning)!important;
+      }
+    }
+    &.btn-danger {
+      color: getColor(danger);
+      &:hover {
+        color: #fff;
+        background-color: getColor(danger)!important;
+      }
+    }
+  }
+  &.square {
+    border-radius: 0;
+  }
+  &.rounded {
+    border-radius: 3.75rem!important;
+  }
+  &.btn-primary {
+    background-color: getColor(primary);
+    border-color: getColor(primary);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-secondary {
+    background-color: getColor(secondary);
+    border-color: getColor(secondary);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-third {
+    background-color: getColor(third);
+    border-color: getColor(third);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-info {
+    background-color: getColor(info);
+    border-color: getColor(info);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-success {
+    background-color: getColor(success);
+    border-color: getColor(success);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-danger {
+    background-color: getColor(danger);
+    border-color: getColor(danger);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-warning {
+    background-color: getColor(warning);
+    border-color: getColor(warning);
+    &:hover {
+      opacity: .8;
+    }
+  }
+  &.btn-white {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+    &:hover {
+      color: #fff;
+      background-color: #000;
+      border-color: #000;
+    }
+  }
+  &.btn-dark {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+    &:hover {
+      background-color: #444;
+      border-color: #444;
+
+    }
+  }
+  &.link {
+    height: auto;
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    color: currentColor;
+  }
+  &:disabled {
+    pointer-events: none;
+  }
+  &.icon-left {
+    i {
+      margin-left: 0;
+      margin-right: .625rem;
+    }
+  }
+}

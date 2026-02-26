@@ -1,0 +1,771 @@
+# Translation of Plugins - Kirki Customizer Framework - Stable (latest release) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Kirki Customizer Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-20 01:44:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Kirki Customizer Framework - Stable (latest release)\n"
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "Error"
+msgstr "Error"
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "You do not have permission to install plugin updates"
+msgstr "No tienes permiso para instalar actualizaciones de plugins"
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:252
+msgid "Update now."
+msgstr "Actualizar ahora."
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:241
+msgid "%1$sView version %2$s details%3$s or %4$supdate now%5$s."
+msgstr "%1$sVer los detalles de la versión %2$s%3$s o %4$sactualizar ahora%5$s."
+
+#. translators: 1. opening anchor tag, do not translate 2. the new plugin
+#. version 3. closing anchor tag, do not translate.
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:233
+msgid "%1$sView version %2$s details%3$s."
+msgstr "%1$sVer los detalles de la versión %2$s%3$s."
+
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:228
+msgid "Contact your network administrator to install the update."
+msgstr "Contacta con tu administrador de red para instalar la actualización."
+
+#. translators: the plugin name.
+#: customizer/packages/controls/tabs/edd/EDD_SL_Plugin_Updater.php:222
+msgid "There is a new version of %1$s available."
+msgstr "Hay una nueva versión de %1$s disponible."
+
+#: customizer/packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr "Ajustes"
+
+#: customizer/packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr "El framework de personalización #1 para los desarrolladores de temas para WordPress."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:34
+msgid "The following article provides a detailed explanation of the Clear Font Cache option in Kirki."
+msgstr "El siguiente artículo ofrece una explicación detallada de la opción borrar caché de fuentes en Kirki."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Para más información, consulta la documentación de tu tema."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:27
+#: customizer/packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr "Documentación"
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:20
+msgid "It provides advanced customization options within the WordPress Customizer, allowing you to easily modify the appearance of your site."
+msgstr "Proporciona opciones avanzadas de personalización dentro del Personalizador de WordPress, permitiéndote modificar fácilmente la apariencia de tu sitio."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki es un componente clave del tema de WordPress que tienes instalado."
+
+#: customizer/packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "¿Por qué veo esto?"
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Vaciar la caché"
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Es seguro utilizarlo en sitios de producción."
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid "If Google Fonts selected in the Customizer are not displayed correctly, please try clearing the font cache."
+msgstr "Si las Google Fonts seleccionadas en el Personalizador no se muestran correctamente, prueba a borrar la caché de fuentes."
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid "In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on your server."
+msgstr "Para cumplir la normativa GDPR, Kirki almacena Google Fonts localmente en tu servidor."
+
+#: customizer/packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Vaciar caché de fuentes"
+
+#: customizer/packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#: customizer/packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "El aviso de descuento ha sido descartado"
+
+#: customizer/packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "No tienes las capacidades para realizar esta acción."
+
+#: customizer/packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "Nonce no válido"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: kirki.php
+msgid "https://www.themeum.com"
+msgstr "https://www.themeum.com"
+
+#. Author of the plugin
+#: kirki.php
+msgid "Themeum"
+msgstr "Themeum"
+
+#. translators: %s is the limit of selection number.
+#: customizer/packages/controls/react-select/src/Control/ReactSelect.php:168
+msgid "You can only select %s items"
+msgstr "Solo puedes seleccionar %s elementos"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "Valores por defecto"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Ondulado"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Continuo"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "Color de fuente"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Variante de fuente"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:124
+#: customizer/packages/fields/typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:120
+#: customizer/packages/fields/typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:116
+#: customizer/packages/fields/typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Italic"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:112
+#: customizer/packages/fields/typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Regular"
+
+#: customizer/packages/controls/react-select/src/Control/ReactSelect.php:161
+msgid "Select..."
+msgstr "Seleccionar..."
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:116
+msgid "Miscellaneous"
+msgstr "Varios"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Avisos"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Widgets"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Productos"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Social"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Ordenación"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Edición de imágenes"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Medios"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Formato de la publicación"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Pantalla de bienvenida"
+
+#: customizer/packages/controls/dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Menú de administración"
+
+#: customizer/packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "No mostrar de nuevo"
+
+#: customizer/packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Instalar plugin"
+
+#: customizer/packages/compatibility/src/Init.php:257
+msgid "Your theme uses a Font Awesome field for icons. To avoid issues with missing icons on your frontend we recommend you install the official Font Awesome plugin."
+msgstr "Tu tema usa Font Awesome para los íconos. Para evitar problemas con íconos que no se muestran, te recomendamos instalar el plugin oficial de Font Awesome."
+
+#. Description of the plugin
+#: kirki.php
+msgid "The Ultimate WordPress Customizer Framework"
+msgstr "El framework definitivo para el personalizador de WordPress"
+
+#. Plugin Name of the plugin
+#: kirki.php customizer/packages/settings/src/SetupSettings.php:54
+#: customizer/packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: customizer/packages/controls/image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Elegir imagen"
+
+#: customizer/packages/controls/image/src/Control/Image.php:82
+#: customizer/packages/controls/image/src/Field/Image.php:115
+#: customizer/packages/controls/image/dist/control.js:1
+msgid "No image selected"
+msgstr "No se ha seleccionado ninguna imagen"
+
+#: customizer/packages/controls/image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Cambiar la imagen"
+
+#: customizer/packages/controls/image/src/Control/Image.php:89
+#: customizer/packages/controls/image/src/Field/Image.php:111
+#: customizer/packages/controls/image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Seleccionar imagen"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Tachado"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Raya superior"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Subrayado"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Fuentes estándar"
+
+#: customizer/packages/compatibility/src/deprecated/functions.php:20
+msgid "%1$s or %2$s"
+msgstr "%1$s o %2$s"
+
+#: customizer/packages/compatibility/src/Kirki.php:191
+msgid "Kirki fields should not be added on customize_register. Please add them directly, or on init."
+msgstr "Los campos de Kirki no deben agregarse en customize_register. Añádelos directamente, o en init."
+
+#: customizer/packages/compatibility/src/Init.php:206
+msgid "We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr "Hemos detectado que estás usando `Kirki\\Compatibility\\Init::get_variables()`. Por favor, usa `\\Kirki\\Util\\Util::get_variables()` en su lugar."
+
+#. translators: The field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:521
+#: customizer/packages/compatibility/src/Field.php:532
+#: customizer/packages/modules/css/src/CSS.php:133
+#: customizer/packages/modules/css/src/CSS.php:144
+#: customizer/packages/modules/postmessage/src/Postmessage.php:69
+msgid "\"output\" invalid format in field %s. The \"output\" argument should be defined as an array of arrays."
+msgstr "Formato no válido de \"output\" en el campo %s. El argumento \"output\" debe ser definido como un array de arrays."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:395
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "Entrada \"partial_refresh\" no válida en el campo %s."
+
+#. translators: %1$s represents the field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:378
+msgid "Typo found in field %s - \"theme_mods\" vs \"theme_mod\""
+msgstr "Se ha encontrado una errata en el campo %s: \"theme_mods\" en lugar de \"theme_mod\"."
+
+#. translators: %1$s represents the field ID where the error occurs. %2$s is
+#. the URL in the documentation site.
+#: customizer/packages/compatibility/src/Field.php:279
+msgid "Config not defined for field %1$s - See %2$s for details on how to properly add fields."
+msgstr "Configuración no definida para el campo %1$s. Consulta %2$s para obtener detalles sobre cómo agregar campos correctamente."
+
+#. translators: %s represents the field ID where the error occurs.
+#: customizer/packages/compatibility/src/Field.php:268
+msgid "Typo found in field %s - setting instead of settings."
+msgstr "Se ha encontrado una errata en el campo %s: setting en lugar de settings."
+
+#: customizer/packages/controls/image/src/Control/Image.php:87
+#: customizer/packages/controls/image/src/Field/Image.php:113
+#: customizer/packages/fields/typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "Por defecto"
+
+#. translators: The title.
+#: customizer/packages/modules/sections/src/Section_Types/Nested.php:65
+msgid "Customizing &#9656; %s"
+msgstr "Personalizar &#9656; %s"
+
+#: customizer/packages/modules/sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Personalizar"
+
+#: customizer/packages/controls/checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Desactivado"
+
+#: customizer/packages/controls/checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "Activado"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Margen inferior"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Margen superior"
+
+#. translators: %s represents the label of the row.
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:104
+msgid "Add new %s"
+msgstr "Agregar nueva %s"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ancho"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "Espaciado entre palabras"
+
+#: customizer/packages/fields/background/src/Background.php:196
+msgid "Auto"
+msgstr "Automático"
+
+#: customizer/lib/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Aviso importante de actualización:"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:475
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "No se ha seleccionado ningún archivo"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:486
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Cambiar archivo"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:486
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Agregar archivo"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "fila"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Selecciona una página"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Inicial"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Iniciales en mayúscula"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:362
+#: customizer/packages/fields/typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Ninguna"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Transformación del texto"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Alineación del texto"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "Justificar."
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:69
+#: customizer/packages/fields/typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "Centrar"
+
+#. translators: %s represents the number of rows we're limiting the repeater to
+#. allow.
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:275
+msgid "Limit: %s rows"
+msgstr "Límite: %s filas"
+
+#: customizer/packages/controls/dimension/src/Control/Dimension.php:67
+#: customizer/packages/fields/dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr "Valor no válido"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Negro 900 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:182
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Negro 900"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Muy negrita 800 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:179
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Muy negrita 800"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Negrita 700 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Negrita 700"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Seminegrita 600 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:174
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Seminegrita 600"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Medio 500 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Medio 500"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:169
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Claro 300 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Claro 300"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "Muy claro 200 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "Muy claro 200"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Delgado 100 cursiva"
+
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:162
+#: customizer/packages/modules/webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Delgado 100"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Altura"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Tamaño"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "Estilo de fuente"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:443
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "No se ha seleccionado ninguna imagen"
+
+#: customizer/packages/controls/image/src/Control/Image.php:85
+#: customizer/packages/controls/image/src/Field/Image.php:114
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:453
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:485
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Eliminar"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:454
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Cambiar Imagen"
+
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:454
+#: customizer/packages/controls/repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Agregar imagen"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:68
+#: customizer/packages/fields/typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Derecha"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:67
+#: customizer/packages/fields/typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "Izquierda"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Abajo"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Arriba"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:63
+#: customizer/packages/fields/typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "Espaciado entre caracteres"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:61
+#: customizer/packages/fields/typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "Alto de línea"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:59
+#: customizer/packages/fields/typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "Tama&ntilde;o de fuente"
+
+#: customizer/packages/fields/dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: customizer/packages/fields/typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "Familia de fuente"
+
+#: customizer/packages/fields/background/src/Background.php:152
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: customizer/packages/fields/background/src/Background.php:161
+#: customizer/packages/fields/dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "Centro abajo"
+
+#: customizer/packages/fields/background/src/Background.php:160
+#: customizer/packages/fields/dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "Centro centro"
+
+#: customizer/packages/fields/background/src/Background.php:159
+#: customizer/packages/fields/dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "Centro arriba"
+
+#: customizer/packages/fields/background/src/Background.php:164
+#: customizer/packages/fields/dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "Derecha abajo"
+
+#: customizer/packages/fields/background/src/Background.php:163
+#: customizer/packages/fields/dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "Derecha centro"
+
+#: customizer/packages/fields/background/src/Background.php:162
+#: customizer/packages/fields/dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "Derecha arriba"
+
+#: customizer/packages/fields/background/src/Background.php:158
+#: customizer/packages/fields/dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "Izquierda abajo"
+
+#: customizer/packages/fields/background/src/Background.php:157
+#: customizer/packages/fields/dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "Izquierda centro"
+
+#: customizer/packages/fields/background/src/Background.php:156
+#: customizer/packages/fields/dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "Izquierda arriba"
+
+#: customizer/packages/fields/background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Adjunto del fondo"
+
+#: customizer/packages/fields/background/src/Background.php:227
+msgid "Scroll"
+msgstr "Desplazamiento"
+
+#: customizer/packages/fields/background/src/Background.php:228
+msgid "Fixed"
+msgstr "Fijo"
+
+#: customizer/packages/fields/background/src/Background.php:190
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+#: customizer/packages/fields/background/src/Background.php:195
+msgid "Contain"
+msgstr "Contener"
+
+#: customizer/packages/fields/background/src/Background.php:194
+msgid "Cover"
+msgstr "Cubrir"
+
+#: customizer/packages/fields/background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: customizer/packages/fields/background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: customizer/packages/fields/background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: customizer/packages/fields/background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Repetir todo"
+
+#: customizer/packages/fields/background/src/Background.php:123
+msgid "No Repeat"
+msgstr "Sin repetición"
+
+#: customizer/packages/fields/background/src/Background.php:103
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: customizer/packages/fields/background/src/Background.php:84
+msgid "Background Color"
+msgstr "Color de fondo"

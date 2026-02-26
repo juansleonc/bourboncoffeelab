@@ -1,0 +1,110 @@
+.klbtheme-empty,
+.klbtheme-terms + select:not(.klbtheme-select),
+.klbtheme-term.klbtheme-disabled:after,
+.klbtheme-term.klbtheme-disabled:before {
+    display: none !important;
+}
+.klbtheme-term.klbtheme-disabled {
+    opacity: .4;
+    cursor: default;
+}
+
+.klbtheme-variations {
+    margin-bottom: 20px;
+}
+.variations .klbtheme-variations-items + .klbtheme-variations-items {
+    margin-top: 10px;
+}
+
+.klbtheme-term {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+}
+
+.klbtheme-type-color .klbtheme-term{
+    height: auto;
+    width: auto;
+    min-height: 26px;
+    min-width: 26px;
+    border-radius: 100%;
+    background-color: gray;
+	margin: 5px;
+}
+
+.klbtheme-type-color .klbtheme-term:first-child {
+    margin-left: 0;
+}
+
+.klbtheme-type-color span.klbtheme-term.klbtheme-selected {
+    box-shadow: 0 0 0 2px #ee403d;
+    border: 2px solid #fff;
+}
+
+.klbtheme-type-image .klbtheme-term {
+    height: 42px;
+    width: 42px;
+}
+
+.klbtheme-type-image .klbtheme-term img {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.klbtheme-type-color .klbtheme-term {
+    font-size: 0;
+}
+.klbtheme-type-button .klbtheme-term {
+    font-size: 12px;
+}
+
+
+.klbtheme-type-button span.klbtheme-term {
+    width: calc(20% - 10px * 4 / 5);
+    border-radius: 0;
+    border: 1px solid #ddd;
+    padding: 9px 8px;
+    height: auto;
+    line-height: 1;
+    margin: 4px 8px 4px 0;
+	font-size: 15px;
+}
+
+.klbtheme-type-button span.klbtheme-term.klbtheme-selected {
+    background: #ee403d;
+    color: #fff;
+    border-color: #ee403d;
+}
+
+table.variations span.selected-value img {
+    display: none;
+}
+
+.klbtheme-type-image span.klbtheme-term.klbtheme-selected {
+    border: 1px solid #ee403d;
+}
+
+.single-product table.variations tr {
+    display: block;
+}
+
+.single-product .variations td, .single-product .variations th {
+    border: none;
+    padding: 0;
+}
+
+.single-product-wrapper .single-product .variations td.value {
+    display: block;
+}
+
+.single-product table.variations tr + tr {
+    margin-top: 15px;
+}
+
+.single-product table.variations th.label label {
+    margin-bottom: 1rem;
+    font-weight: 400;
+}

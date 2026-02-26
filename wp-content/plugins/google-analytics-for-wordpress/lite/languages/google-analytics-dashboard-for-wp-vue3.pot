@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "%1$s - %2$s"
+msgstr ""
+
+msgid "%1$sPlus%2$s, upgrading to %5$s will unlock %1$sall%2$s advanced reports, tracking, and integrations. %3$sLearn more about %5$s%4$s"
+msgstr ""
+
+msgid "10+ eCommerce Integrations"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activating"
+msgstr ""
+
+msgid "Activating Addon"
+msgstr ""
+
+msgid "Activation failed"
+msgstr ""
+
+msgid "Activation Failed"
+msgstr ""
+
+msgid "Active Users"
+msgstr ""
+
+msgid "Add new Custom View"
+msgstr ""
+
+msgid "Addon Activated"
+msgstr ""
+
+msgid "Addon Activation Error"
+msgstr ""
+
+msgid "Addon activation failed"
+msgstr ""
+
+msgid "Addon Activation Failed"
+msgstr ""
+
+msgid "Addon Deactivation Error"
+msgstr ""
+
+msgid "Addon deactivation failed"
+msgstr ""
+
+msgid "Addon Deactivation Failed"
+msgstr ""
+
+msgid "Addon Installation Error"
+msgstr ""
+
+msgid "Addon installation failed"
+msgstr ""
+
+msgid "Addon Installation Failed"
+msgstr ""
+
+msgid "AJAX request failed"
+msgstr ""
+
+msgid "All in One SEO (TruSEO Score)"
+msgstr ""
+
+msgid "An error occurred while dismissing the notification."
+msgstr ""
+
+msgid "An error occurred while fetching notifications."
+msgstr ""
+
+msgid "An error occurred."
+msgstr ""
+
+msgid "An unexpected error occurred"
+msgstr ""
+
+msgid "An unexpected error occurred while fetching addons."
+msgstr ""
+
+msgid "An unknown error occurred during license verification."
+msgstr ""
+
+msgid "An unknown error occurred while deactivating license."
+msgstr ""
+
+msgid "An unknown error occurred while deactivating your expired license."
+msgstr ""
+
+msgid "An unknown error occurred while fetching license."
+msgstr ""
+
+msgid "An unknown error occurred while getting your upgrade link."
+msgstr ""
+
+msgid "An unknown error occurred while validating license."
+msgstr ""
+
+msgid "And more!"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Area Chart"
+msgstr ""
+
+msgid "Author Tracking"
+msgstr ""
+
+msgid "Average Order Value"
+msgstr ""
+
+msgid "Average revenue per session"
+msgstr ""
+
+msgid "Average revenue per user"
+msgstr ""
+
+msgid "Avg Session Duration"
+msgstr ""
+
+msgid "Back to Inbox"
+msgstr ""
+
+msgid "Bar Chart"
+msgstr ""
+
+msgid "Blank Dashboard"
+msgstr ""
+
+msgid "Bounce Rate"
+msgstr ""
+
+msgid "Browser"
+msgstr ""
+
+msgid "Build unlimited custom dashboards"
+msgstr ""
+
+msgid "Campaign"
+msgstr ""
+
+msgid "Can't load authentication details. Error: %1$s, %2$s."
+msgstr ""
+
+msgid "Can't load errors."
+msgstr ""
+
+msgid "Can't save settings. Error: %1$s, %2$s."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Channel"
+msgstr ""
+
+msgid "Channel Grouping"
+msgstr ""
+
+msgid "Choose from 20+ designed templates"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "column"
+msgstr ""
+
+msgid "columns"
+msgstr ""
+
+msgid "Connect ExactMetrics"
+msgstr ""
+
+msgid "Conversion Counts"
+msgstr ""
+
+msgid "Conversion Rate"
+msgstr ""
+
+msgid "Conversion Rates"
+msgstr ""
+
+msgid "Conversions"
+msgstr ""
+
+msgid "Could not activate the addon."
+msgstr ""
+
+msgid "Could not deactivate the addon."
+msgstr ""
+
+msgid "Could not install the addon."
+msgstr ""
+
+msgid "Could not install the plugin."
+msgstr ""
+
+msgid "Could not install WPForms."
+msgstr ""
+
+msgid "Could not retrieve addon data."
+msgstr ""
+
+msgid "Could Not Save Changes"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Create a New Dashboard"
+msgstr ""
+
+msgid "Create Your Perfect Analytics Dashboard"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Current Period"
+msgstr ""
+
+msgid "Custom Dashboard"
+msgstr ""
+
+msgid "Custom dates:"
+msgstr ""
+
+msgid "Custom Dimensions"
+msgstr ""
+
+msgid "Custom Report"
+msgstr ""
+
+msgid "Customize Breakdown"
+msgstr ""
+
+msgid "Customize Metrics"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Data Error"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Range"
+msgstr ""
+
+msgid "Deactivation failed"
+msgstr ""
+
+msgid "Delete Card"
+msgstr ""
+
+msgid "Delete View"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device Category"
+msgstr ""
+
+msgid "Dimensions Report"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "Dismiss All"
+msgstr ""
+
+msgid "Dismiss Notification Network Error"
+msgstr ""
+
+msgid "Dismissed"
+msgstr ""
+
+msgid "Drag-and-drop widgets"
+msgstr ""
+
+msgid "eCommerce Dashboard"
+msgstr ""
+
+msgid "ECommerce Purchases"
+msgstr ""
+
+msgid "eCommerce Report"
+msgstr ""
+
+msgid "Edit Breakdown"
+msgstr ""
+
+msgid "Edit Metrics"
+msgstr ""
+
+msgid "Edit View"
+msgstr ""
+
+msgid "Empty response from server when trying to get upgrade link."
+msgstr ""
+
+msgid "Engaged Sessions"
+msgstr ""
+
+msgid "Engagement Rate"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error de-authenticating"
+msgstr ""
+
+msgid "Error Deactivating Expired License"
+msgstr ""
+
+msgid "Error Deactivating License"
+msgstr ""
+
+msgid "Error Deleting View"
+msgstr ""
+
+msgid "Error Fetching Addons"
+msgstr ""
+
+msgid "Error Fetching License"
+msgstr ""
+
+msgid "Error Fetching Metrics"
+msgstr ""
+
+msgid "Error Fetching Remote Gtag"
+msgstr ""
+
+msgid "Error getting auth redirect"
+msgstr ""
+
+msgid "Error getting re-auth redirect"
+msgstr ""
+
+msgid "Error Getting Upgrade Link"
+msgstr ""
+
+msgid "Error loading auth details"
+msgstr ""
+
+msgid "Error loading chart data"
+msgstr ""
+
+msgid "Error loading data"
+msgstr ""
+
+msgid "Error Loading Data"
+msgstr ""
+
+msgid "Error loading report data"
+msgstr ""
+
+msgid "Error Loading Settings"
+msgstr ""
+
+msgid "Error loading table data"
+msgstr ""
+
+msgid "Error Loading Templates"
+msgstr ""
+
+msgid "Error Loading Views"
+msgstr ""
+
+msgid "Error Saving Settings"
+msgstr ""
+
+msgid "Error Saving View"
+msgstr ""
+
+msgid "Error updating Measurement Protocol Secret"
+msgstr ""
+
+msgid "Error Updating Metrics"
+msgstr ""
+
+msgid "Error Updating Order"
+msgstr ""
+
+msgid "Error updating V4 code"
+msgstr ""
+
+msgid "Error Validating License"
+msgstr ""
+
+msgid "Error verifying auth"
+msgstr ""
+
+msgid "Error Verifying License"
+msgstr ""
+
+msgid "Error: Report container not found."
+msgstr ""
+
+msgid "Event Count"
+msgstr ""
+
+msgid "Event Name"
+msgstr ""
+
+msgid "Export dashboards as PDF reports"
+msgstr ""
+
+msgid "Export PDF Report"
+msgstr ""
+
+msgid "Failed to activate"
+msgstr ""
+
+msgid "Failed to delete custom view"
+msgstr ""
+
+msgid "Failed to generate PDF. See console for details."
+msgstr ""
+
+msgid "Failed to install"
+msgstr ""
+
+msgid "Failed to load custom views"
+msgstr ""
+
+msgid "Failed to load dashboard data"
+msgstr ""
+
+msgid "Failed to load templates"
+msgstr ""
+
+msgid "Failed to save custom view"
+msgstr ""
+
+msgid "Failed to update view order"
+msgstr ""
+
+msgid "Fetch Metrics Error"
+msgstr ""
+
+msgid "Fetch Notifications Network Error"
+msgstr ""
+
+msgid "Fetch Settings Error"
+msgstr ""
+
+msgid "Focus Keywords"
+msgstr ""
+
+msgid "Forms Report"
+msgstr ""
+
+msgid "has been successfully activated. The page will reload in a moment to complete the setup."
+msgstr ""
+
+msgid "Impression Counts"
+msgstr ""
+
+msgid "Improve Your Conversion Rate With Insights Into Which Content Works Best"
+msgstr ""
+
+msgid "In order for the ExactMetrics Google AMP addon to work properly, please ask your webmaster to install the WordPress AMP plugin by Automattic. %1$sLearn More%2$s"
+msgstr ""
+
+msgid "In order for the ExactMetrics Google AMP addon to work properly, you need to install the WordPress AMP plugin by Automattic. %1$s%2$s Plugin%3$s | %4$sLearn More%5$s"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Increase Engagement and Unlock New Insights About Your Site"
+msgstr ""
+
+msgid "Increase Sales and Make More Money With Enhanced eCommerce Insights"
+msgstr ""
+
+msgid "Info Card"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installation failed"
+msgstr ""
+
+msgid "Installation Failed"
+msgstr ""
+
+msgid "Installed & Active"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Installing & Activating"
+msgstr ""
+
+msgid "Installing Addon"
+msgstr ""
+
+msgid "Internal server error occurred"
+msgstr ""
+
+msgid "Invalid response format"
+msgstr ""
+
+msgid "Invalid response structure for fetchAddons"
+msgstr ""
+
+msgid "It looks like your ExactMetrics connection has expired. Please reconnect to continue viewing your analytics data."
+msgstr ""
+
+msgid "Key Events"
+msgstr ""
+
+msgid "Key Metrics"
+msgstr ""
+
+msgid "Landing Page"
+msgstr ""
+
+msgid "Last 30 days"
+msgstr ""
+
+msgid "Last 7 days"
+msgstr ""
+
+msgid "Last 90 days"
+msgstr ""
+
+msgid "Last Month"
+msgstr ""
+
+msgid "Last Week"
+msgstr ""
+
+msgid "Launch Setup Wizard"
+msgstr ""
+
+msgid "Line Chart"
+msgstr ""
+
+msgid "Lite"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Loading Settings"
+msgstr ""
+
+msgid "Loading templates..."
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Marketer Dashboard"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "My Custom View"
+msgstr ""
+
+msgid "My New View"
+msgstr ""
+
+msgid "New Dashboard"
+msgstr ""
+
+msgid "New Users"
+msgstr ""
+
+msgid "New View"
+msgstr ""
+
+msgid "No data available"
+msgstr ""
+
+msgid "No Notifications"
+msgstr ""
+
+msgid "No template provided"
+msgstr ""
+
+msgid "No view to save"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Number of Transactions"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oops! There was an error, your settings were not saved. Please try again. If the issue persists, please %1$scontact our support%2$s team."
+msgstr ""
+
+msgid "Oops! There was an error, your settings were not saved. Please try again. If the issue persists, please %1$scontact our support%2$s team. Error: %3$s"
+msgstr ""
+
+msgid "Oops! There was an issue deactivating your expired license, please try again. If the issue persists, please %1$scontact our support team%2$s."
+msgstr ""
+
+msgid "Oops! There was an issue deactivating your license, please try again. If the issue persists, please %1$scontact our support team%2$s."
+msgstr ""
+
+msgid "Oops! There was an issue fetching your license details, please try again. If the issue persists, please %1$scontact our support team%2$s."
+msgstr ""
+
+msgid "Oops! There was an issue getting your upgrade link, please try again. If the issue persists, please %1$scontact our support team%2$s."
+msgstr ""
+
+msgid "Oops! There was an issue validating your license, please try again. If the issue persists, please %1$scontact our support team%2$s."
+msgstr ""
+
+msgid "Oops! There was an issue verifying your license, please try again. If the issue persists, please %1$scontact our support team%2$s."
+msgstr ""
+
+msgid "Oops! We can't authenticate. Error: %1$s, %2$s."
+msgstr ""
+
+msgid "Oops! We can't reauthenticate. Error: %1$s, %2$s."
+msgstr ""
+
+msgid "Oops! We can't verify credentials. Error: %1$s, %2$s."
+msgstr ""
+
+msgid "Oops! We can't verify deauthentication. Error: %1$s, %2$s."
+msgstr ""
+
+msgid "Operating System"
+msgstr ""
+
+msgid "Page %1$d of %2$d"
+msgstr ""
+
+msgid "Page Path"
+msgstr ""
+
+msgid "Page Title"
+msgstr ""
+
+msgid "Page Views"
+msgstr ""
+
+msgid "Page Views/User"
+msgstr ""
+
+msgid "Pie Chart"
+msgstr ""
+
+msgid "Please %1$scontact our support%2$s team for assistance. Error: %3$s"
+msgstr ""
+
+msgid "Please connect ExactMetrics to Google Analytics to see your analytics data."
+msgstr ""
+
+msgid "Please try again."
+msgstr ""
+
+msgid "Plugin Installation Error"
+msgstr ""
+
+msgid "Plugin installation failed"
+msgstr ""
+
+#. Keep or adjust error context as needed
+#. Keep or adjust error context
+msgid "Plugin Installation Failed"
+msgstr ""
+
+msgid "Post Types"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Previous Period"
+msgstr ""
+
+msgid "Pro"
+msgstr ""
+
+msgid "Publish Times"
+msgstr ""
+
+msgid "Publisher Dashboard"
+msgstr ""
+
+msgid "Publishers Report"
+msgstr ""
+
+msgid "Purchases"
+msgstr ""
+
+msgid "Rank Math SEO Score"
+msgstr ""
+
+msgid "Reactivate License"
+msgstr ""
+
+msgid "Received no data from API."
+msgstr ""
+
+msgid "Received no or invalid data for metrics."
+msgstr ""
+
+msgid "Reconnect ExactMetrics"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Rename View"
+msgstr ""
+
+msgid "Rename Widget"
+msgstr ""
+
+msgid "Renew Now"
+msgstr ""
+
+msgid "Revenue"
+msgstr ""
+
+msgid "Revenue/Sales"
+msgstr ""
+
+msgid "Saving Changes..."
+msgstr ""
+
+msgid "Scroll Depth"
+msgstr ""
+
+msgid "Security Error"
+msgstr ""
+
+msgid "Security nonce is missing"
+msgstr ""
+
+msgid "See a Sample Report"
+msgstr ""
+
+msgid "Select how you want to break down your data:"
+msgstr ""
+
+msgid "SEO Score (Generic)"
+msgstr ""
+
+msgid "SEO Scores"
+msgstr ""
+
+msgid "Session Duration"
+msgstr ""
+
+msgid "Sessions"
+msgstr ""
+
+msgid "Sessions per user"
+msgstr ""
+
+msgid "Sessions to Purchase"
+msgstr ""
+
+msgid "Set Custom Date Range"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr ""
+
+msgid "Share custom dashboards with your team"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show Compact View"
+msgstr ""
+
+msgid "Show Comparison"
+msgstr ""
+
+msgid "Show Extended View"
+msgstr ""
+
+msgid "Small Business Dashboard"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Start building your dashboard by dragging widgets here"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Tag Tracking"
+msgstr ""
+
+msgid "The requested resource was not found"
+msgstr ""
+
+msgid "There was an error saving your settings. Please try again."
+msgstr ""
+
+msgid "Time to Purchase"
+msgstr ""
+
+msgid "To ensure tracking works properly, reactivate your license"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Top Affilliate Links"
+msgstr ""
+
+msgid "Top Conversion Sources"
+msgstr ""
+
+msgid "Top Download Links"
+msgstr ""
+
+msgid "Top Exit Pages"
+msgstr ""
+
+msgid "Top Landing Pages"
+msgstr ""
+
+msgid "Top Outbound Links"
+msgstr ""
+
+msgid "Top Products"
+msgstr ""
+
+msgid "Total Revenue"
+msgstr ""
+
+msgid "Total Users"
+msgstr ""
+
+msgid "Track Every Type of Web Form and Gain Visibility Into Your Customer Journey"
+msgstr ""
+
+msgid "Track metrics that matter most"
+msgstr ""
+
+msgid "Traffic"
+msgstr ""
+
+msgid "Traffic Source"
+msgstr ""
+
+msgid "Try Again"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Upgrade Now"
+msgstr ""
+
+msgid "Upgrade to %s"
+msgstr ""
+
+msgid "Upgrade to Plus"
+msgstr ""
+
+msgid "Upgrade to Pro"
+msgstr ""
+
+msgid "User ID Tracking"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "View Dismissed"
+msgstr ""
+
+msgid "View Full Report"
+msgstr ""
+
+msgid "View not found"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "vs. Previous %s Days"
+msgstr ""
+
+msgid "vs. Previous 30 Days"
+msgstr ""
+
+msgid "vs. Previous Day"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "What's in the %s?"
+msgstr ""
+
+msgid "WordPress AJAX is not available"
+msgstr ""
+
+msgid "WPForms Installation Error"
+msgstr ""
+
+msgid "WPForms installation failed"
+msgstr ""
+
+msgid "WPForms Installation Failed"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Yoast SEO Score"
+msgstr ""
+
+msgid "You appear to be offline. Please check your connection."
+msgstr ""
+
+msgid "You do not have permission to access this resource"
+msgstr ""
+
+msgid "You need to %1$sconnect ExactMetrics%2$s first"
+msgstr ""
+
+msgid "You're viewing sample data. %sUpgrade to %s%s to unlock real analytics for your website."
+msgstr ""
+
+msgid "Your Custom View is Empty"
+msgstr ""
+
+msgid "Your license has expired."
+msgstr ""
+
+msgid "Your license key for ExactMetrics has been disabled. Please use a different key."
+msgstr ""
+
+msgid "Your license key for ExactMetrics is invalid. The key no longer exists or the user associated with the key has been deleted. Please use a different key."
+msgstr ""
+
+msgid "Your settings have been saved successfully."
+msgstr ""

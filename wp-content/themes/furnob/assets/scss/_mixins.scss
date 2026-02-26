@@ -1,0 +1,119 @@
+// Breakpoint Sizes
+$breakpoints: (
+	320: 20rem, // breakpoint 320px
+  420: 26.25rem, // breakpoint 420px
+  576: 36rem, // breakpoint 576px
+  768: 48rem, // breakpoint 768px
+  992: 62rem, // breakpoint 992px
+	1024: 64.0625rem, // breakpoint 1024px
+  1200: 75rem, // breakpoint 1200px
+  1400: 87.5rem // breakpoint 1400px
+);
+
+// Min Breakpoint
+@mixin min-break($breakpoint) {
+	@if map-has-key($breakpoints , $breakpoint) {
+		$breakpoint-value: map-get(
+			$breakpoints,
+			$breakpoint
+		);
+		@media screen and (min-width: $breakpoint-value) {
+			@content;
+		}
+	} @else {
+		@warn "Invalid breakpoint: #{$breakpoint}.";
+	}
+}
+
+// Max Breakpoint
+@mixin max-break($breakpoint) {
+	@if map-has-key($breakpoints , $breakpoint) {
+		$breakpoint-value: map-get(
+			$breakpoints,
+			$breakpoint
+		);
+		@media screen and (max-width: $breakpoint-value) {
+			@content;
+		}
+	} @else {
+		@warn "Invalid breakpoint: #{$breakpoint}.";
+	}
+}
+
+// Cubic Bezier
+$bezier: cubic-bezier(.28,.12,.22,1);
+$bezier-second: cubic-bezier(.17,.62,.44,.99);
+
+// Root Settings
+:root {
+  @each $key, $value in map-get($themeRoot, 'color') {
+    --color-#{$key}: #{$value};
+  }
+}
+:root {
+  @each $key, $value in map-get($themeRoot, 'font') {
+    --font-#{$key}: #{inspect($value)};
+	}
+}
+
+:root {
+	@each $key, $value in map-get($themeRoot, 'size') {
+    --size-#{$key}: #{inspect($value)};
+  }
+}
+
+@function getColor($color-name) {
+  @return var(--color-#{$color-name});
+}
+
+@function getFont($font-name) {
+  @return var(--font-#{$font-name});
+}
+
+@function getSize($size-name) {
+  @return var(--size-#{$size-name});
+}
+
+// Margin and Padding Settings
+$spaceamounts: (0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100, 110, 120, 130 ,140, 150, 160, 165, 170, 180, 190, 200, 250);
+$sides: (top, bottom, left, right);
+
+@each $space in $spaceamounts {
+	@each $side in $sides {
+		.m#{str-slice($side, 0, 1)}-#{$space} {
+			margin-#{$side}: #{$space}px !important;
+		}
+
+		.p#{str-slice($side, 0, 1)}-#{$space} {
+			padding-#{$side}: #{$space}px !important;
+		}
+		@media (min-width: 62rem) {
+			.d-m#{str-slice($side, 0, 1)}-#{$space} {
+				margin-#{$side}: #{$space}px !important;
+			}
+	
+			.d-p#{str-slice($side, 0, 1)}-#{$space} {
+				padding-#{$side}: #{$space}px !important;
+			}
+		}
+	}
+}
+
+// Animations
+@keyframes rotate {
+  100% { transform: rotate(360deg); }
+}
+@keyframes dash {
+  0% {
+    stroke-dasharray: 1, 150;
+    stroke-dashoffset: 0;
+  }
+  50% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -35;
+  }
+  100% {
+    stroke-dasharray: 90, 150;
+    stroke-dashoffset: -124;
+  }
+}

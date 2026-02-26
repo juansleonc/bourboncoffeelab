@@ -1,0 +1,215 @@
+.klb-product360-btn{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+.klb-product360-btn a{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    min-width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background: rgba(255,255,255,.9);
+    box-shadow: 0 0 5px rgb(0 0 0 / 8%);
+    color: rgba(0,0,0,.7);
+    font-size: 13px;
+	text-decoration: none;
+}
+
+.klb-product360-btn span {
+    overflow: hidden;
+    padding: 0;
+    max-width: 0;
+    white-space: nowrap;
+    font-weight: 600;
+    transition: padding 0.4s cubic-bezier(.175,.885,.32,1.15),max-width 0.4s cubic-bezier(.175,.885,.32,1.15);
+}
+
+.klb-product360-btn a:hover span {
+    padding-right: 25px;
+    max-width: 280px;
+}
+
+.klb-product360-btn a:before {
+    font-family: "klbtheme";
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: '\e81e';
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 50px;
+}
+
+.klb-single-video + .klb-product360-btn {
+    bottom: 70px;
+}
+
+.klb-single-video + a.woocommerce-product-gallery__trigger + .klb-product360-btn {
+    bottom: 140px;
+}
+
+a.woocommerce-product-gallery__trigger + .klb-product360-btn {
+    bottom: 70px;
+}
+
+.klb-360-view {
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+	cursor: ew-resize;
+	cursor: -webkit-grab;
+}
+.klb-360-view:active {
+	cursor: ew-resize;
+	cursor: -webkit-grabbing;
+}
+.klb-360-view .klb-360-title {
+	position: relative;
+	z-index: 40;
+	padding-top: 20px;
+	text-align: center; 
+}
+.klb-360-view .klb-360-view-images {
+	display: none;
+	backface-visibility: hidden;
+	-webkit-backface-visibility: hidden;
+	perspective: 800px;
+	-webkit-perspective: 800px;
+	list-style: none;
+}
+.klb-360-view .klb-360-view-images img {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	height: auto;
+	transform: translateX(-50%); 
+}
+.klb-360-view .klb-360-view-images img.previous-image {
+	visibility: hidden; 
+}
+.klb-360-view .klb-360-view-images img.current-image {
+	visibility: visible; 
+}
+.klb-360-view .spinner {
+	display: block;
+	margin: 0 auto;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, 0.7);
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+	color: #000;
+	text-align: center;
+	font-weight: bolder;
+	line-height: 60px; 
+}
+.klb-360-view .spinner span {
+	line-height: 60px; 
+}
+.klb-360-view .nav_bar {
+	position: absolute;
+	bottom: 30px;
+	left: 50%;
+	z-index: 11;
+	margin-left: -42px;
+	background-color: #fff;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15); 
+}
+.klb-360-view .nav_bar a {
+	display: inline-block;
+	width: 42px;
+	height: 45px;
+    color: var(--color-text-light);
+	text-align: center;
+	text-decoration: none;
+	font-size: 0;
+	line-height: 45px; 
+}
+.klb-360-view .nav_bar a:after {
+	font-weight: 700;
+	font-size: 16px; 
+}
+.klb-360-view .nav_bar a.nav_bar_play,
+.klb-360-view .nav_bar a.nav_bar_stop {
+	display: none; 
+}
+.klb-360-view .nav_bar a.nav_bar_previous:after {
+	content: '\e817';
+    font-family: "klbtheme";
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 25px;
+}
+.klb-360-view .nav_bar a.nav_bar_next:after {
+    content: '\e818';
+    font-family: "klbtheme";
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 25px;
+}
+
+#product360-view button.mfp-close {
+    color: #333 !important;
+	background: none !important;
+}
+
+.mfp-fade.mfp-bg {
+	opacity: 0;
+	-webkit-transition: all 0.15s ease-out;
+	-moz-transition: all 0.15s ease-out;
+	transition: all 0.15s ease-out;
+}
+/* overlay animate in */
+.mfp-fade.mfp-bg.mfp-ready {
+	opacity: 0.8;
+}
+/* overlay animate out */
+.mfp-fade.mfp-bg.mfp-removing {
+	opacity: 0;
+}
+
+/* content at start */
+.mfp-fade.mfp-wrap .mfp-content {
+	opacity: 0;
+	-webkit-transition: all 0.15s ease-out;
+	-moz-transition: all 0.15s ease-out;
+	transition: all 0.15s ease-out;
+}
+/* content animate it */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+	opacity: 1;
+}
+/* content animate out */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+	opacity: 0;
+}

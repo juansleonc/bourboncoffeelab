@@ -1,0 +1,62 @@
+a.remove-filter-element:before,a.remove-filter-element:after {
+    content: " ";
+    width: 10px;
+    height: 2px;
+    position: absolute;
+    left: 0;
+    top: 9px;
+    display: inline-block;
+    background-color: #222;
+	-webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+
+a.remove-filter-element {
+    position: relative;
+    padding-left: 15px;
+	color: #555 !important;
+    font-size: 0.8125rem;
+    font-weight: 500;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a.remove-filter-element:before {
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+a.remove-filter-element:after {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+}
+
+a.remove-filter-element:hover:before,
+a.remove-filter-element:hover:after {
+    -webkit-transform: rotate(0);
+    -ms-transform: rotate(0);
+    transform: rotate(0);
+}
+
+.filters-container .nav-tabs.nav-tab-box {
+    display: inline-block;
+}
+
+ul.remove-filter {
+    display: inline-block;
+    border: medium none;
+	list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+ul.remove-filter li {
+    float: left;
+    margin-right: 10px;
+}
+
+ul.remove-filter:before,ul.remove-filter:after {content: '';display: table;clear: both;}

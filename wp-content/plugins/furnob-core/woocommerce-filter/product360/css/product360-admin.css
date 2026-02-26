@@ -1,0 +1,94 @@
+div#woocommerce-product360-images .inside {
+    padding: 0;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container {
+    padding: 0 0 0 9px;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul {
+    margin: 0;
+    padding: 0;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul:before,
+#woocommerce-product360-images .inside #product_360_images_container ul:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul li.image {
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    margin: 9px 9px 0 0;
+    width: 80px;
+    border: 1px solid #d5d5d5;
+    border-radius: 2px;
+    background: #f7f7f7;
+    cursor: move;
+}
+
+
+#woocommerce-product360-images .inside #product_360_images_container ul li.image img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul ul.actions {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    display: none;
+    padding: 2px;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul li:hover ul.actions {
+    display: block;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul ul.actions li {
+    float: right;
+    margin: 0 0 0 2px;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul ul.actions li a.delete {
+    position: relative;
+    display: block;
+    width: 1em;
+    height: 1em;
+    text-indent: -9999px;
+    font-size: 1.4em;
+}
+
+#woocommerce-product360-images .inside .add_product_360_images {
+    padding: 0 12px 12px;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul ul.actions li a.delete:before {
+    content: "\f153";
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background: #fff;
+    color: #999;
+    text-align: center;
+    text-indent: 0;
+    text-transform: none;
+    font-weight: 400;
+    font-variant: normal;
+    font-family: Dashicons;
+    line-height: 1;
+    speak: none;
+	cursor: pointer;
+}
+
+#woocommerce-product360-images .inside #product_360_images_container ul ul.actions li a.delete:hover:before {
+    color: #a00;
+}

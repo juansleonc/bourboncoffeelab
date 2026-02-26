@@ -1,0 +1,56 @@
+# ============================
+# WordPress .gitignore
+# Bourbon Coffee Lab
+# ============================
+
+# === Sensitive files ===
+wp-config.php
+.private/
+.htaccess.bk
+
+# === Database dumps ===
+*.sql
+*.sql.gz
+
+# === Uploads (images, media - backup separately) ===
+wp-content/uploads/
+
+# === Logs ===
+wp-content/uploads/wc-logs/
+wp-content/debug.log
+error_log
+*.log
+
+# === Backups ===
+wp-content/ai1wm-backups/
+*.wpress
+
+# === Cache and temp files ===
+wp-content/cache/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/upgrade/
+wp-content/backups/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# === IDE / Editor ===
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# === Docker (local dev) ===
+# Keep docker-compose.yml but ignore volumes/data
+docker-data/
+
+# === Node (if any build tools) ===
+node_modules/
+
+# === Claude Code ===
+.claude/

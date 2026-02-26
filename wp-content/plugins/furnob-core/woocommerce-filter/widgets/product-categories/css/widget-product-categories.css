@@ -1,0 +1,49 @@
+span.subDropdown.minus:before {
+    content: '\e82a';
+    position: absolute;
+    color: #636363;
+    top: 2px;
+    right: 0;
+    font-family: "klbtheme";
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    cursor: pointer;
+}
+
+span.subDropdown.plus:before {
+    content: '\e829';
+    position: absolute;
+    color: #636363;
+    top: 2px;
+    right: 0;
+    font-family: "klbtheme";
+    font-style: normal;
+    font-weight: normal;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    cursor: pointer;
+}
+
+.widget.widget_klb_product_categories ul.children {
+    display: none;
+}
