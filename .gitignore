@@ -27,10 +27,15 @@ wp-content/ai1wm-backups/
 
 # === Cache and temp files ===
 wp-content/cache/
+wp-content/boost-cache/
+wp-content/litespeed/
 wp-content/advanced-cache.php
 wp-content/wp-cache-config.php
 wp-content/upgrade/
 wp-content/backups/
+
+# === Documentation (internal, not for deployment) ===
+docs/
 
 # === OS files ===
 .DS_Store

@@ -26,3 +26,18 @@ function furnob_child_enqueue_styles() {
 }
 
 add_action(  'wp_enqueue_scripts', 'furnob_child_enqueue_styles', 99 );
+
+/*************************************************
+## Fix: Related Products int casting (WC 10.x strict typing)
+## Parent theme passes string '4' to woocommerce_related_products(),
+## but WC 10.x requires int parameters.
+*************************************************/
+remove_action( 'woocommerce_after_single_product_summary', 'furnob_related_products', 20 );
+add_action( 'woocommerce_after_single_product_summary', 'furnob_child_related_products', 20 );
+function furnob_child_related_products() {
+    $related_column = (int) get_theme_mod( 'furnob_shop_related_post_column', 4 );
+    woocommerce_related_products( array(
+        'posts_per_page' => $related_column,
+        'columns'        => $related_column,
+    ) );
+}
